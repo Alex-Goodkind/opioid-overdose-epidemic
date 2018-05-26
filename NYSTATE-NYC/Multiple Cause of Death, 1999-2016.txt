@@ -1,0 +1,706 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Albany County, NY"	"36001"	"1999"	"1999"	14	239547	Unreliable
+	"Albany County, NY"	"36001"	"2000"	"2000"	15	239540	Unreliable
+	"Albany County, NY"	"36001"	"2001"	"2001"	21	241967	8.7
+	"Albany County, NY"	"36001"	"2002"	"2002"	19	244355	Unreliable
+	"Albany County, NY"	"36001"	"2003"	"2003"	20	247455	8.1
+	"Albany County, NY"	"36001"	"2004"	"2004"	20	249192	8.0
+	"Albany County, NY"	"36001"	"2005"	"2005"	23	250900	9.2
+	"Albany County, NY"	"36001"	"2006"	"2006"	37	252787	14.6
+	"Albany County, NY"	"36001"	"2007"	"2007"	53	253399	20.9
+	"Albany County, NY"	"36001"	"2008"	"2008"	49	254010	19.3
+	"Albany County, NY"	"36001"	"2009"	"2009"	38	255263	14.9
+	"Albany County, NY"	"36001"	"2010"	"2010"	48	255148	18.8
+	"Albany County, NY"	"36001"	"2011"	"2011"	57	255742	22.3
+	"Albany County, NY"	"36001"	"2012"	"2012"	41	257955	15.9
+	"Albany County, NY"	"36001"	"2013"	"2013"	65	259510	25.0
+	"Albany County, NY"	"36001"	"2014"	"2014"	71	260657	27.2
+	"Albany County, NY"	"36001"	"2015"	"2015"	56	261970	21.4
+	"Albany County, NY"	"36001"	"2016"	"2016"	46	261698	17.6
+	"Bronx County, NY"	"36005"	"1999"	"1999"	326	984889	33.1
+	"Bronx County, NY"	"36005"	"2000"	"2000"	302	995335	30.3
+	"Bronx County, NY"	"36005"	"2001"	"2001"	356	1010106	35.2
+	"Bronx County, NY"	"36005"	"2002"	"2002"	325	1022928	31.8
+	"Bronx County, NY"	"36005"	"2003"	"2003"	342	1030803	33.2
+	"Bronx County, NY"	"36005"	"2004"	"2004"	311	1034128	30.1
+	"Bronx County, NY"	"36005"	"2005"	"2005"	319	1035790	30.8
+	"Bronx County, NY"	"36005"	"2006"	"2006"	382	1039202	36.8
+	"Bronx County, NY"	"36005"	"2007"	"2007"	358	1049309	34.1
+	"Bronx County, NY"	"36005"	"2008"	"2008"	326	1060353	30.7
+	"Bronx County, NY"	"36005"	"2009"	"2009"	334	1073996	31.1
+	"Bronx County, NY"	"36005"	"2010"	"2010"	293	1084141	27.0
+	"Bronx County, NY"	"36005"	"2011"	"2011"	323	1087824	29.7
+	"Bronx County, NY"	"36005"	"2012"	"2012"	348	1102316	31.6
+	"Bronx County, NY"	"36005"	"2013"	"2013"	349	1113043	31.4
+	"Bronx County, NY"	"36005"	"2014"	"2014"	359	1130655	31.8
+	"Bronx County, NY"	"36005"	"2015"	"2015"	452	1146184	39.4
+	"Bronx County, NY"	"36005"	"2016"	"2016"	526	1148167	45.8
+	"Broome County, NY"	"36007"	"1999"	"1999"	14	162397	Unreliable
+	"Broome County, NY"	"36007"	"2000"	"2000"	18	162308	Unreliable
+	"Broome County, NY"	"36007"	"2002"	"2002"	21	164399	12.8
+	"Broome County, NY"	"36007"	"2003"	"2003"	27	164709	16.4
+	"Broome County, NY"	"36007"	"2004"	"2004"	23	165270	13.9
+	"Broome County, NY"	"36007"	"2005"	"2005"	18	165556	Unreliable
+	"Broome County, NY"	"36007"	"2006"	"2006"	23	166629	13.8
+	"Broome County, NY"	"36007"	"2007"	"2007"	31	167058	18.6
+	"Broome County, NY"	"36007"	"2008"	"2008"	39	167548	23.3
+	"Broome County, NY"	"36007"	"2009"	"2009"	33	167648	19.7
+	"Broome County, NY"	"36007"	"2010"	"2010"	37	167652	22.1
+	"Broome County, NY"	"36007"	"2011"	"2011"	47	166864	28.2
+	"Broome County, NY"	"36007"	"2012"	"2012"	46	166213	27.7
+	"Broome County, NY"	"36007"	"2013"	"2013"	56	165672	33.8
+	"Broome County, NY"	"36007"	"2014"	"2014"	57	165581	34.4
+	"Broome County, NY"	"36007"	"2015"	"2015"	64	165163	38.7
+	"Broome County, NY"	"36007"	"2016"	"2016"	110	164198	67.0
+	"Cattaraugus County, NY"	"36009"	"2007"	"2007"	15	65287	Unreliable
+	"Cattaraugus County, NY"	"36009"	"2008"	"2008"	13	65190	Unreliable
+	"Cattaraugus County, NY"	"36009"	"2009"	"2009"	11	64970	Unreliable
+	"Cattaraugus County, NY"	"36009"	"2010"	"2010"	12	64950	Unreliable
+	"Cattaraugus County, NY"	"36009"	"2011"	"2011"	11	64721	Unreliable
+	"Cattaraugus County, NY"	"36009"	"2012"	"2012"	17	64513	Unreliable
+	"Cattaraugus County, NY"	"36009"	"2013"	"2013"	16	64141	Unreliable
+	"Cattaraugus County, NY"	"36009"	"2014"	"2014"	13	64004	Unreliable
+	"Cattaraugus County, NY"	"36009"	"2015"	"2015"	24	63565	37.8
+	"Cattaraugus County, NY"	"36009"	"2016"	"2016"	26	63294	41.1
+	"Cayuga County, NY"	"36011"	"2006"	"2006"	14	66042	Unreliable
+	"Cayuga County, NY"	"36011"	"2008"	"2008"	13	66291	Unreliable
+	"Cayuga County, NY"	"36011"	"2009"	"2009"	12	66021	Unreliable
+	"Cayuga County, NY"	"36011"	"2010"	"2010"	14	66077	Unreliable
+	"Cayuga County, NY"	"36011"	"2011"	"2011"	20	66094	30.3
+	"Cayuga County, NY"	"36011"	"2012"	"2012"	23	66123	34.8
+	"Cayuga County, NY"	"36011"	"2013"	"2013"	24	66240	36.2
+	"Cayuga County, NY"	"36011"	"2014"	"2014"	11	65816	Unreliable
+	"Cayuga County, NY"	"36011"	"2015"	"2015"	21	65532	32.0
+	"Cayuga County, NY"	"36011"	"2016"	"2016"	21	65165	32.2
+	"Chautauqua County, NY"	"36013"	"1999"	"1999"	13	111905	Unreliable
+	"Chautauqua County, NY"	"36013"	"2001"	"2001"	13	111600	Unreliable
+	"Chautauqua County, NY"	"36013"	"2002"	"2002"	11	111520	Unreliable
+	"Chautauqua County, NY"	"36013"	"2003"	"2003"	14	111230	Unreliable
+	"Chautauqua County, NY"	"36013"	"2004"	"2004"	11	111272	Unreliable
+	"Chautauqua County, NY"	"36013"	"2006"	"2006"	23	110929	20.7
+	"Chautauqua County, NY"	"36013"	"2007"	"2007"	30	111098	27.0
+	"Chautauqua County, NY"	"36013"	"2008"	"2008"	23	110929	20.7
+	"Chautauqua County, NY"	"36013"	"2009"	"2009"	18	111052	Unreliable
+	"Chautauqua County, NY"	"36013"	"2010"	"2010"	29	110924	26.1
+	"Chautauqua County, NY"	"36013"	"2011"	"2011"	24	110782	21.7
+	"Chautauqua County, NY"	"36013"	"2012"	"2012"	24	110391	21.7
+	"Chautauqua County, NY"	"36013"	"2013"	"2013"	29	110206	26.3
+	"Chautauqua County, NY"	"36013"	"2014"	"2014"	38	109581	34.7
+	"Chautauqua County, NY"	"36013"	"2015"	"2015"	35	108894	32.1
+	"Chautauqua County, NY"	"36013"	"2016"	"2016"	53	107768	49.2
+	"Chemung County, NY"	"36015"	"2000"	"2000"	11	72858	Unreliable
+	"Chemung County, NY"	"36015"	"2001"	"2001"	13	72847	Unreliable
+	"Chemung County, NY"	"36015"	"2006"	"2006"	15	72387	Unreliable
+	"Chemung County, NY"	"36015"	"2008"	"2008"	17	72284	Unreliable
+	"Chemung County, NY"	"36015"	"2009"	"2009"	20	72556	27.6
+	"Chemung County, NY"	"36015"	"2010"	"2010"	14	72532	Unreliable
+	"Chemung County, NY"	"36015"	"2011"	"2011"	22	72696	30.3
+	"Chemung County, NY"	"36015"	"2012"	"2012"	31	72675	42.7
+	"Chemung County, NY"	"36015"	"2013"	"2013"	24	72422	33.1
+	"Chemung County, NY"	"36015"	"2014"	"2014"	18	71791	Unreliable
+	"Chemung County, NY"	"36015"	"2015"	"2015"	25	71381	35.0
+	"Chemung County, NY"	"36015"	"2016"	"2016"	32	71017	45.1
+	"Chenango County, NY"	"36017"	"2014"	"2014"	10	40893	Unreliable
+	"Chenango County, NY"	"36017"	"2015"	"2015"	11	40532	Unreliable
+	"Chenango County, NY"	"36017"	"2016"	"2016"	10	40331	Unreliable
+	"Clinton County, NY"	"36019"	"2006"	"2006"	11	69007	Unreliable
+	"Clinton County, NY"	"36019"	"2007"	"2007"	11	69203	Unreliable
+	"Clinton County, NY"	"36019"	"2008"	"2008"	18	69233	Unreliable
+	"Clinton County, NY"	"36019"	"2009"	"2009"	11	69369	Unreliable
+	"Clinton County, NY"	"36019"	"2010"	"2010"	13	69365	Unreliable
+	"Clinton County, NY"	"36019"	"2011"	"2011"	18	69423	Unreliable
+	"Clinton County, NY"	"36019"	"2013"	"2013"	19	69284	Unreliable
+	"Clinton County, NY"	"36019"	"2014"	"2014"	16	69387	Unreliable
+	"Clinton County, NY"	"36019"	"2015"	"2015"	23	69222	33.2
+	"Clinton County, NY"	"36019"	"2016"	"2016"	18	69142	Unreliable
+	"Columbia County, NY"	"36021"	"2009"	"2009"	11	52797	Unreliable
+	"Columbia County, NY"	"36021"	"2012"	"2012"	11	52822	Unreliable
+	"Columbia County, NY"	"36021"	"2013"	"2013"	16	52865	Unreliable
+	"Columbia County, NY"	"36021"	"2014"	"2014"	13	52987	Unreliable
+	"Columbia County, NY"	"36021"	"2015"	"2015"	14	52607	Unreliable
+	"Columbia County, NY"	"36021"	"2016"	"2016"	20	52375	38.2
+	"Cortland County, NY"	"36023"	"2015"	"2015"	15	40783	Unreliable
+	"Cortland County, NY"	"36023"	"2016"	"2016"	10	40489	Unreliable
+	"Delaware County, NY"	"36025"	"2009"	"2009"	13	40645	Unreliable
+	"Delaware County, NY"	"36025"	"2010"	"2010"	10	40527	Unreliable
+	"Delaware County, NY"	"36025"	"2011"	"2011"	10	40251	Unreliable
+	"Delaware County, NY"	"36025"	"2014"	"2014"	10	39797	Unreliable
+	"Delaware County, NY"	"36025"	"2015"	"2015"	12	39537	Unreliable
+	"Delaware County, NY"	"36025"	"2016"	"2016"	19	39127	Unreliable
+	"Dutchess County, NY"	"36027"	"1999"	"1999"	11	219330	Unreliable
+	"Dutchess County, NY"	"36027"	"2000"	"2000"	11	221475	Unreliable
+	"Dutchess County, NY"	"36027"	"2001"	"2001"	13	225718	Unreliable
+	"Dutchess County, NY"	"36027"	"2002"	"2002"	14	228766	Unreliable
+	"Dutchess County, NY"	"36027"	"2003"	"2003"	16	232086	Unreliable
+	"Dutchess County, NY"	"36027"	"2004"	"2004"	20	234809	8.5
+	"Dutchess County, NY"	"36027"	"2005"	"2005"	20	237331	8.4
+	"Dutchess County, NY"	"36027"	"2006"	"2006"	42	238657	17.6
+	"Dutchess County, NY"	"36027"	"2007"	"2007"	53	240254	22.1
+	"Dutchess County, NY"	"36027"	"2008"	"2008"	47	242109	19.4
+	"Dutchess County, NY"	"36027"	"2009"	"2009"	61	243482	25.1
+	"Dutchess County, NY"	"36027"	"2010"	"2010"	71	244903	29.0
+	"Dutchess County, NY"	"36027"	"2011"	"2011"	51	246520	20.7
+	"Dutchess County, NY"	"36027"	"2012"	"2012"	76	246917	30.8
+	"Dutchess County, NY"	"36027"	"2013"	"2013"	91	248381	36.6
+	"Dutchess County, NY"	"36027"	"2014"	"2014"	70	248887	28.1
+	"Dutchess County, NY"	"36027"	"2015"	"2015"	83	249179	33.3
+	"Dutchess County, NY"	"36027"	"2016"	"2016"	85	248943	34.1
+	"Erie County, NY"	"36029"	"1999"	"1999"	68	759845	8.9
+	"Erie County, NY"	"36029"	"2000"	"2000"	62	758707	8.2
+	"Erie County, NY"	"36029"	"2001"	"2001"	83	757996	10.9
+	"Erie County, NY"	"36029"	"2002"	"2002"	58	757960	7.7
+	"Erie County, NY"	"36029"	"2003"	"2003"	60	758973	7.9
+	"Erie County, NY"	"36029"	"2004"	"2004"	56	758891	7.4
+	"Erie County, NY"	"36029"	"2005"	"2005"	50	757127	6.6
+	"Erie County, NY"	"36029"	"2006"	"2006"	125	755472	16.5
+	"Erie County, NY"	"36029"	"2007"	"2007"	160	755125	21.2
+	"Erie County, NY"	"36029"	"2008"	"2008"	172	756171	22.7
+	"Erie County, NY"	"36029"	"2009"	"2009"	151	757062	19.9
+	"Erie County, NY"	"36029"	"2010"	"2010"	137	758298	18.1
+	"Erie County, NY"	"36029"	"2011"	"2011"	197	759942	25.9
+	"Erie County, NY"	"36029"	"2012"	"2012"	181	762096	23.8
+	"Erie County, NY"	"36029"	"2013"	"2013"	218	763898	28.5
+	"Erie County, NY"	"36029"	"2014"	"2014"	240	766756	31.3
+	"Erie County, NY"	"36029"	"2015"	"2015"	392	767758	51.1
+	"Erie County, NY"	"36029"	"2016"	"2016"	394	767118	51.4
+	"Essex County, NY"	"36031"	"2009"	"2009"	10	33405	Unreliable
+	"Essex County, NY"	"36031"	"2013"	"2013"	14	33434	Unreliable
+	"Essex County, NY"	"36031"	"2014"	"2014"	10	33407	Unreliable
+	"Essex County, NY"	"36031"	"2015"	"2015"	10	33371	Unreliable
+	"Essex County, NY"	"36031"	"2016"	"2016"	13	33121	Unreliable
+	"Franklin County, NY"	"36033"	"2012"	"2012"	15	43359	Unreliable
+	"Franklin County, NY"	"36033"	"2014"	"2014"	14	42832	Unreliable
+	"Franklin County, NY"	"36033"	"2015"	"2015"	19	42335	Unreliable
+	"Franklin County, NY"	"36033"	"2016"	"2016"	13	42297	Unreliable
+	"Fulton County, NY"	"36035"	"2010"	"2010"	10	45627	Unreliable
+	"Fulton County, NY"	"36035"	"2011"	"2011"	10	45473	Unreliable
+	"Fulton County, NY"	"36035"	"2012"	"2012"	17	45369	Unreliable
+	"Fulton County, NY"	"36035"	"2016"	"2016"	15	45028	Unreliable
+	"Genesee County, NY"	"36037"	"2007"	"2007"	10	48947	Unreliable
+	"Genesee County, NY"	"36037"	"2009"	"2009"	11	49258	Unreliable
+	"Genesee County, NY"	"36037"	"2015"	"2015"	16	49101	Unreliable
+	"Genesee County, NY"	"36037"	"2016"	"2016"	24	48645	49.3
+	"Greene County, NY"	"36039"	"2006"	"2006"	11	41245	Unreliable
+	"Greene County, NY"	"36039"	"2007"	"2007"	12	41434	Unreliable
+	"Greene County, NY"	"36039"	"2009"	"2009"	13	41700	Unreliable
+	"Greene County, NY"	"36039"	"2010"	"2010"	10	41681	Unreliable
+	"Greene County, NY"	"36039"	"2011"	"2011"	12	41624	Unreliable
+	"Greene County, NY"	"36039"	"2012"	"2012"	14	41589	Unreliable
+	"Greene County, NY"	"36039"	"2014"	"2014"	13	41310	Unreliable
+	"Greene County, NY"	"36039"	"2015"	"2015"	13	41057	Unreliable
+	"Greene County, NY"	"36039"	"2016"	"2016"	14	41024	Unreliable
+	"Herkimer County, NY"	"36043"	"2005"	"2005"	10	52206	Unreliable
+	"Herkimer County, NY"	"36043"	"2009"	"2009"	12	52845	Unreliable
+	"Herkimer County, NY"	"36043"	"2010"	"2010"	11	52961	Unreliable
+	"Herkimer County, NY"	"36043"	"2013"	"2013"	13	53101	Unreliable
+	"Herkimer County, NY"	"36043"	"2015"	"2015"	14	52241	Unreliable
+	"Herkimer County, NY"	"36043"	"2016"	"2016"	15	51835	Unreliable
+	"Jefferson County, NY"	"36045"	"2006"	"2006"	11	90285	Unreliable
+	"Jefferson County, NY"	"36045"	"2007"	"2007"	17	91568	Unreliable
+	"Jefferson County, NY"	"36045"	"2008"	"2008"	13	91369	Unreliable
+	"Jefferson County, NY"	"36045"	"2009"	"2009"	17	90525	Unreliable
+	"Jefferson County, NY"	"36045"	"2010"	"2010"	12	91182	Unreliable
+	"Jefferson County, NY"	"36045"	"2011"	"2011"	28	92591	30.2
+	"Jefferson County, NY"	"36045"	"2012"	"2012"	24	94570	25.4
+	"Jefferson County, NY"	"36045"	"2013"	"2013"	27	93901	28.8
+	"Jefferson County, NY"	"36045"	"2014"	"2014"	25	93646	26.7
+	"Jefferson County, NY"	"36045"	"2015"	"2015"	26	92835	28.0
+	"Jefferson County, NY"	"36045"	"2016"	"2016"	38	90543	42.0
+	"Kings County, NY"	"36047"	"1999"	"1999"	521	1893475	27.5
+	"Kings County, NY"	"36047"	"2000"	"2000"	449	1910184	23.5
+	"Kings County, NY"	"36047"	"2001"	"2001"	502	1929627	26.0
+	"Kings County, NY"	"36047"	"2002"	"2002"	423	1939563	21.8
+	"Kings County, NY"	"36047"	"2003"	"2003"	447	1942125	23.0
+	"Kings County, NY"	"36047"	"2004"	"2004"	446	1940047	23.0
+	"Kings County, NY"	"36047"	"2005"	"2005"	431	1939851	22.2
+	"Kings County, NY"	"36047"	"2006"	"2006"	437	1939799	22.5
+	"Kings County, NY"	"36047"	"2007"	"2007"	399	1951004	20.5
+	"Kings County, NY"	"36047"	"2008"	"2008"	388	1971045	19.7
+	"Kings County, NY"	"36047"	"2009"	"2009"	377	1996059	18.9
+	"Kings County, NY"	"36047"	"2010"	"2010"	372	2011548	18.5
+	"Kings County, NY"	"36047"	"2011"	"2011"	403	2033447	19.8
+	"Kings County, NY"	"36047"	"2012"	"2012"	404	2059750	19.6
+	"Kings County, NY"	"36047"	"2013"	"2013"	427	2080987	20.5
+	"Kings County, NY"	"36047"	"2014"	"2014"	438	2102647	20.8
+	"Kings County, NY"	"36047"	"2015"	"2015"	477	2116430	22.5
+	"Kings County, NY"	"36047"	"2016"	"2016"	587	2112135	27.8
+	"Livingston County, NY"	"36051"	"2008"	"2008"	10	54789	Unreliable
+	"Livingston County, NY"	"36051"	"2010"	"2010"	11	54749	Unreliable
+	"Livingston County, NY"	"36051"	"2012"	"2012"	13	54715	Unreliable
+	"Livingston County, NY"	"36051"	"2016"	"2016"	14	54934	Unreliable
+	"Madison County, NY"	"36053"	"2008"	"2008"	12	59863	Unreliable
+	"Madison County, NY"	"36053"	"2010"	"2010"	10	60577	Unreliable
+	"Madison County, NY"	"36053"	"2011"	"2011"	15	60889	Unreliable
+	"Madison County, NY"	"36053"	"2012"	"2012"	13	60357	Unreliable
+	"Madison County, NY"	"36053"	"2013"	"2013"	15	60451	Unreliable
+	"Madison County, NY"	"36053"	"2014"	"2014"	22	60564	36.3
+	"Madison County, NY"	"36053"	"2015"	"2015"	10	60389	Unreliable
+	"Madison County, NY"	"36053"	"2016"	"2016"	19	60190	Unreliable
+	"Monroe County, NY"	"36055"	"1999"	"1999"	40	576168	6.9
+	"Monroe County, NY"	"36055"	"2000"	"2000"	43	577980	7.4
+	"Monroe County, NY"	"36055"	"2001"	"2001"	58	584028	9.9
+	"Monroe County, NY"	"36055"	"2002"	"2002"	45	587484	7.7
+	"Monroe County, NY"	"36055"	"2003"	"2003"	40	590001	6.8
+	"Monroe County, NY"	"36055"	"2004"	"2004"	40	592470	6.8
+	"Monroe County, NY"	"36055"	"2005"	"2005"	31	594008	5.2
+	"Monroe County, NY"	"36055"	"2006"	"2006"	94	596785	15.8
+	"Monroe County, NY"	"36055"	"2007"	"2007"	102	599812	17.0
+	"Monroe County, NY"	"36055"	"2008"	"2008"	87	602828	14.4
+	"Monroe County, NY"	"36055"	"2009"	"2009"	90	606012	14.9
+	"Monroe County, NY"	"36055"	"2010"	"2010"	99	607690	16.3
+	"Monroe County, NY"	"36055"	"2011"	"2011"	131	610806	21.4
+	"Monroe County, NY"	"36055"	"2012"	"2012"	124	614033	20.2
+	"Monroe County, NY"	"36055"	"2013"	"2013"	146	616481	23.7
+	"Monroe County, NY"	"36055"	"2014"	"2014"	170	618091	27.5
+	"Monroe County, NY"	"36055"	"2015"	"2015"	163	618909	26.3
+	"Monroe County, NY"	"36055"	"2016"	"2016"	185	618188	29.9
+	"Montgomery County, NY"	"36057"	"2013"	"2013"	10	40549	Unreliable
+	"Montgomery County, NY"	"36057"	"2014"	"2014"	11	40562	Unreliable
+	"Montgomery County, NY"	"36057"	"2015"	"2015"	11	40333	Unreliable
+	"Montgomery County, NY"	"36057"	"2016"	"2016"	14	40036	Unreliable
+	"Nassau County, NY"	"36059"	"1999"	"1999"	76	1056333	7.2
+	"Nassau County, NY"	"36059"	"2000"	"2000"	50	1058283	4.7
+	"Nassau County, NY"	"36059"	"2001"	"2001"	105	1061529	9.9
+	"Nassau County, NY"	"36059"	"2002"	"2002"	57	1065062	5.4
+	"Nassau County, NY"	"36059"	"2003"	"2003"	65	1067263	6.1
+	"Nassau County, NY"	"36059"	"2004"	"2004"	47	1068900	4.4
+	"Nassau County, NY"	"36059"	"2005"	"2005"	55	1068792	5.1
+	"Nassau County, NY"	"36059"	"2006"	"2006"	189	1066269	17.7
+	"Nassau County, NY"	"36059"	"2007"	"2007"	199	1067570	18.6
+	"Nassau County, NY"	"36059"	"2008"	"2008"	200	1073113	18.6
+	"Nassau County, NY"	"36059"	"2009"	"2009"	185	1081112	17.1
+	"Nassau County, NY"	"36059"	"2010"	"2010"	174	1088632	16.0
+	"Nassau County, NY"	"36059"	"2011"	"2011"	205	1097183	18.7
+	"Nassau County, NY"	"36059"	"2012"	"2012"	240	1104860	21.7
+	"Nassau County, NY"	"36059"	"2013"	"2013"	228	1108436	20.6
+	"Nassau County, NY"	"36059"	"2014"	"2014"	241	1115954	21.6
+	"Nassau County, NY"	"36059"	"2015"	"2015"	259	1120441	23.1
+	"Nassau County, NY"	"36059"	"2016"	"2016"	289	1121067	25.8
+	"New York County, NY"	"36061"	"1999"	"1999"	419	1316420	31.8
+	"New York County, NY"	"36061"	"2000"	"2000"	306	1318501	23.2
+	"New York County, NY"	"36061"	"2001"	"2001"	355	1336042	26.6
+	"New York County, NY"	"36061"	"2002"	"2002"	369	1337170	27.6
+	"New York County, NY"	"36061"	"2003"	"2003"	382	1346194	28.4
+	"New York County, NY"	"36061"	"2004"	"2004"	295	1355856	21.8
+	"New York County, NY"	"36061"	"2005"	"2005"	354	1363067	26.0
+	"New York County, NY"	"36061"	"2006"	"2006"	358	1370975	26.1
+	"New York County, NY"	"36061"	"2007"	"2007"	287	1377381	20.8
+	"New York County, NY"	"36061"	"2008"	"2008"	298	1385442	21.5
+	"New York County, NY"	"36061"	"2009"	"2009"	276	1385614	19.9
+	"New York County, NY"	"36061"	"2010"	"2010"	260	1389742	18.7
+	"New York County, NY"	"36061"	"2011"	"2011"	289	1401541	20.6
+	"New York County, NY"	"36061"	"2012"	"2012"	337	1414450	23.8
+	"New York County, NY"	"36061"	"2013"	"2013"	356	1421639	25.0
+	"New York County, NY"	"36061"	"2014"	"2014"	314	1430328	22.0
+	"New York County, NY"	"36061"	"2015"	"2015"	347	1438277	24.1
+	"New York County, NY"	"36061"	"2016"	"2016"	430	1438175	29.9
+	"Niagara County, NY"	"36063"	"1999"	"1999"	13	175338	Unreliable
+	"Niagara County, NY"	"36063"	"2000"	"2000"	18	175135	Unreliable
+	"Niagara County, NY"	"36063"	"2001"	"2001"	15	174713	Unreliable
+	"Niagara County, NY"	"36063"	"2002"	"2002"	15	175008	Unreliable
+	"Niagara County, NY"	"36063"	"2003"	"2003"	23	175651	13.1
+	"Niagara County, NY"	"36063"	"2004"	"2004"	15	176073	Unreliable
+	"Niagara County, NY"	"36063"	"2005"	"2005"	11	176379	Unreliable
+	"Niagara County, NY"	"36063"	"2006"	"2006"	36	176635	20.4
+	"Niagara County, NY"	"36063"	"2007"	"2007"	30	176967	17.0
+	"Niagara County, NY"	"36063"	"2008"	"2008"	43	177453	24.2
+	"Niagara County, NY"	"36063"	"2009"	"2009"	34	178150	19.1
+	"Niagara County, NY"	"36063"	"2010"	"2010"	46	178840	25.7
+	"Niagara County, NY"	"36063"	"2011"	"2011"	37	179041	20.7
+	"Niagara County, NY"	"36063"	"2012"	"2012"	48	178628	26.9
+	"Niagara County, NY"	"36063"	"2013"	"2013"	62	178341	34.8
+	"Niagara County, NY"	"36063"	"2014"	"2014"	60	178120	33.7
+	"Niagara County, NY"	"36063"	"2015"	"2015"	70	177532	39.4
+	"Niagara County, NY"	"36063"	"2016"	"2016"	79	176991	44.6
+	"Oneida County, NY"	"36065"	"1999"	"1999"	22	189002	11.6
+	"Oneida County, NY"	"36065"	"2000"	"2000"	15	189422	Unreliable
+	"Oneida County, NY"	"36065"	"2001"	"2001"	27	189089	14.3
+	"Oneida County, NY"	"36065"	"2002"	"2002"	19	189367	Unreliable
+	"Oneida County, NY"	"36065"	"2003"	"2003"	19	190083	Unreliable
+	"Oneida County, NY"	"36065"	"2004"	"2004"	23	190923	12.0
+	"Oneida County, NY"	"36065"	"2005"	"2005"	17	191346	Unreliable
+	"Oneida County, NY"	"36065"	"2006"	"2006"	35	191794	18.2
+	"Oneida County, NY"	"36065"	"2007"	"2007"	36	192423	18.7
+	"Oneida County, NY"	"36065"	"2008"	"2008"	20	192741	10.4
+	"Oneida County, NY"	"36065"	"2009"	"2009"	33	192975	17.1
+	"Oneida County, NY"	"36065"	"2010"	"2010"	35	193301	18.1
+	"Oneida County, NY"	"36065"	"2011"	"2011"	30	193246	15.5
+	"Oneida County, NY"	"36065"	"2012"	"2012"	31	192718	16.1
+	"Oneida County, NY"	"36065"	"2013"	"2013"	46	192597	23.9
+	"Oneida County, NY"	"36065"	"2014"	"2014"	61	192041	31.8
+	"Oneida County, NY"	"36065"	"2015"	"2015"	61	191566	31.8
+	"Oneida County, NY"	"36065"	"2016"	"2016"	79	190623	41.4
+	"Onondaga County, NY"	"36067"	"1999"	"1999"	39	359834	10.8
+	"Onondaga County, NY"	"36067"	"2000"	"2000"	50	359952	13.9
+	"Onondaga County, NY"	"36067"	"2001"	"2001"	39	361467	10.8
+	"Onondaga County, NY"	"36067"	"2002"	"2002"	36	363663	9.9
+	"Onondaga County, NY"	"36067"	"2003"	"2003"	48	366125	13.1
+	"Onondaga County, NY"	"36067"	"2004"	"2004"	31	367843	8.4
+	"Onondaga County, NY"	"36067"	"2005"	"2005"	57	369273	15.4
+	"Onondaga County, NY"	"36067"	"2006"	"2006"	62	370855	16.7
+	"Onondaga County, NY"	"36067"	"2007"	"2007"	77	372625	20.7
+	"Onondaga County, NY"	"36067"	"2008"	"2008"	96	375389	25.6
+	"Onondaga County, NY"	"36067"	"2009"	"2009"	70	377920	18.5
+	"Onondaga County, NY"	"36067"	"2010"	"2010"	72	379927	19.0
+	"Onondaga County, NY"	"36067"	"2011"	"2011"	84	381094	22.0
+	"Onondaga County, NY"	"36067"	"2012"	"2012"	111	382149	29.0
+	"Onondaga County, NY"	"36067"	"2013"	"2013"	115	383634	30.0
+	"Onondaga County, NY"	"36067"	"2014"	"2014"	119	384149	31.0
+	"Onondaga County, NY"	"36067"	"2015"	"2015"	139	385273	36.1
+	"Onondaga County, NY"	"36067"	"2016"	"2016"	195	384097	50.8
+	"Ontario County, NY"	"36069"	"2003"	"2003"	10	81960	Unreliable
+	"Ontario County, NY"	"36069"	"2006"	"2006"	19	84731	Unreliable
+	"Ontario County, NY"	"36069"	"2007"	"2007"	10	85371	Unreliable
+	"Ontario County, NY"	"36069"	"2008"	"2008"	21	86580	24.3
+	"Ontario County, NY"	"36069"	"2009"	"2009"	14	87647	Unreliable
+	"Ontario County, NY"	"36069"	"2010"	"2010"	11	88366	Unreliable
+	"Ontario County, NY"	"36069"	"2011"	"2011"	19	89251	Unreliable
+	"Ontario County, NY"	"36069"	"2012"	"2012"	17	89598	Unreliable
+	"Ontario County, NY"	"36069"	"2013"	"2013"	19	90378	Unreliable
+	"Ontario County, NY"	"36069"	"2014"	"2014"	24	91126	26.3
+	"Ontario County, NY"	"36069"	"2015"	"2015"	13	91255	Unreliable
+	"Ontario County, NY"	"36069"	"2016"	"2016"	32	91508	35.0
+	"Orange County, NY"	"36071"	"1999"	"1999"	15	254331	Unreliable
+	"Orange County, NY"	"36071"	"2000"	"2000"	22	258052	8.5
+	"Orange County, NY"	"36071"	"2001"	"2001"	31	263401	11.8
+	"Orange County, NY"	"36071"	"2002"	"2002"	15	267871	Unreliable
+	"Orange County, NY"	"36071"	"2003"	"2003"	34	272874	12.5
+	"Orange County, NY"	"36071"	"2004"	"2004"	17	277166	Unreliable
+	"Orange County, NY"	"36071"	"2005"	"2005"	18	279896	Unreliable
+	"Orange County, NY"	"36071"	"2006"	"2006"	46	282454	16.3
+	"Orange County, NY"	"36071"	"2007"	"2007"	41	284314	14.4
+	"Orange County, NY"	"36071"	"2008"	"2008"	59	286076	20.6
+	"Orange County, NY"	"36071"	"2009"	"2009"	75	288096	26.0
+	"Orange County, NY"	"36071"	"2010"	"2010"	84	289330	29.0
+	"Orange County, NY"	"36071"	"2011"	"2011"	72	292524	24.6
+	"Orange County, NY"	"36071"	"2012"	"2012"	76	293473	25.9
+	"Orange County, NY"	"36071"	"2013"	"2013"	87	294565	29.5
+	"Orange County, NY"	"36071"	"2014"	"2014"	90	295896	30.4
+	"Orange County, NY"	"36071"	"2015"	"2015"	90	297914	30.2
+	"Orange County, NY"	"36071"	"2016"	"2016"	105	299694	35.0
+	"Oswego County, NY"	"36075"	"2001"	"2001"	11	95760	Unreliable
+	"Oswego County, NY"	"36075"	"2002"	"2002"	10	96306	Unreliable
+	"Oswego County, NY"	"36075"	"2006"	"2006"	13	98255	Unreliable
+	"Oswego County, NY"	"36075"	"2007"	"2007"	26	98605	26.4
+	"Oswego County, NY"	"36075"	"2008"	"2008"	20	99032	20.2
+	"Oswego County, NY"	"36075"	"2009"	"2009"	22	99156	22.2
+	"Oswego County, NY"	"36075"	"2010"	"2010"	16	99485	Unreliable
+	"Oswego County, NY"	"36075"	"2011"	"2011"	22	100033	22.0
+	"Oswego County, NY"	"36075"	"2012"	"2012"	22	99790	22.0
+	"Oswego County, NY"	"36075"	"2013"	"2013"	30	99501	30.2
+	"Oswego County, NY"	"36075"	"2014"	"2014"	26	99489	26.1
+	"Oswego County, NY"	"36075"	"2015"	"2015"	37	99033	37.4
+	"Oswego County, NY"	"36075"	"2016"	"2016"	38	98298	38.7
+	"Otsego County, NY"	"36077"	"2009"	"2009"	13	53018	Unreliable
+	"Otsego County, NY"	"36077"	"2010"	"2010"	11	53114	Unreliable
+	"Otsego County, NY"	"36077"	"2011"	"2011"	10	53194	Unreliable
+	"Otsego County, NY"	"36077"	"2012"	"2012"	15	53101	Unreliable
+	"Otsego County, NY"	"36077"	"2014"	"2014"	14	52934	Unreliable
+	"Otsego County, NY"	"36077"	"2015"	"2015"	13	52658	Unreliable
+	"Otsego County, NY"	"36077"	"2016"	"2016"	16	52252	Unreliable
+	"Putnam County, NY"	"36079"	"2001"	"2001"	10	75540	Unreliable
+	"Putnam County, NY"	"36079"	"2006"	"2006"	11	78975	Unreliable
+	"Putnam County, NY"	"36079"	"2007"	"2007"	10	79381	Unreliable
+	"Putnam County, NY"	"36079"	"2008"	"2008"	12	79879	Unreliable
+	"Putnam County, NY"	"36079"	"2009"	"2009"	11	80492	Unreliable
+	"Putnam County, NY"	"36079"	"2011"	"2011"	16	81658	Unreliable
+	"Putnam County, NY"	"36079"	"2012"	"2012"	18	81925	Unreliable
+	"Putnam County, NY"	"36079"	"2013"	"2013"	23	82317	27.9
+	"Putnam County, NY"	"36079"	"2014"	"2014"	22	82632	26.6
+	"Putnam County, NY"	"36079"	"2015"	"2015"	25	82670	30.2
+	"Putnam County, NY"	"36079"	"2016"	"2016"	32	82938	38.6
+	"Queens County, NY"	"36081"	"1999"	"1999"	310	1786511	17.4
+	"Queens County, NY"	"36081"	"2000"	"2000"	269	1802674	14.9
+	"Queens County, NY"	"36081"	"2001"	"2001"	302	1811563	16.7
+	"Queens County, NY"	"36081"	"2002"	"2002"	319	1811701	17.6
+	"Queens County, NY"	"36081"	"2003"	"2003"	308	1809768	17.0
+	"Queens County, NY"	"36081"	"2004"	"2004"	287	1801854	15.9
+	"Queens County, NY"	"36081"	"2005"	"2005"	313	1798317	17.4
+	"Queens County, NY"	"36081"	"2006"	"2006"	346	1795017	19.3
+	"Queens County, NY"	"36081"	"2007"	"2007"	316	1802403	17.5
+	"Queens County, NY"	"36081"	"2008"	"2008"	293	1817503	16.1
+	"Queens County, NY"	"36081"	"2009"	"2009"	287	1838687	15.6
+	"Queens County, NY"	"36081"	"2010"	"2010"	292	1851086	15.8
+	"Queens County, NY"	"36081"	"2011"	"2011"	319	1864194	17.1
+	"Queens County, NY"	"36081"	"2012"	"2012"	305	1885247	16.2
+	"Queens County, NY"	"36081"	"2013"	"2013"	349	1902883	18.3
+	"Queens County, NY"	"36081"	"2014"	"2014"	320	1923807	16.6
+	"Queens County, NY"	"36081"	"2015"	"2015"	378	1937676	19.5
+	"Queens County, NY"	"36081"	"2016"	"2016"	428	1932507	22.1
+	"Rensselaer County, NY"	"36083"	"2001"	"2001"	12	122542	Unreliable
+	"Rensselaer County, NY"	"36083"	"2004"	"2004"	10	126096	Unreliable
+	"Rensselaer County, NY"	"36083"	"2005"	"2005"	10	127089	Unreliable
+	"Rensselaer County, NY"	"36083"	"2006"	"2006"	14	128680	Unreliable
+	"Rensselaer County, NY"	"36083"	"2007"	"2007"	15	129799	Unreliable
+	"Rensselaer County, NY"	"36083"	"2008"	"2008"	25	130845	19.1
+	"Rensselaer County, NY"	"36083"	"2009"	"2009"	25	131290	19.0
+	"Rensselaer County, NY"	"36083"	"2010"	"2010"	29	131834	22.0
+	"Rensselaer County, NY"	"36083"	"2011"	"2011"	20	132203	15.1
+	"Rensselaer County, NY"	"36083"	"2012"	"2012"	27	132894	20.3
+	"Rensselaer County, NY"	"36083"	"2013"	"2013"	33	133129	24.8
+	"Rensselaer County, NY"	"36083"	"2014"	"2014"	22	133333	16.5
+	"Rensselaer County, NY"	"36083"	"2015"	"2015"	31	133741	23.2
+	"Rensselaer County, NY"	"36083"	"2016"	"2016"	23	133880	17.2
+	"Richmond County, NY"	"36085"	"1999"	"1999"	47	343992	13.7
+	"Richmond County, NY"	"36085"	"2000"	"2000"	53	348775	15.2
+	"Richmond County, NY"	"36085"	"2001"	"2001"	54	354127	15.2
+	"Richmond County, NY"	"36085"	"2002"	"2002"	81	358347	22.6
+	"Richmond County, NY"	"36085"	"2003"	"2003"	61	362148	16.8
+	"Richmond County, NY"	"36085"	"2004"	"2004"	79	364252	21.7
+	"Richmond County, NY"	"36085"	"2005"	"2005"	92	366047	25.1
+	"Richmond County, NY"	"36085"	"2006"	"2006"	71	368077	19.3
+	"Richmond County, NY"	"36085"	"2007"	"2007"	74	370552	20.0
+	"Richmond County, NY"	"36085"	"2008"	"2008"	96	374696	25.6
+	"Richmond County, NY"	"36085"	"2009"	"2009"	92	377922	24.3
+	"Richmond County, NY"	"36085"	"2010"	"2010"	102	379579	26.9
+	"Richmond County, NY"	"36085"	"2011"	"2011"	124	382026	32.5
+	"Richmond County, NY"	"36085"	"2012"	"2012"	130	383090	33.9
+	"Richmond County, NY"	"36085"	"2013"	"2013"	112	385096	29.1
+	"Richmond County, NY"	"36085"	"2014"	"2014"	132	386681	34.1
+	"Richmond County, NY"	"36085"	"2015"	"2015"	134	388367	34.5
+	"Richmond County, NY"	"36085"	"2016"	"2016"	181	389774	46.4
+	"Rockland County, NY"	"36087"	"1999"	"1999"	11	218236	Unreliable
+	"Rockland County, NY"	"36087"	"2000"	"2000"	13	219341	Unreliable
+	"Rockland County, NY"	"36087"	"2001"	"2001"	16	222410	Unreliable
+	"Rockland County, NY"	"36087"	"2004"	"2004"	13	228238	Unreliable
+	"Rockland County, NY"	"36087"	"2005"	"2005"	15	229552	Unreliable
+	"Rockland County, NY"	"36087"	"2006"	"2006"	25	230136	10.9
+	"Rockland County, NY"	"36087"	"2007"	"2007"	18	231954	Unreliable
+	"Rockland County, NY"	"36087"	"2008"	"2008"	33	234583	14.1
+	"Rockland County, NY"	"36087"	"2009"	"2009"	40	236860	16.9
+	"Rockland County, NY"	"36087"	"2010"	"2010"	30	239137	12.5
+	"Rockland County, NY"	"36087"	"2011"	"2011"	31	242431	12.8
+	"Rockland County, NY"	"36087"	"2012"	"2012"	31	244852	12.7
+	"Rockland County, NY"	"36087"	"2013"	"2013"	49	246956	19.8
+	"Rockland County, NY"	"36087"	"2014"	"2014"	29	249340	11.6
+	"Rockland County, NY"	"36087"	"2015"	"2015"	62	251190	24.7
+	"Rockland County, NY"	"36087"	"2016"	"2016"	54	251261	21.5
+	"St. Lawrence County, NY"	"36089"	"2005"	"2005"	11	91494	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2006"	"2006"	12	91607	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2007"	"2007"	20	91893	21.8
+	"St. Lawrence County, NY"	"36089"	"2008"	"2008"	18	91992	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2009"	"2009"	16	92430	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2010"	"2010"	13	92318	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2011"	"2011"	17	92350	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2012"	"2012"	12	92972	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2013"	"2013"	18	92625	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2014"	"2014"	25	92213	27.1
+	"St. Lawrence County, NY"	"36089"	"2015"	"2015"	22	92178	23.9
+	"St. Lawrence County, NY"	"36089"	"2016"	"2016"	35	91620	38.2
+	"Saratoga County, NY"	"36091"	"1999"	"1999"	12	156860	Unreliable
+	"Saratoga County, NY"	"36091"	"2000"	"2000"	11	158726	Unreliable
+	"Saratoga County, NY"	"36091"	"2001"	"2001"	13	161724	Unreliable
+	"Saratoga County, NY"	"36091"	"2002"	"2002"	12	164107	Unreliable
+	"Saratoga County, NY"	"36091"	"2003"	"2003"	19	166862	Unreliable
+	"Saratoga County, NY"	"36091"	"2004"	"2004"	22	168892	13.0
+	"Saratoga County, NY"	"36091"	"2005"	"2005"	16	170783	Unreliable
+	"Saratoga County, NY"	"36091"	"2006"	"2006"	15	172828	Unreliable
+	"Saratoga County, NY"	"36091"	"2007"	"2007"	26	174213	14.9
+	"Saratoga County, NY"	"36091"	"2008"	"2008"	30	176046	17.0
+	"Saratoga County, NY"	"36091"	"2009"	"2009"	23	177734	12.9
+	"Saratoga County, NY"	"36091"	"2010"	"2010"	11	178858	Unreliable
+	"Saratoga County, NY"	"36091"	"2011"	"2011"	27	181000	14.9
+	"Saratoga County, NY"	"36091"	"2012"	"2012"	22	182657	12.0
+	"Saratoga County, NY"	"36091"	"2013"	"2013"	34	184665	18.4
+	"Saratoga County, NY"	"36091"	"2014"	"2014"	39	186198	20.9
+	"Saratoga County, NY"	"36091"	"2015"	"2015"	36	187784	19.2
+	"Saratoga County, NY"	"36091"	"2016"	"2016"	31	188896	16.4
+	"Schenectady County, NY"	"36093"	"1999"	"1999"	14	116962	Unreliable
+	"Schenectady County, NY"	"36093"	"2000"	"2000"	13	116738	Unreliable
+	"Schenectady County, NY"	"36093"	"2002"	"2002"	16	117960	Unreliable
+	"Schenectady County, NY"	"36093"	"2003"	"2003"	15	118696	Unreliable
+	"Schenectady County, NY"	"36093"	"2004"	"2004"	17	119753	Unreliable
+	"Schenectady County, NY"	"36093"	"2005"	"2005"	16	121109	Unreliable
+	"Schenectady County, NY"	"36093"	"2006"	"2006"	10	122636	Unreliable
+	"Schenectady County, NY"	"36093"	"2007"	"2007"	22	123205	17.9
+	"Schenectady County, NY"	"36093"	"2008"	"2008"	17	124493	Unreliable
+	"Schenectady County, NY"	"36093"	"2009"	"2009"	22	125270	17.6
+	"Schenectady County, NY"	"36093"	"2010"	"2010"	10	125887	Unreliable
+	"Schenectady County, NY"	"36093"	"2011"	"2011"	20	126700	15.8
+	"Schenectady County, NY"	"36093"	"2012"	"2012"	21	126975	16.5
+	"Schenectady County, NY"	"36093"	"2013"	"2013"	33	127174	25.9
+	"Schenectady County, NY"	"36093"	"2014"	"2014"	20	127361	15.7
+	"Schenectady County, NY"	"36093"	"2015"	"2015"	31	127088	24.4
+	"Schenectady County, NY"	"36093"	"2016"	"2016"	42	126777	33.1
+	"Seneca County, NY"	"36099"	"2014"	"2014"	12	29163	Unreliable
+	"Seneca County, NY"	"36099"	"2015"	"2015"	12	29119	Unreliable
+	"Steuben County, NY"	"36101"	"2000"	"2000"	12	77644	Unreliable
+	"Steuben County, NY"	"36101"	"2001"	"2001"	14	78244	Unreliable
+	"Steuben County, NY"	"36101"	"2006"	"2006"	17	78931	Unreliable
+	"Steuben County, NY"	"36101"	"2007"	"2007"	20	79233	25.2
+	"Steuben County, NY"	"36101"	"2008"	"2008"	13	79497	Unreliable
+	"Steuben County, NY"	"36101"	"2009"	"2009"	12	79965	Unreliable
+	"Steuben County, NY"	"36101"	"2010"	"2010"	11	80214	Unreliable
+	"Steuben County, NY"	"36101"	"2011"	"2011"	22	80621	27.3
+	"Steuben County, NY"	"36101"	"2012"	"2012"	17	80775	Unreliable
+	"Steuben County, NY"	"36101"	"2013"	"2013"	12	80548	Unreliable
+	"Steuben County, NY"	"36101"	"2014"	"2014"	18	80381	Unreliable
+	"Steuben County, NY"	"36101"	"2015"	"2015"	16	80044	Unreliable
+	"Steuben County, NY"	"36101"	"2016"	"2016"	26	79647	32.6
+	"Suffolk County, NY"	"36103"	"1999"	"1999"	113	1095503	10.3
+	"Suffolk County, NY"	"36103"	"2000"	"2000"	107	1105445	9.7
+	"Suffolk County, NY"	"36103"	"2001"	"2001"	130	1125118	11.6
+	"Suffolk County, NY"	"36103"	"2002"	"2002"	114	1138316	10.0
+	"Suffolk County, NY"	"36103"	"2003"	"2003"	101	1152748	8.8
+	"Suffolk County, NY"	"36103"	"2004"	"2004"	110	1162835	9.5
+	"Suffolk County, NY"	"36103"	"2005"	"2005"	115	1168225	9.8
+	"Suffolk County, NY"	"36103"	"2006"	"2006"	246	1172558	21.0
+	"Suffolk County, NY"	"36103"	"2007"	"2007"	264	1177836	22.4
+	"Suffolk County, NY"	"36103"	"2008"	"2008"	273	1186357	23.0
+	"Suffolk County, NY"	"36103"	"2009"	"2009"	242	1195327	20.2
+	"Suffolk County, NY"	"36103"	"2010"	"2010"	278	1203180	23.1
+	"Suffolk County, NY"	"36103"	"2011"	"2011"	373	1213304	30.7
+	"Suffolk County, NY"	"36103"	"2012"	"2012"	399	1218964	32.7
+	"Suffolk County, NY"	"36103"	"2013"	"2013"	387	1225097	31.6
+	"Suffolk County, NY"	"36103"	"2014"	"2014"	363	1232561	29.5
+	"Suffolk County, NY"	"36103"	"2015"	"2015"	375	1235630	30.3
+	"Suffolk County, NY"	"36103"	"2016"	"2016"	548	1231921	44.5
+	"Sullivan County, NY"	"36105"	"1999"	"1999"	13	58304	Unreliable
+	"Sullivan County, NY"	"36105"	"2000"	"2000"	11	58902	Unreliable
+	"Sullivan County, NY"	"36105"	"2001"	"2001"	10	59256	Unreliable
+	"Sullivan County, NY"	"36105"	"2004"	"2004"	12	61571	Unreliable
+	"Sullivan County, NY"	"36105"	"2006"	"2006"	19	62827	Unreliable
+	"Sullivan County, NY"	"36105"	"2007"	"2007"	16	63571	Unreliable
+	"Sullivan County, NY"	"36105"	"2008"	"2008"	22	63467	34.7
+	"Sullivan County, NY"	"36105"	"2009"	"2009"	19	63408	Unreliable
+	"Sullivan County, NY"	"36105"	"2010"	"2010"	14	63315	Unreliable
+	"Sullivan County, NY"	"36105"	"2011"	"2011"	34	62984	54.0
+	"Sullivan County, NY"	"36105"	"2012"	"2012"	19	63011	Unreliable
+	"Sullivan County, NY"	"36105"	"2013"	"2013"	26	63006	41.3
+	"Sullivan County, NY"	"36105"	"2014"	"2014"	30	62428	48.1
+	"Sullivan County, NY"	"36105"	"2015"	"2015"	24	61807	38.8
+	"Sullivan County, NY"	"36105"	"2016"	"2016"	31	61728	50.2
+	"Tioga County, NY"	"36107"	"2009"	"2009"	10	41371	Unreliable
+	"Tioga County, NY"	"36107"	"2011"	"2011"	10	41549	Unreliable
+	"Tioga County, NY"	"36107"	"2013"	"2013"	12	41075	Unreliable
+	"Tioga County, NY"	"36107"	"2014"	"2014"	18	40982	Unreliable
+	"Tioga County, NY"	"36107"	"2015"	"2015"	14	40690	Unreliable
+	"Tioga County, NY"	"36107"	"2016"	"2016"	15	40191	Unreliable
+	"Tompkins County, NY"	"36109"	"2008"	"2008"	10	86927	Unreliable
+	"Tompkins County, NY"	"36109"	"2010"	"2010"	14	88295	Unreliable
+	"Tompkins County, NY"	"36109"	"2011"	"2011"	19	89120	Unreliable
+	"Tompkins County, NY"	"36109"	"2012"	"2012"	20	89599	22.3
+	"Tompkins County, NY"	"36109"	"2013"	"2013"	12	90416	Unreliable
+	"Tompkins County, NY"	"36109"	"2014"	"2014"	20	91568	21.8
+	"Tompkins County, NY"	"36109"	"2015"	"2015"	23	92184	25.0
+	"Tompkins County, NY"	"36109"	"2016"	"2016"	33	92143	35.8
+	"Ulster County, NY"	"36111"	"1999"	"1999"	14	142080	Unreliable
+	"Ulster County, NY"	"36111"	"2001"	"2001"	16	144335	Unreliable
+	"Ulster County, NY"	"36111"	"2002"	"2002"	15	146259	Unreliable
+	"Ulster County, NY"	"36111"	"2003"	"2003"	17	147536	Unreliable
+	"Ulster County, NY"	"36111"	"2004"	"2004"	12	149055	Unreliable
+	"Ulster County, NY"	"36111"	"2006"	"2006"	16	151423	Unreliable
+	"Ulster County, NY"	"36111"	"2007"	"2007"	33	151893	21.7
+	"Ulster County, NY"	"36111"	"2008"	"2008"	30	152703	19.6
+	"Ulster County, NY"	"36111"	"2009"	"2009"	26	152851	17.0
+	"Ulster County, NY"	"36111"	"2010"	"2010"	22	153070	14.4
+	"Ulster County, NY"	"36111"	"2011"	"2011"	39	153741	25.4
+	"Ulster County, NY"	"36111"	"2012"	"2012"	32	153710	20.8
+	"Ulster County, NY"	"36111"	"2013"	"2013"	42	153446	27.4
+	"Ulster County, NY"	"36111"	"2014"	"2014"	31	153451	20.2
+	"Ulster County, NY"	"36111"	"2015"	"2015"	46	153498	30.0
+	"Ulster County, NY"	"36111"	"2016"	"2016"	86	152949	56.2
+	"Warren County, NY"	"36113"	"2006"	"2006"	12	54028	Unreliable
+	"Warren County, NY"	"36113"	"2007"	"2007"	10	54438	Unreliable
+	"Warren County, NY"	"36113"	"2008"	"2008"	12	54742	Unreliable
+	"Warren County, NY"	"36113"	"2010"	"2010"	10	54878	Unreliable
+	"Warren County, NY"	"36113"	"2011"	"2011"	10	55220	Unreliable
+	"Warren County, NY"	"36113"	"2012"	"2012"	13	55178	Unreliable
+	"Warren County, NY"	"36113"	"2013"	"2013"	11	55186	Unreliable
+	"Warren County, NY"	"36113"	"2014"	"2014"	16	55028	Unreliable
+	"Warren County, NY"	"36113"	"2015"	"2015"	11	54787	Unreliable
+	"Warren County, NY"	"36113"	"2016"	"2016"	13	54813	Unreliable
+	"Washington County, NY"	"36115"	"2008"	"2008"	13	52265	Unreliable
+	"Washington County, NY"	"36115"	"2012"	"2012"	10	52584	Unreliable
+	"Washington County, NY"	"36115"	"2013"	"2013"	12	52810	Unreliable
+	"Washington County, NY"	"36115"	"2016"	"2016"	10	52091	Unreliable
+	"Wayne County, NY"	"36117"	"2003"	"2003"	12	73648	Unreliable
+	"Wayne County, NY"	"36117"	"2005"	"2005"	11	74241	Unreliable
+	"Wayne County, NY"	"36117"	"2008"	"2008"	14	75331	Unreliable
+	"Wayne County, NY"	"36117"	"2009"	"2009"	20	75507	26.5
+	"Wayne County, NY"	"36117"	"2010"	"2010"	17	75823	Unreliable
+	"Wayne County, NY"	"36117"	"2011"	"2011"	10	75981	Unreliable
+	"Wayne County, NY"	"36117"	"2012"	"2012"	12	75803	Unreliable
+	"Wayne County, NY"	"36117"	"2014"	"2014"	13	75560	Unreliable
+	"Wayne County, NY"	"36117"	"2015"	"2015"	19	75198	Unreliable
+	"Wayne County, NY"	"36117"	"2016"	"2016"	22	74690	29.5
+	"Westchester County, NY"	"36119"	"1999"	"1999"	61	724741	8.4
+	"Westchester County, NY"	"36119"	"2000"	"2000"	46	727467	6.3
+	"Westchester County, NY"	"36119"	"2001"	"2001"	92	734337	12.5
+	"Westchester County, NY"	"36119"	"2002"	"2002"	39	737498	5.3
+	"Westchester County, NY"	"36119"	"2003"	"2003"	55	738975	7.4
+	"Westchester County, NY"	"36119"	"2004"	"2004"	33	740411	4.5
+	"Westchester County, NY"	"36119"	"2005"	"2005"	38	741718	5.1
+	"Westchester County, NY"	"36119"	"2006"	"2006"	105	742459	14.1
+	"Westchester County, NY"	"36119"	"2007"	"2007"	119	746008	16.0
+	"Westchester County, NY"	"36119"	"2008"	"2008"	109	751169	14.5
+	"Westchester County, NY"	"36119"	"2009"	"2009"	110	758300	14.5
+	"Westchester County, NY"	"36119"	"2010"	"2010"	90	763022	11.8
+	"Westchester County, NY"	"36119"	"2011"	"2011"	125	771249	16.2
+	"Westchester County, NY"	"36119"	"2012"	"2012"	135	777506	17.4
+	"Westchester County, NY"	"36119"	"2013"	"2013"	159	785688	20.2
+	"Westchester County, NY"	"36119"	"2014"	"2014"	133	791411	16.8
+	"Westchester County, NY"	"36119"	"2015"	"2015"	157	796096	19.7
+	"Westchester County, NY"	"36119"	"2016"	"2016"	197	795938	24.8
+	"Wyoming County, NY"	"36121"	"2013"	"2013"	10	34979	Unreliable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2016"
+"Query Parameters:"
+"Title:"
+"2013 Urbanization: All"
+"Autopsy: All"
+"Gender: All"
+"Hispanic Origin: All"
+"MCD - Drug/Alcohol Induced Causes: Drug-induced causes, Alcohol-induced causes"
+"Place of Death: All"
+"Race: All"
+"States: New York (36)"
+"Ten-Year Age Groups: 15-24 years, 25-34 years, 35-44 years, 45-54 years, 55-64 years, 65-74 years, 75-84 years, 85+ years"
+"UCD - Drug/Alcohol Induced Causes: Drug-induced causes, Alcohol-induced causes"
+"Weekday: All"
+"Year/Month: All"
+"Group By: County, Year"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: May 13, 2018 4:05:10 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2016 on CDC WONDER Online Database, released December, 2017. Data are from the Multiple Cause of Death Files, 1999-2016, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on May 13, 2018 4:05:10 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"5. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016"
+"postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for"
+"year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS"
+"on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013."
+"Population figures for 2011 are bridged-race estimates of the July 1 resident population, from the county-level postcensal"
+"Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population"
+"figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident population, from the revised intercensal"
+"county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts."
+"Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for Infant Age"
+"Groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from"
+"previously published reports, due to use of the population estimates which were available at the time of release."

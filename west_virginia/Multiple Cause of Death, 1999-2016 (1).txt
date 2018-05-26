@@ -1,0 +1,394 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Berkeley County, WV"	"54003"	"2000"	"2000"	12	59712	Unreliable
+	"Berkeley County, WV"	"54003"	"2001"	"2001"	15	61759	Unreliable
+	"Berkeley County, WV"	"54003"	"2002"	"2002"	18	63700	Unreliable
+	"Berkeley County, WV"	"54003"	"2003"	"2003"	25	66502	37.6
+	"Berkeley County, WV"	"54003"	"2004"	"2004"	14	69307	Unreliable
+	"Berkeley County, WV"	"54003"	"2005"	"2005"	14	72366	Unreliable
+	"Berkeley County, WV"	"54003"	"2006"	"2006"	19	75647	Unreliable
+	"Berkeley County, WV"	"54003"	"2007"	"2007"	23	78007	29.5
+	"Berkeley County, WV"	"54003"	"2008"	"2008"	32	79901	40.0
+	"Berkeley County, WV"	"54003"	"2009"	"2009"	23	80967	28.4
+	"Berkeley County, WV"	"54003"	"2010"	"2010"	32	82278	38.9
+	"Berkeley County, WV"	"54003"	"2011"	"2011"	37	83896	44.1
+	"Berkeley County, WV"	"54003"	"2012"	"2012"	45	85221	52.8
+	"Berkeley County, WV"	"54003"	"2013"	"2013"	54	86668	62.3
+	"Berkeley County, WV"	"54003"	"2014"	"2014"	53	88234	60.1
+	"Berkeley County, WV"	"54003"	"2015"	"2015"	61	89581	68.1
+	"Berkeley County, WV"	"54003"	"2016"	"2016"	105	91034	115.3
+	"Boone County, WV"	"54005"	"2004"	"2004"	12	20511	Unreliable
+	"Boone County, WV"	"54005"	"2006"	"2006"	11	20291	Unreliable
+	"Boone County, WV"	"54005"	"2007"	"2007"	10	20293	Unreliable
+	"Boone County, WV"	"54005"	"2008"	"2008"	12	20039	Unreliable
+	"Boone County, WV"	"54005"	"2010"	"2010"	22	19934	110.4
+	"Boone County, WV"	"54005"	"2011"	"2011"	28	19832	141.2
+	"Boone County, WV"	"54005"	"2012"	"2012"	18	19842	Unreliable
+	"Boone County, WV"	"54005"	"2013"	"2013"	21	19650	106.9
+	"Boone County, WV"	"54005"	"2014"	"2014"	28	19340	144.8
+	"Boone County, WV"	"54005"	"2015"	"2015"	18	19106	Unreliable
+	"Boone County, WV"	"54005"	"2016"	"2016"	14	18755	Unreliable
+	"Brooke County, WV"	"54009"	"2010"	"2010"	12	20366	Unreliable
+	"Brooke County, WV"	"54009"	"2011"	"2011"	14	20228	Unreliable
+	"Brooke County, WV"	"54009"	"2012"	"2012"	12	20299	Unreliable
+	"Brooke County, WV"	"54009"	"2014"	"2014"	14	20154	Unreliable
+	"Brooke County, WV"	"54009"	"2015"	"2015"	13	20059	Unreliable
+	"Brooke County, WV"	"54009"	"2016"	"2016"	15	19737	Unreliable
+	"Cabell County, WV"	"54011"	"1999"	"1999"	17	80889	Unreliable
+	"Cabell County, WV"	"54011"	"2000"	"2000"	14	80754	Unreliable
+	"Cabell County, WV"	"54011"	"2001"	"2001"	23	80175	28.7
+	"Cabell County, WV"	"54011"	"2002"	"2002"	34	79934	42.5
+	"Cabell County, WV"	"54011"	"2003"	"2003"	30	79860	37.6
+	"Cabell County, WV"	"54011"	"2004"	"2004"	34	79532	42.8
+	"Cabell County, WV"	"54011"	"2005"	"2005"	19	79395	Unreliable
+	"Cabell County, WV"	"54011"	"2006"	"2006"	38	79425	47.8
+	"Cabell County, WV"	"54011"	"2007"	"2007"	53	79596	66.6
+	"Cabell County, WV"	"54011"	"2008"	"2008"	41	79703	51.4
+	"Cabell County, WV"	"54011"	"2009"	"2009"	13	80260	Unreliable
+	"Cabell County, WV"	"54011"	"2010"	"2010"	38	80521	47.2
+	"Cabell County, WV"	"54011"	"2011"	"2011"	53	80740	65.6
+	"Cabell County, WV"	"54011"	"2012"	"2012"	40	80762	49.5
+	"Cabell County, WV"	"54011"	"2013"	"2013"	60	80903	74.2
+	"Cabell County, WV"	"54011"	"2014"	"2014"	68	80712	84.3
+	"Cabell County, WV"	"54011"	"2015"	"2015"	92	80449	114.4
+	"Cabell County, WV"	"54011"	"2016"	"2016"	110	79969	137.6
+	"Fayette County, WV"	"54019"	"2000"	"2000"	10	39182	Unreliable
+	"Fayette County, WV"	"54019"	"2001"	"2001"	13	38872	Unreliable
+	"Fayette County, WV"	"54019"	"2002"	"2002"	16	38735	Unreliable
+	"Fayette County, WV"	"54019"	"2003"	"2003"	11	38836	Unreliable
+	"Fayette County, WV"	"54019"	"2004"	"2004"	12	38529	Unreliable
+	"Fayette County, WV"	"54019"	"2006"	"2006"	21	38258	54.9
+	"Fayette County, WV"	"54019"	"2007"	"2007"	29	38275	75.8
+	"Fayette County, WV"	"54019"	"2008"	"2008"	18	38289	Unreliable
+	"Fayette County, WV"	"54019"	"2009"	"2009"	15	38208	Unreliable
+	"Fayette County, WV"	"54019"	"2010"	"2010"	22	38197	57.6
+	"Fayette County, WV"	"54019"	"2011"	"2011"	26	37834	68.7
+	"Fayette County, WV"	"54019"	"2012"	"2012"	29	37936	76.4
+	"Fayette County, WV"	"54019"	"2013"	"2013"	27	37683	71.7
+	"Fayette County, WV"	"54019"	"2014"	"2014"	28	37342	75.0
+	"Fayette County, WV"	"54019"	"2015"	"2015"	22	37118	59.3
+	"Fayette County, WV"	"54019"	"2016"	"2016"	21	36714	57.2
+	"Greenbrier County, WV"	"54025"	"2001"	"2001"	10	28437	Unreliable
+	"Greenbrier County, WV"	"54025"	"2004"	"2004"	15	29011	Unreliable
+	"Greenbrier County, WV"	"54025"	"2006"	"2006"	13	29316	Unreliable
+	"Greenbrier County, WV"	"54025"	"2010"	"2010"	13	29625	Unreliable
+	"Greenbrier County, WV"	"54025"	"2011"	"2011"	16	29950	Unreliable
+	"Greenbrier County, WV"	"54025"	"2012"	"2012"	14	29958	Unreliable
+	"Greenbrier County, WV"	"54025"	"2013"	"2013"	10	29908	Unreliable
+	"Greenbrier County, WV"	"54025"	"2014"	"2014"	15	29679	Unreliable
+	"Greenbrier County, WV"	"54025"	"2015"	"2015"	14	29791	Unreliable
+	"Greenbrier County, WV"	"54025"	"2016"	"2016"	12	29622	Unreliable
+	"Hampshire County, WV"	"54027"	"2011"	"2011"	11	19631	Unreliable
+	"Hampshire County, WV"	"54027"	"2013"	"2013"	12	19569	Unreliable
+	"Hampshire County, WV"	"54027"	"2015"	"2015"	16	19656	Unreliable
+	"Hampshire County, WV"	"54027"	"2016"	"2016"	19	19631	Unreliable
+	"Hancock County, WV"	"54029"	"2006"	"2006"	11	26039	Unreliable
+	"Hancock County, WV"	"54029"	"2007"	"2007"	13	25760	Unreliable
+	"Hancock County, WV"	"54029"	"2008"	"2008"	10	25693	Unreliable
+	"Hancock County, WV"	"54029"	"2010"	"2010"	12	25607	Unreliable
+	"Hancock County, WV"	"54029"	"2012"	"2012"	13	25399	Unreliable
+	"Hancock County, WV"	"54029"	"2013"	"2013"	17	25293	Unreliable
+	"Hancock County, WV"	"54029"	"2014"	"2014"	22	25210	87.3
+	"Hancock County, WV"	"54029"	"2015"	"2015"	17	25087	Unreliable
+	"Hancock County, WV"	"54029"	"2016"	"2016"	17	24910	Unreliable
+	"Harrison County, WV"	"54033"	"2001"	"2001"	16	55179	Unreliable
+	"Harrison County, WV"	"54033"	"2002"	"2002"	18	55205	Unreliable
+	"Harrison County, WV"	"54033"	"2003"	"2003"	14	55281	Unreliable
+	"Harrison County, WV"	"54033"	"2004"	"2004"	15	55437	Unreliable
+	"Harrison County, WV"	"54033"	"2006"	"2006"	19	55677	Unreliable
+	"Harrison County, WV"	"54033"	"2007"	"2007"	22	55704	39.5
+	"Harrison County, WV"	"54033"	"2008"	"2008"	18	56135	Unreliable
+	"Harrison County, WV"	"54033"	"2009"	"2009"	10	56397	Unreliable
+	"Harrison County, WV"	"54033"	"2010"	"2010"	20	56744	35.2
+	"Harrison County, WV"	"54033"	"2011"	"2011"	33	57043	57.9
+	"Harrison County, WV"	"54033"	"2012"	"2012"	23	56792	40.5
+	"Harrison County, WV"	"54033"	"2013"	"2013"	28	56645	49.4
+	"Harrison County, WV"	"54033"	"2014"	"2014"	27	56527	47.8
+	"Harrison County, WV"	"54033"	"2015"	"2015"	27	56402	47.9
+	"Harrison County, WV"	"54033"	"2016"	"2016"	36	56167	64.1
+	"Jackson County, WV"	"54035"	"2013"	"2013"	11	24007	Unreliable
+	"Jefferson County, WV"	"54037"	"2002"	"2002"	10	35911	Unreliable
+	"Jefferson County, WV"	"54037"	"2003"	"2003"	10	37025	Unreliable
+	"Jefferson County, WV"	"54037"	"2004"	"2004"	13	37855	Unreliable
+	"Jefferson County, WV"	"54037"	"2006"	"2006"	14	40046	Unreliable
+	"Jefferson County, WV"	"54037"	"2007"	"2007"	24	41020	58.5
+	"Jefferson County, WV"	"54037"	"2008"	"2008"	14	41759	Unreliable
+	"Jefferson County, WV"	"54037"	"2009"	"2009"	18	42435	Unreliable
+	"Jefferson County, WV"	"54037"	"2010"	"2010"	12	42867	Unreliable
+	"Jefferson County, WV"	"54037"	"2011"	"2011"	15	43627	Unreliable
+	"Jefferson County, WV"	"54037"	"2012"	"2012"	13	43915	Unreliable
+	"Jefferson County, WV"	"54037"	"2013"	"2013"	21	44504	47.2
+	"Jefferson County, WV"	"54037"	"2014"	"2014"	17	45128	Unreliable
+	"Jefferson County, WV"	"54037"	"2015"	"2015"	19	45748	Unreliable
+	"Jefferson County, WV"	"54037"	"2016"	"2016"	40	45838	87.3
+	"Kanawha County, WV"	"54039"	"1999"	"1999"	37	165711	22.3
+	"Kanawha County, WV"	"54039"	"2000"	"2000"	52	164872	31.5
+	"Kanawha County, WV"	"54039"	"2001"	"2001"	43	163381	26.3
+	"Kanawha County, WV"	"54039"	"2002"	"2002"	43	162258	26.5
+	"Kanawha County, WV"	"54039"	"2003"	"2003"	56	161996	34.6
+	"Kanawha County, WV"	"54039"	"2004"	"2004"	58	161402	35.9
+	"Kanawha County, WV"	"54039"	"2005"	"2005"	49	160482	30.5
+	"Kanawha County, WV"	"54039"	"2006"	"2006"	66	159822	41.3
+	"Kanawha County, WV"	"54039"	"2007"	"2007"	49	159580	30.7
+	"Kanawha County, WV"	"54039"	"2008"	"2008"	82	159501	51.4
+	"Kanawha County, WV"	"54039"	"2009"	"2009"	45	160096	28.1
+	"Kanawha County, WV"	"54039"	"2010"	"2010"	73	160122	45.6
+	"Kanawha County, WV"	"54039"	"2011"	"2011"	99	159668	62.0
+	"Kanawha County, WV"	"54039"	"2012"	"2012"	90	159482	56.4
+	"Kanawha County, WV"	"54039"	"2013"	"2013"	84	158900	52.9
+	"Kanawha County, WV"	"54039"	"2014"	"2014"	108	157968	68.4
+	"Kanawha County, WV"	"54039"	"2015"	"2015"	152	156450	97.2
+	"Kanawha County, WV"	"54039"	"2016"	"2016"	156	154882	100.7
+	"Lincoln County, WV"	"54043"	"2006"	"2006"	11	17896	Unreliable
+	"Lincoln County, WV"	"54043"	"2010"	"2010"	14	17712	Unreliable
+	"Lincoln County, WV"	"54043"	"2011"	"2011"	15	17550	Unreliable
+	"Lincoln County, WV"	"54043"	"2014"	"2014"	12	17527	Unreliable
+	"Lincoln County, WV"	"54043"	"2016"	"2016"	17	17271	Unreliable
+	"Logan County, WV"	"54045"	"2001"	"2001"	12	30502	Unreliable
+	"Logan County, WV"	"54045"	"2002"	"2002"	13	30608	Unreliable
+	"Logan County, WV"	"54045"	"2004"	"2004"	16	30269	Unreliable
+	"Logan County, WV"	"54045"	"2005"	"2005"	10	30259	Unreliable
+	"Logan County, WV"	"54045"	"2006"	"2006"	26	30210	86.1
+	"Logan County, WV"	"54045"	"2007"	"2007"	24	30236	79.4
+	"Logan County, WV"	"54045"	"2008"	"2008"	12	30357	Unreliable
+	"Logan County, WV"	"54045"	"2010"	"2010"	22	30628	71.8
+	"Logan County, WV"	"54045"	"2011"	"2011"	26	30407	85.5
+	"Logan County, WV"	"54045"	"2012"	"2012"	15	30090	Unreliable
+	"Logan County, WV"	"54045"	"2013"	"2013"	23	29902	76.9
+	"Logan County, WV"	"54045"	"2014"	"2014"	26	29329	88.6
+	"Logan County, WV"	"54045"	"2015"	"2015"	27	28810	93.7
+	"Logan County, WV"	"54045"	"2016"	"2016"	22	28018	78.5
+	"McDowell County, WV"	"54047"	"1999"	"1999"	10	22573	Unreliable
+	"McDowell County, WV"	"54047"	"2001"	"2001"	18	21542	Unreliable
+	"McDowell County, WV"	"54047"	"2003"	"2003"	11	20677	Unreliable
+	"McDowell County, WV"	"54047"	"2004"	"2004"	21	20114	104.4
+	"McDowell County, WV"	"54047"	"2006"	"2006"	13	19340	Unreliable
+	"McDowell County, WV"	"54047"	"2007"	"2007"	21	19024	110.4
+	"McDowell County, WV"	"54047"	"2008"	"2008"	25	18822	132.8
+	"McDowell County, WV"	"54047"	"2009"	"2009"	10	18635	Unreliable
+	"McDowell County, WV"	"54047"	"2010"	"2010"	24	18514	129.6
+	"McDowell County, WV"	"54047"	"2011"	"2011"	30	18150	165.3
+	"McDowell County, WV"	"54047"	"2012"	"2012"	16	17778	Unreliable
+	"McDowell County, WV"	"54047"	"2013"	"2013"	25	17360	144.0
+	"McDowell County, WV"	"54047"	"2014"	"2014"	13	16928	Unreliable
+	"McDowell County, WV"	"54047"	"2015"	"2015"	31	16387	189.2
+	"McDowell County, WV"	"54047"	"2016"	"2016"	19	15830	Unreliable
+	"Marion County, WV"	"54049"	"2006"	"2006"	12	47022	Unreliable
+	"Marion County, WV"	"54049"	"2007"	"2007"	20	47220	42.4
+	"Marion County, WV"	"54049"	"2008"	"2008"	14	46950	Unreliable
+	"Marion County, WV"	"54049"	"2011"	"2011"	12	47331	Unreliable
+	"Marion County, WV"	"54049"	"2014"	"2014"	15	47364	Unreliable
+	"Marion County, WV"	"54049"	"2015"	"2015"	16	47296	Unreliable
+	"Marion County, WV"	"54049"	"2016"	"2016"	17	47058	Unreliable
+	"Marshall County, WV"	"54051"	"2010"	"2010"	13	27557	Unreliable
+	"Marshall County, WV"	"54051"	"2011"	"2011"	10	27327	Unreliable
+	"Marshall County, WV"	"54051"	"2012"	"2012"	12	27257	Unreliable
+	"Marshall County, WV"	"54051"	"2013"	"2013"	10	27163	Unreliable
+	"Marshall County, WV"	"54051"	"2016"	"2016"	14	26629	Unreliable
+	"Mason County, WV"	"54053"	"2003"	"2003"	10	21733	Unreliable
+	"Mason County, WV"	"54053"	"2007"	"2007"	13	21951	Unreliable
+	"Mason County, WV"	"54053"	"2009"	"2009"	10	22417	Unreliable
+	"Mason County, WV"	"54053"	"2010"	"2010"	11	22430	Unreliable
+	"Mason County, WV"	"54053"	"2013"	"2013"	11	22418	Unreliable
+	"Mason County, WV"	"54053"	"2014"	"2014"	14	22283	Unreliable
+	"Mason County, WV"	"54053"	"2016"	"2016"	19	22172	Unreliable
+	"Mercer County, WV"	"54055"	"1999"	"1999"	17	52184	Unreliable
+	"Mercer County, WV"	"54055"	"2000"	"2000"	12	52092	Unreliable
+	"Mercer County, WV"	"54055"	"2001"	"2001"	28	51346	54.5
+	"Mercer County, WV"	"54055"	"2002"	"2002"	29	51429	56.4
+	"Mercer County, WV"	"54055"	"2003"	"2003"	24	51215	46.9
+	"Mercer County, WV"	"54055"	"2004"	"2004"	22	51049	43.1
+	"Mercer County, WV"	"54055"	"2005"	"2005"	17	50837	Unreliable
+	"Mercer County, WV"	"54055"	"2006"	"2006"	26	50930	51.1
+	"Mercer County, WV"	"54055"	"2007"	"2007"	31	51178	60.6
+	"Mercer County, WV"	"54055"	"2008"	"2008"	31	51283	60.4
+	"Mercer County, WV"	"54055"	"2009"	"2009"	19	51514	Unreliable
+	"Mercer County, WV"	"54055"	"2010"	"2010"	42	51699	81.2
+	"Mercer County, WV"	"54055"	"2011"	"2011"	59	51733	114.0
+	"Mercer County, WV"	"54055"	"2012"	"2012"	44	51665	85.2
+	"Mercer County, WV"	"54055"	"2013"	"2013"	32	51341	62.3
+	"Mercer County, WV"	"54055"	"2014"	"2014"	52	51032	101.9
+	"Mercer County, WV"	"54055"	"2015"	"2015"	44	50587	87.0
+	"Mercer County, WV"	"54055"	"2016"	"2016"	49	50024	98.0
+	"Mineral County, WV"	"54057"	"2016"	"2016"	16	22878	Unreliable
+	"Mingo County, WV"	"54059"	"1999"	"1999"	12	23306	Unreliable
+	"Mingo County, WV"	"54059"	"2001"	"2001"	10	22299	Unreliable
+	"Mingo County, WV"	"54059"	"2003"	"2003"	13	22378	Unreliable
+	"Mingo County, WV"	"54059"	"2004"	"2004"	11	22171	Unreliable
+	"Mingo County, WV"	"54059"	"2006"	"2006"	14	22057	Unreliable
+	"Mingo County, WV"	"54059"	"2007"	"2007"	12	22154	Unreliable
+	"Mingo County, WV"	"54059"	"2008"	"2008"	19	21947	Unreliable
+	"Mingo County, WV"	"54059"	"2010"	"2010"	17	21942	Unreliable
+	"Mingo County, WV"	"54059"	"2011"	"2011"	21	21725	96.7
+	"Mingo County, WV"	"54059"	"2012"	"2012"	23	21247	108.3
+	"Mingo County, WV"	"54059"	"2013"	"2013"	14	21114	Unreliable
+	"Mingo County, WV"	"54059"	"2014"	"2014"	28	20906	133.9
+	"Mingo County, WV"	"54059"	"2015"	"2015"	15	20582	Unreliable
+	"Mingo County, WV"	"54059"	"2016"	"2016"	27	20035	134.8
+	"Monongalia County, WV"	"54061"	"2003"	"2003"	12	73842	Unreliable
+	"Monongalia County, WV"	"54061"	"2004"	"2004"	12	74954	Unreliable
+	"Monongalia County, WV"	"54061"	"2007"	"2007"	10	78707	Unreliable
+	"Monongalia County, WV"	"54061"	"2008"	"2008"	20	79967	25.0
+	"Monongalia County, WV"	"54061"	"2010"	"2010"	11	83484	Unreliable
+	"Monongalia County, WV"	"54061"	"2011"	"2011"	13	85545	Unreliable
+	"Monongalia County, WV"	"54061"	"2012"	"2012"	19	86817	Unreliable
+	"Monongalia County, WV"	"54061"	"2013"	"2013"	12	88531	Unreliable
+	"Monongalia County, WV"	"54061"	"2014"	"2014"	23	89498	25.7
+	"Monongalia County, WV"	"54061"	"2015"	"2015"	19	89997	Unreliable
+	"Monongalia County, WV"	"54061"	"2016"	"2016"	33	89963	36.7
+	"Morgan County, WV"	"54065"	"2013"	"2013"	10	14762	Unreliable
+	"Nicholas County, WV"	"54067"	"2011"	"2011"	20	21780	91.8
+	"Nicholas County, WV"	"54067"	"2012"	"2012"	16	21739	Unreliable
+	"Nicholas County, WV"	"54067"	"2013"	"2013"	17	21459	Unreliable
+	"Nicholas County, WV"	"54067"	"2014"	"2014"	12	21323	Unreliable
+	"Nicholas County, WV"	"54067"	"2015"	"2015"	16	21200	Unreliable
+	"Nicholas County, WV"	"54067"	"2016"	"2016"	21	20998	100.0
+	"Ohio County, WV"	"54069"	"2001"	"2001"	10	38714	Unreliable
+	"Ohio County, WV"	"54069"	"2003"	"2003"	12	38203	Unreliable
+	"Ohio County, WV"	"54069"	"2006"	"2006"	10	37758	Unreliable
+	"Ohio County, WV"	"54069"	"2007"	"2007"	13	37621	Unreliable
+	"Ohio County, WV"	"54069"	"2008"	"2008"	13	37481	Unreliable
+	"Ohio County, WV"	"54069"	"2011"	"2011"	11	37372	Unreliable
+	"Ohio County, WV"	"54069"	"2013"	"2013"	13	36892	Unreliable
+	"Ohio County, WV"	"54069"	"2014"	"2014"	13	36449	Unreliable
+	"Ohio County, WV"	"54069"	"2015"	"2015"	20	36179	55.3
+	"Ohio County, WV"	"54069"	"2016"	"2016"	16	35741	Unreliable
+	"Preston County, WV"	"54077"	"2016"	"2016"	15	28317	Unreliable
+	"Putnam County, WV"	"54079"	"2004"	"2004"	10	42458	Unreliable
+	"Putnam County, WV"	"54079"	"2007"	"2007"	13	43934	Unreliable
+	"Putnam County, WV"	"54079"	"2008"	"2008"	14	44167	Unreliable
+	"Putnam County, WV"	"54079"	"2009"	"2009"	10	44354	Unreliable
+	"Putnam County, WV"	"54079"	"2010"	"2010"	14	44552	Unreliable
+	"Putnam County, WV"	"54079"	"2011"	"2011"	16	45219	Unreliable
+	"Putnam County, WV"	"54079"	"2012"	"2012"	11	45631	Unreliable
+	"Putnam County, WV"	"54079"	"2013"	"2013"	15	45758	Unreliable
+	"Putnam County, WV"	"54079"	"2014"	"2014"	15	46069	Unreliable
+	"Putnam County, WV"	"54079"	"2015"	"2015"	24	46256	51.9
+	"Putnam County, WV"	"54079"	"2016"	"2016"	26	46385	56.1
+	"Raleigh County, WV"	"54081"	"1999"	"1999"	10	65426	Unreliable
+	"Raleigh County, WV"	"54081"	"2000"	"2000"	19	65293	Unreliable
+	"Raleigh County, WV"	"54081"	"2001"	"2001"	14	64724	Unreliable
+	"Raleigh County, WV"	"54081"	"2002"	"2002"	15	65156	Unreliable
+	"Raleigh County, WV"	"54081"	"2003"	"2003"	26	65016	40.0
+	"Raleigh County, WV"	"54081"	"2004"	"2004"	28	64884	43.2
+	"Raleigh County, WV"	"54081"	"2005"	"2005"	15	64871	Unreliable
+	"Raleigh County, WV"	"54081"	"2006"	"2006"	26	64860	40.1
+	"Raleigh County, WV"	"54081"	"2007"	"2007"	32	64891	49.3
+	"Raleigh County, WV"	"54081"	"2008"	"2008"	29	64835	44.7
+	"Raleigh County, WV"	"54081"	"2009"	"2009"	22	65053	33.8
+	"Raleigh County, WV"	"54081"	"2010"	"2010"	53	65174	81.3
+	"Raleigh County, WV"	"54081"	"2011"	"2011"	63	65324	96.4
+	"Raleigh County, WV"	"54081"	"2012"	"2012"	64	65108	98.3
+	"Raleigh County, WV"	"54081"	"2013"	"2013"	44	64804	67.9
+	"Raleigh County, WV"	"54081"	"2014"	"2014"	52	64234	81.0
+	"Raleigh County, WV"	"54081"	"2015"	"2015"	70	63664	110.0
+	"Raleigh County, WV"	"54081"	"2016"	"2016"	59	63067	93.6
+	"Randolph County, WV"	"54083"	"2004"	"2004"	10	23638	Unreliable
+	"Randolph County, WV"	"54083"	"2015"	"2015"	12	24560	Unreliable
+	"Randolph County, WV"	"54083"	"2016"	"2016"	11	24449	Unreliable
+	"Roane County, WV"	"54087"	"2016"	"2016"	10	11727	Unreliable
+	"Summers County, WV"	"54089"	"2004"	"2004"	10	11986	Unreliable
+	"Summers County, WV"	"54089"	"2010"	"2010"	12	11931	Unreliable
+	"Summers County, WV"	"54089"	"2012"	"2012"	10	11727	Unreliable
+	"Summers County, WV"	"54089"	"2015"	"2015"	10	11352	Unreliable
+	"Summers County, WV"	"54089"	"2016"	"2016"	10	11107	Unreliable
+	"Wayne County, WV"	"54099"	"2001"	"2001"	10	34750	Unreliable
+	"Wayne County, WV"	"54099"	"2003"	"2003"	13	34847	Unreliable
+	"Wayne County, WV"	"54099"	"2004"	"2004"	12	34839	Unreliable
+	"Wayne County, WV"	"54099"	"2006"	"2006"	15	34810	Unreliable
+	"Wayne County, WV"	"54099"	"2010"	"2010"	21	34675	60.6
+	"Wayne County, WV"	"54099"	"2011"	"2011"	21	34511	60.9
+	"Wayne County, WV"	"54099"	"2012"	"2012"	14	34169	Unreliable
+	"Wayne County, WV"	"54099"	"2013"	"2013"	20	34229	58.4
+	"Wayne County, WV"	"54099"	"2014"	"2014"	20	34083	58.7
+	"Wayne County, WV"	"54099"	"2015"	"2015"	19	33888	Unreliable
+	"Wayne County, WV"	"54099"	"2016"	"2016"	40	33618	119.0
+	"Wood County, WV"	"54107"	"2000"	"2000"	13	71358	Unreliable
+	"Wood County, WV"	"54107"	"2001"	"2001"	11	71149	Unreliable
+	"Wood County, WV"	"54107"	"2002"	"2002"	10	71228	Unreliable
+	"Wood County, WV"	"54107"	"2003"	"2003"	15	71038	Unreliable
+	"Wood County, WV"	"54107"	"2004"	"2004"	16	70999	Unreliable
+	"Wood County, WV"	"54107"	"2005"	"2005"	12	71104	Unreliable
+	"Wood County, WV"	"54107"	"2006"	"2006"	14	70948	Unreliable
+	"Wood County, WV"	"54107"	"2008"	"2008"	25	71221	35.1
+	"Wood County, WV"	"54107"	"2009"	"2009"	10	71286	Unreliable
+	"Wood County, WV"	"54107"	"2010"	"2010"	15	71383	Unreliable
+	"Wood County, WV"	"54107"	"2011"	"2011"	17	71613	Unreliable
+	"Wood County, WV"	"54107"	"2012"	"2012"	29	71359	40.6
+	"Wood County, WV"	"54107"	"2013"	"2013"	25	71323	35.1
+	"Wood County, WV"	"54107"	"2014"	"2014"	38	71419	53.2
+	"Wood County, WV"	"54107"	"2015"	"2015"	30	71260	42.1
+	"Wood County, WV"	"54107"	"2016"	"2016"	57	70648	80.7
+	"Wyoming County, WV"	"54109"	"2003"	"2003"	15	20361	Unreliable
+	"Wyoming County, WV"	"54109"	"2004"	"2004"	14	20122	Unreliable
+	"Wyoming County, WV"	"54109"	"2006"	"2006"	17	19951	Unreliable
+	"Wyoming County, WV"	"54109"	"2007"	"2007"	19	19817	Unreliable
+	"Wyoming County, WV"	"54109"	"2008"	"2008"	22	19680	111.8
+	"Wyoming County, WV"	"54109"	"2009"	"2009"	10	19630	Unreliable
+	"Wyoming County, WV"	"54109"	"2010"	"2010"	30	19548	153.5
+	"Wyoming County, WV"	"54109"	"2011"	"2011"	34	19247	176.7
+	"Wyoming County, WV"	"54109"	"2012"	"2012"	23	19173	120.0
+	"Wyoming County, WV"	"54109"	"2013"	"2013"	14	19000	Unreliable
+	"Wyoming County, WV"	"54109"	"2014"	"2014"	22	18644	118.0
+	"Wyoming County, WV"	"54109"	"2015"	"2015"	28	18355	152.5
+	"Wyoming County, WV"	"54109"	"2016"	"2016"	18	18004	Unreliable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2016"
+"Query Parameters:"
+"Title:"
+"2013 Urbanization: All"
+"Autopsy: All"
+"Gender: All"
+"Hispanic Origin: All"
+"MCD - Drug/Alcohol Induced Causes: Drug-induced causes, Alcohol-induced causes"
+"Place of Death: All"
+"Race: All"
+"States: West Virginia (54)"
+"Ten-Year Age Groups: 15-24 years, 25-34 years, 35-44 years, 45-54 years, 55-64 years, 65-74 years, 75-84 years, 85+ years"
+"UCD - Drug/Alcohol Induced Causes: Drug-induced causes, Alcohol-induced causes"
+"Weekday: All"
+"Year/Month: All"
+"Group By: County, Year"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: May 13, 2018 4:04:03 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2016 on CDC WONDER Online Database, released December, 2017. Data are from the Multiple Cause of Death Files, 1999-2016, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on May 13, 2018 4:04:03 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"5. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016"
+"postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for"
+"year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS"
+"on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013."
+"Population figures for 2011 are bridged-race estimates of the July 1 resident population, from the county-level postcensal"
+"Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population"
+"figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident population, from the revised intercensal"
+"county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts."
+"Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for Infant Age"
+"Groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from"
+"previously published reports, due to use of the population estimates which were available at the time of release."

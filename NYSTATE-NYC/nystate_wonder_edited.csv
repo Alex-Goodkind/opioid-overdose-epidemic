@@ -1,0 +1,711 @@
+,County,County Code,Ten-Year Age Groups,Ten-Year Age Groups Code,Year,Year Code,Gender,Gender Code,Race,Race Code,Deaths,Population,Crude Rate
+0,"Albany County, NY",36001.0,25-34 years,25-34,2014.0,2014.0,Male,M,White,2106-3,11.0,15534.0,Unreliable
+1,"Albany County, NY",36001.0,45-54 years,45-54,2011.0,2011.0,Male,M,White,2106-3,12.0,17900.0,Unreliable
+2,"Albany County, NY",36001.0,45-54 years,45-54,2013.0,2013.0,Male,M,White,2106-3,12.0,17091.0,Unreliable
+3,"Albany County, NY",36001.0,55-64 years,55-64,2014.0,2014.0,Male,M,White,2106-3,11.0,16853.0,Unreliable
+4,"Bronx County, NY",36005.0,15-24 years,15-24,2016.0,2016.0,Male,M,White,2106-3,14.0,50085.0,Unreliable
+5,"Bronx County, NY",36005.0,25-34 years,25-34,2010.0,2010.0,Male,M,White,2106-3,17.0,45341.0,Unreliable
+6,"Bronx County, NY",36005.0,25-34 years,25-34,2011.0,2011.0,Male,M,White,2106-3,22.0,46848.0,47.0
+7,"Bronx County, NY",36005.0,25-34 years,25-34,2012.0,2012.0,Male,M,White,2106-3,25.0,47267.0,52.9
+8,"Bronx County, NY",36005.0,25-34 years,25-34,2013.0,2013.0,Male,M,White,2106-3,19.0,48813.0,Unreliable
+9,"Bronx County, NY",36005.0,25-34 years,25-34,2014.0,2014.0,Male,M,White,2106-3,21.0,50145.0,41.9
+10,"Bronx County, NY",36005.0,25-34 years,25-34,2015.0,2015.0,Male,M,White,2106-3,34.0,51280.0,66.3
+11,"Bronx County, NY",36005.0,25-34 years,25-34,2016.0,2016.0,Male,M,White,2106-3,30.0,51890.0,57.8
+12,"Bronx County, NY",36005.0,35-44 years,35-44,2010.0,2010.0,Male,M,White,2106-3,29.0,40212.0,72.1
+13,"Bronx County, NY",36005.0,35-44 years,35-44,2011.0,2011.0,Male,M,Black or African American,2054-5,12.0,36898.0,Unreliable
+14,"Bronx County, NY",36005.0,35-44 years,35-44,2011.0,2011.0,Male,M,White,2106-3,31.0,39682.0,78.1
+15,"Bronx County, NY",36005.0,35-44 years,35-44,2012.0,2012.0,Female,F,White,2106-3,12.0,43185.0,Unreliable
+16,"Bronx County, NY",36005.0,35-44 years,35-44,2012.0,2012.0,Male,M,White,2106-3,25.0,39817.0,62.8
+17,"Bronx County, NY",36005.0,35-44 years,35-44,2013.0,2013.0,Female,F,White,2106-3,11.0,42989.0,Unreliable
+18,"Bronx County, NY",36005.0,35-44 years,35-44,2013.0,2013.0,Male,M,Black or African American,2054-5,12.0,36637.0,Unreliable
+19,"Bronx County, NY",36005.0,35-44 years,35-44,2013.0,2013.0,Male,M,White,2106-3,28.0,39673.0,70.6
+20,"Bronx County, NY",36005.0,35-44 years,35-44,2014.0,2014.0,Female,F,White,2106-3,10.0,43545.0,Unreliable
+21,"Bronx County, NY",36005.0,35-44 years,35-44,2014.0,2014.0,Male,M,White,2106-3,36.0,39588.0,90.9
+22,"Bronx County, NY",36005.0,35-44 years,35-44,2015.0,2015.0,Female,F,White,2106-3,15.0,44308.0,Unreliable
+23,"Bronx County, NY",36005.0,35-44 years,35-44,2015.0,2015.0,Male,M,White,2106-3,34.0,39912.0,85.2
+24,"Bronx County, NY",36005.0,35-44 years,35-44,2016.0,2016.0,Female,F,White,2106-3,19.0,43358.0,Unreliable
+25,"Bronx County, NY",36005.0,35-44 years,35-44,2016.0,2016.0,Male,M,White,2106-3,57.0,39508.0,144.3
+26,"Bronx County, NY",36005.0,45-54 years,45-54,2010.0,2010.0,Female,F,Black or African American,2054-5,10.0,49095.0,Unreliable
+27,"Bronx County, NY",36005.0,45-54 years,45-54,2010.0,2010.0,Female,F,White,2106-3,17.0,43643.0,Unreliable
+28,"Bronx County, NY",36005.0,45-54 years,45-54,2010.0,2010.0,Male,M,Black or African American,2054-5,15.0,39649.0,Unreliable
+29,"Bronx County, NY",36005.0,45-54 years,45-54,2010.0,2010.0,Male,M,White,2106-3,59.0,38040.0,155.1
+30,"Bronx County, NY",36005.0,45-54 years,45-54,2011.0,2011.0,Female,F,Black or African American,2054-5,16.0,49255.0,Unreliable
+31,"Bronx County, NY",36005.0,45-54 years,45-54,2011.0,2011.0,Female,F,White,2106-3,18.0,43685.0,Unreliable
+32,"Bronx County, NY",36005.0,45-54 years,45-54,2011.0,2011.0,Male,M,Black or African American,2054-5,20.0,39901.0,50.1
+33,"Bronx County, NY",36005.0,45-54 years,45-54,2011.0,2011.0,Male,M,White,2106-3,52.0,38394.0,135.4
+34,"Bronx County, NY",36005.0,45-54 years,45-54,2012.0,2012.0,Female,F,Black or African American,2054-5,19.0,49475.0,Unreliable
+35,"Bronx County, NY",36005.0,45-54 years,45-54,2012.0,2012.0,Female,F,White,2106-3,21.0,43955.0,47.8
+36,"Bronx County, NY",36005.0,45-54 years,45-54,2012.0,2012.0,Male,M,Black or African American,2054-5,28.0,40075.0,69.9
+37,"Bronx County, NY",36005.0,45-54 years,45-54,2012.0,2012.0,Male,M,White,2106-3,51.0,38813.0,131.4
+38,"Bronx County, NY",36005.0,45-54 years,45-54,2013.0,2013.0,Female,F,Black or African American,2054-5,18.0,49820.0,Unreliable
+39,"Bronx County, NY",36005.0,45-54 years,45-54,2013.0,2013.0,Female,F,White,2106-3,24.0,44366.0,54.1
+40,"Bronx County, NY",36005.0,45-54 years,45-54,2013.0,2013.0,Male,M,Black or African American,2054-5,22.0,40501.0,54.3
+41,"Bronx County, NY",36005.0,45-54 years,45-54,2013.0,2013.0,Male,M,White,2106-3,61.0,39239.0,155.5
+42,"Bronx County, NY",36005.0,45-54 years,45-54,2014.0,2014.0,Female,F,Black or African American,2054-5,13.0,50051.0,Unreliable
+43,"Bronx County, NY",36005.0,45-54 years,45-54,2014.0,2014.0,Female,F,White,2106-3,14.0,44504.0,Unreliable
+44,"Bronx County, NY",36005.0,45-54 years,45-54,2014.0,2014.0,Male,M,Black or African American,2054-5,24.0,40545.0,59.2
+45,"Bronx County, NY",36005.0,45-54 years,45-54,2014.0,2014.0,Male,M,White,2106-3,55.0,39575.0,139.0
+46,"Bronx County, NY",36005.0,45-54 years,45-54,2015.0,2015.0,Female,F,Black or African American,2054-5,17.0,50114.0,Unreliable
+47,"Bronx County, NY",36005.0,45-54 years,45-54,2015.0,2015.0,Female,F,White,2106-3,29.0,44410.0,65.3
+48,"Bronx County, NY",36005.0,45-54 years,45-54,2015.0,2015.0,Male,M,Black or African American,2054-5,25.0,40771.0,61.3
+49,"Bronx County, NY",36005.0,45-54 years,45-54,2015.0,2015.0,Male,M,White,2106-3,77.0,39827.0,193.3
+50,"Bronx County, NY",36005.0,45-54 years,45-54,2016.0,2016.0,Female,F,Black or African American,2054-5,14.0,49214.0,Unreliable
+51,"Bronx County, NY",36005.0,45-54 years,45-54,2016.0,2016.0,Female,F,White,2106-3,22.0,44004.0,50.0
+52,"Bronx County, NY",36005.0,45-54 years,45-54,2016.0,2016.0,Male,M,Black or African American,2054-5,32.0,40019.0,80.0
+53,"Bronx County, NY",36005.0,45-54 years,45-54,2016.0,2016.0,Male,M,White,2106-3,92.0,38587.0,238.4
+54,"Bronx County, NY",36005.0,55-64 years,55-64,2010.0,2010.0,Female,F,White,2106-3,13.0,35637.0,Unreliable
+55,"Bronx County, NY",36005.0,55-64 years,55-64,2010.0,2010.0,Male,M,Black or African American,2054-5,25.0,25389.0,98.5
+56,"Bronx County, NY",36005.0,55-64 years,55-64,2010.0,2010.0,Male,M,White,2106-3,32.0,28991.0,110.4
+57,"Bronx County, NY",36005.0,55-64 years,55-64,2011.0,2011.0,Female,F,White,2106-3,15.0,36213.0,Unreliable
+58,"Bronx County, NY",36005.0,55-64 years,55-64,2011.0,2011.0,Male,M,Black or African American,2054-5,18.0,26486.0,Unreliable
+59,"Bronx County, NY",36005.0,55-64 years,55-64,2011.0,2011.0,Male,M,White,2106-3,42.0,29733.0,141.3
+60,"Bronx County, NY",36005.0,55-64 years,55-64,2012.0,2012.0,Female,F,White,2106-3,16.0,36541.0,Unreliable
+61,"Bronx County, NY",36005.0,55-64 years,55-64,2012.0,2012.0,Male,M,Black or African American,2054-5,22.0,27496.0,80.0
+62,"Bronx County, NY",36005.0,55-64 years,55-64,2012.0,2012.0,Male,M,White,2106-3,52.0,30022.0,173.2
+63,"Bronx County, NY",36005.0,55-64 years,55-64,2013.0,2013.0,Female,F,Black or African American,2054-5,13.0,36826.0,Unreliable
+64,"Bronx County, NY",36005.0,55-64 years,55-64,2013.0,2013.0,Female,F,White,2106-3,13.0,36860.0,Unreliable
+65,"Bronx County, NY",36005.0,55-64 years,55-64,2013.0,2013.0,Male,M,Black or African American,2054-5,26.0,28762.0,90.4
+66,"Bronx County, NY",36005.0,55-64 years,55-64,2013.0,2013.0,Male,M,White,2106-3,41.0,30529.0,134.3
+67,"Bronx County, NY",36005.0,55-64 years,55-64,2014.0,2014.0,Female,F,Black or African American,2054-5,14.0,38408.0,Unreliable
+68,"Bronx County, NY",36005.0,55-64 years,55-64,2014.0,2014.0,Female,F,White,2106-3,16.0,37654.0,Unreliable
+69,"Bronx County, NY",36005.0,55-64 years,55-64,2014.0,2014.0,Male,M,Black or African American,2054-5,23.0,30168.0,76.2
+70,"Bronx County, NY",36005.0,55-64 years,55-64,2014.0,2014.0,Male,M,White,2106-3,59.0,30954.0,190.6
+71,"Bronx County, NY",36005.0,55-64 years,55-64,2015.0,2015.0,Female,F,Black or African American,2054-5,14.0,39809.0,Unreliable
+72,"Bronx County, NY",36005.0,55-64 years,55-64,2015.0,2015.0,Female,F,White,2106-3,20.0,38409.0,52.1
+73,"Bronx County, NY",36005.0,55-64 years,55-64,2015.0,2015.0,Male,M,Black or African American,2054-5,34.0,31429.0,108.2
+74,"Bronx County, NY",36005.0,55-64 years,55-64,2015.0,2015.0,Male,M,White,2106-3,55.0,31662.0,173.7
+75,"Bronx County, NY",36005.0,55-64 years,55-64,2016.0,2016.0,Female,F,Black or African American,2054-5,15.0,40560.0,Unreliable
+76,"Bronx County, NY",36005.0,55-64 years,55-64,2016.0,2016.0,Female,F,White,2106-3,15.0,38279.0,Unreliable
+77,"Bronx County, NY",36005.0,55-64 years,55-64,2016.0,2016.0,Male,M,Black or African American,2054-5,42.0,32331.0,129.9
+78,"Bronx County, NY",36005.0,55-64 years,55-64,2016.0,2016.0,Male,M,White,2106-3,69.0,31447.0,219.4
+79,"Bronx County, NY",36005.0,65-74 years,65-74,2010.0,2010.0,Male,M,White,2106-3,15.0,17792.0,Unreliable
+80,"Bronx County, NY",36005.0,65-74 years,65-74,2011.0,2011.0,Male,M,White,2106-3,13.0,18210.0,Unreliable
+81,"Bronx County, NY",36005.0,65-74 years,65-74,2012.0,2012.0,Male,M,White,2106-3,19.0,18863.0,Unreliable
+82,"Bronx County, NY",36005.0,65-74 years,65-74,2013.0,2013.0,Male,M,White,2106-3,18.0,19122.0,Unreliable
+83,"Bronx County, NY",36005.0,65-74 years,65-74,2014.0,2014.0,Male,M,Black or African American,2054-5,12.0,15470.0,Unreliable
+84,"Bronx County, NY",36005.0,65-74 years,65-74,2014.0,2014.0,Male,M,White,2106-3,19.0,19442.0,Unreliable
+85,"Bronx County, NY",36005.0,65-74 years,65-74,2015.0,2015.0,Male,M,Black or African American,2054-5,11.0,16274.0,Unreliable
+86,"Bronx County, NY",36005.0,65-74 years,65-74,2015.0,2015.0,Male,M,White,2106-3,29.0,19950.0,145.4
+87,"Bronx County, NY",36005.0,65-74 years,65-74,2016.0,2016.0,Female,F,White,2106-3,10.0,27129.0,Unreliable
+88,"Bronx County, NY",36005.0,65-74 years,65-74,2016.0,2016.0,Male,M,White,2106-3,24.0,20412.0,117.6
+89,"Broome County, NY",36007.0,25-34 years,25-34,2016.0,2016.0,Male,M,White,2106-3,15.0,9574.0,Unreliable
+90,"Broome County, NY",36007.0,45-54 years,45-54,2015.0,2015.0,Male,M,White,2106-3,11.0,11605.0,Unreliable
+91,"Broome County, NY",36007.0,45-54 years,45-54,2016.0,2016.0,Male,M,White,2106-3,16.0,11053.0,Unreliable
+92,"Broome County, NY",36007.0,55-64 years,55-64,2015.0,2015.0,Male,M,White,2106-3,11.0,12651.0,Unreliable
+93,"Broome County, NY",36007.0,55-64 years,55-64,2016.0,2016.0,Male,M,White,2106-3,16.0,12835.0,Unreliable
+94,"Chautauqua County, NY",36013.0,25-34 years,25-34,2016.0,2016.0,Male,M,White,2106-3,11.0,7178.0,Unreliable
+95,"Dutchess County, NY",36027.0,25-34 years,25-34,2012.0,2012.0,Male,M,White,2106-3,11.0,13141.0,Unreliable
+96,"Dutchess County, NY",36027.0,25-34 years,25-34,2013.0,2013.0,Male,M,White,2106-3,10.0,13425.0,Unreliable
+97,"Dutchess County, NY",36027.0,25-34 years,25-34,2016.0,2016.0,Male,M,White,2106-3,10.0,13778.0,Unreliable
+98,"Dutchess County, NY",36027.0,35-44 years,35-44,2010.0,2010.0,Male,M,White,2106-3,15.0,15971.0,Unreliable
+99,"Dutchess County, NY",36027.0,45-54 years,45-54,2011.0,2011.0,Male,M,White,2106-3,13.0,21486.0,Unreliable
+100,"Dutchess County, NY",36027.0,45-54 years,45-54,2012.0,2012.0,Female,F,White,2106-3,14.0,20977.0,Unreliable
+101,"Dutchess County, NY",36027.0,45-54 years,45-54,2012.0,2012.0,Male,M,White,2106-3,15.0,21014.0,Unreliable
+102,"Dutchess County, NY",36027.0,45-54 years,45-54,2013.0,2013.0,Female,F,White,2106-3,13.0,20747.0,Unreliable
+103,"Dutchess County, NY",36027.0,45-54 years,45-54,2013.0,2013.0,Male,M,White,2106-3,12.0,20496.0,Unreliable
+104,"Dutchess County, NY",36027.0,45-54 years,45-54,2015.0,2015.0,Male,M,White,2106-3,13.0,19188.0,Unreliable
+105,"Dutchess County, NY",36027.0,45-54 years,45-54,2016.0,2016.0,Male,M,White,2106-3,11.0,18567.0,Unreliable
+106,"Dutchess County, NY",36027.0,55-64 years,55-64,2010.0,2010.0,Male,M,White,2106-3,11.0,16223.0,Unreliable
+107,"Dutchess County, NY",36027.0,55-64 years,55-64,2013.0,2013.0,Male,M,White,2106-3,12.0,17672.0,Unreliable
+108,"Dutchess County, NY",36027.0,55-64 years,55-64,2015.0,2015.0,Male,M,White,2106-3,10.0,18591.0,Unreliable
+109,"Erie County, NY",36029.0,15-24 years,15-24,2010.0,2010.0,Male,M,White,2106-3,10.0,52860.0,Unreliable
+110,"Erie County, NY",36029.0,15-24 years,15-24,2011.0,2011.0,Male,M,White,2106-3,18.0,52278.0,Unreliable
+111,"Erie County, NY",36029.0,15-24 years,15-24,2014.0,2014.0,Male,M,White,2106-3,16.0,48528.0,Unreliable
+112,"Erie County, NY",36029.0,15-24 years,15-24,2015.0,2015.0,Male,M,White,2106-3,22.0,47111.0,46.7
+113,"Erie County, NY",36029.0,15-24 years,15-24,2016.0,2016.0,Male,M,White,2106-3,28.0,46289.0,60.5
+114,"Erie County, NY",36029.0,25-34 years,25-34,2010.0,2010.0,Male,M,White,2106-3,12.0,43430.0,Unreliable
+115,"Erie County, NY",36029.0,25-34 years,25-34,2011.0,2011.0,Female,F,White,2106-3,12.0,43564.0,Unreliable
+116,"Erie County, NY",36029.0,25-34 years,25-34,2011.0,2011.0,Male,M,White,2106-3,18.0,45089.0,Unreliable
+117,"Erie County, NY",36029.0,25-34 years,25-34,2012.0,2012.0,Male,M,White,2106-3,13.0,46674.0,Unreliable
+118,"Erie County, NY",36029.0,25-34 years,25-34,2013.0,2013.0,Female,F,White,2106-3,13.0,46901.0,Unreliable
+119,"Erie County, NY",36029.0,25-34 years,25-34,2013.0,2013.0,Male,M,White,2106-3,23.0,48572.0,47.4
+120,"Erie County, NY",36029.0,25-34 years,25-34,2014.0,2014.0,Male,M,White,2106-3,25.0,50293.0,49.7
+121,"Erie County, NY",36029.0,25-34 years,25-34,2015.0,2015.0,Female,F,White,2106-3,23.0,48790.0,47.1
+122,"Erie County, NY",36029.0,25-34 years,25-34,2015.0,2015.0,Male,M,White,2106-3,71.0,51316.0,138.4
+123,"Erie County, NY",36029.0,25-34 years,25-34,2016.0,2016.0,Female,F,White,2106-3,11.0,49128.0,Unreliable
+124,"Erie County, NY",36029.0,25-34 years,25-34,2016.0,2016.0,Male,M,White,2106-3,74.0,51857.0,142.7
+125,"Erie County, NY",36029.0,35-44 years,35-44,2010.0,2010.0,Female,F,White,2106-3,14.0,46785.0,Unreliable
+126,"Erie County, NY",36029.0,35-44 years,35-44,2010.0,2010.0,Male,M,White,2106-3,12.0,45752.0,Unreliable
+127,"Erie County, NY",36029.0,35-44 years,35-44,2011.0,2011.0,Male,M,White,2106-3,18.0,43972.0,Unreliable
+128,"Erie County, NY",36029.0,35-44 years,35-44,2012.0,2012.0,Female,F,White,2106-3,10.0,43510.0,Unreliable
+129,"Erie County, NY",36029.0,35-44 years,35-44,2012.0,2012.0,Male,M,White,2106-3,20.0,42739.0,46.8
+130,"Erie County, NY",36029.0,35-44 years,35-44,2013.0,2013.0,Female,F,White,2106-3,16.0,42399.0,Unreliable
+131,"Erie County, NY",36029.0,35-44 years,35-44,2013.0,2013.0,Male,M,White,2106-3,24.0,41876.0,57.3
+132,"Erie County, NY",36029.0,35-44 years,35-44,2014.0,2014.0,Female,F,White,2106-3,15.0,41519.0,Unreliable
+133,"Erie County, NY",36029.0,35-44 years,35-44,2014.0,2014.0,Male,M,White,2106-3,13.0,41183.0,Unreliable
+134,"Erie County, NY",36029.0,35-44 years,35-44,2015.0,2015.0,Female,F,White,2106-3,23.0,40768.0,56.4
+135,"Erie County, NY",36029.0,35-44 years,35-44,2015.0,2015.0,Male,M,White,2106-3,41.0,40714.0,100.7
+136,"Erie County, NY",36029.0,35-44 years,35-44,2016.0,2016.0,Female,F,White,2106-3,18.0,40234.0,Unreliable
+137,"Erie County, NY",36029.0,35-44 years,35-44,2016.0,2016.0,Male,M,White,2106-3,55.0,40335.0,136.4
+138,"Erie County, NY",36029.0,45-54 years,45-54,2010.0,2010.0,Female,F,White,2106-3,14.0,61412.0,Unreliable
+139,"Erie County, NY",36029.0,45-54 years,45-54,2010.0,2010.0,Male,M,White,2106-3,21.0,58977.0,35.6
+140,"Erie County, NY",36029.0,45-54 years,45-54,2011.0,2011.0,Female,F,White,2106-3,16.0,60296.0,Unreliable
+141,"Erie County, NY",36029.0,45-54 years,45-54,2011.0,2011.0,Male,M,White,2106-3,26.0,57888.0,44.9
+142,"Erie County, NY",36029.0,45-54 years,45-54,2012.0,2012.0,Female,F,White,2106-3,24.0,59107.0,40.6
+143,"Erie County, NY",36029.0,45-54 years,45-54,2012.0,2012.0,Male,M,White,2106-3,31.0,56700.0,54.7
+144,"Erie County, NY",36029.0,45-54 years,45-54,2013.0,2013.0,Female,F,White,2106-3,19.0,57504.0,Unreliable
+145,"Erie County, NY",36029.0,45-54 years,45-54,2013.0,2013.0,Male,M,White,2106-3,35.0,55242.0,63.4
+146,"Erie County, NY",36029.0,45-54 years,45-54,2014.0,2014.0,Female,F,White,2106-3,19.0,56069.0,Unreliable
+147,"Erie County, NY",36029.0,45-54 years,45-54,2014.0,2014.0,Male,M,White,2106-3,36.0,54097.0,66.5
+148,"Erie County, NY",36029.0,45-54 years,45-54,2015.0,2015.0,Female,F,White,2106-3,22.0,54699.0,40.2
+149,"Erie County, NY",36029.0,45-54 years,45-54,2015.0,2015.0,Male,M,White,2106-3,50.0,52852.0,94.6
+150,"Erie County, NY",36029.0,45-54 years,45-54,2016.0,2016.0,Female,F,White,2106-3,26.0,53230.0,48.8
+151,"Erie County, NY",36029.0,45-54 years,45-54,2016.0,2016.0,Male,M,White,2106-3,42.0,51421.0,81.7
+152,"Erie County, NY",36029.0,55-64 years,55-64,2010.0,2010.0,Male,M,White,2106-3,18.0,49392.0,Unreliable
+153,"Erie County, NY",36029.0,55-64 years,55-64,2011.0,2011.0,Female,F,White,2106-3,10.0,54426.0,Unreliable
+154,"Erie County, NY",36029.0,55-64 years,55-64,2011.0,2011.0,Male,M,White,2106-3,26.0,51384.0,50.6
+155,"Erie County, NY",36029.0,55-64 years,55-64,2012.0,2012.0,Female,F,White,2106-3,11.0,54852.0,Unreliable
+156,"Erie County, NY",36029.0,55-64 years,55-64,2012.0,2012.0,Male,M,White,2106-3,23.0,51903.0,44.3
+157,"Erie County, NY",36029.0,55-64 years,55-64,2013.0,2013.0,Female,F,White,2106-3,11.0,56299.0,Unreliable
+158,"Erie County, NY",36029.0,55-64 years,55-64,2013.0,2013.0,Male,M,White,2106-3,25.0,52889.0,47.3
+159,"Erie County, NY",36029.0,55-64 years,55-64,2014.0,2014.0,Female,F,White,2106-3,16.0,57296.0,Unreliable
+160,"Erie County, NY",36029.0,55-64 years,55-64,2014.0,2014.0,Male,M,White,2106-3,30.0,53736.0,55.8
+161,"Erie County, NY",36029.0,55-64 years,55-64,2015.0,2015.0,Female,F,White,2106-3,23.0,58220.0,39.5
+162,"Erie County, NY",36029.0,55-64 years,55-64,2015.0,2015.0,Male,M,White,2106-3,38.0,54501.0,69.7
+163,"Erie County, NY",36029.0,55-64 years,55-64,2016.0,2016.0,Female,F,White,2106-3,13.0,58705.0,Unreliable
+164,"Erie County, NY",36029.0,55-64 years,55-64,2016.0,2016.0,Male,M,Black or African American,2054-5,11.0,6576.0,Unreliable
+165,"Erie County, NY",36029.0,55-64 years,55-64,2016.0,2016.0,Male,M,White,2106-3,40.0,54914.0,72.8
+166,"Erie County, NY",36029.0,65-74 years,65-74,2015.0,2015.0,Male,M,White,2106-3,13.0,34634.0,Unreliable
+167,"Erie County, NY",36029.0,65-74 years,65-74,2016.0,2016.0,Male,M,White,2106-3,18.0,35827.0,Unreliable
+168,"Kings County, NY",36047.0,15-24 years,15-24,2010.0,2010.0,Male,M,White,2106-3,10.0,87246.0,Unreliable
+169,"Kings County, NY",36047.0,15-24 years,15-24,2012.0,2012.0,Male,M,White,2106-3,11.0,83881.0,Unreliable
+170,"Kings County, NY",36047.0,15-24 years,15-24,2014.0,2014.0,Male,M,White,2106-3,10.0,78397.0,Unreliable
+171,"Kings County, NY",36047.0,15-24 years,15-24,2016.0,2016.0,Male,M,White,2106-3,16.0,74170.0,Unreliable
+172,"Kings County, NY",36047.0,25-34 years,25-34,2010.0,2010.0,Male,M,White,2106-3,25.0,117382.0,21.3
+173,"Kings County, NY",36047.0,25-34 years,25-34,2011.0,2011.0,Female,F,White,2106-3,12.0,119587.0,Unreliable
+174,"Kings County, NY",36047.0,25-34 years,25-34,2011.0,2011.0,Male,M,White,2106-3,29.0,121488.0,23.9
+175,"Kings County, NY",36047.0,25-34 years,25-34,2012.0,2012.0,Male,M,White,2106-3,33.0,124998.0,26.4
+176,"Kings County, NY",36047.0,25-34 years,25-34,2013.0,2013.0,Male,M,White,2106-3,25.0,128645.0,19.4
+177,"Kings County, NY",36047.0,25-34 years,25-34,2014.0,2014.0,Female,F,White,2106-3,14.0,129230.0,Unreliable
+178,"Kings County, NY",36047.0,25-34 years,25-34,2014.0,2014.0,Male,M,White,2106-3,32.0,130121.0,24.6
+179,"Kings County, NY",36047.0,25-34 years,25-34,2015.0,2015.0,Female,F,White,2106-3,11.0,130725.0,Unreliable
+180,"Kings County, NY",36047.0,25-34 years,25-34,2015.0,2015.0,Male,M,White,2106-3,38.0,132147.0,28.8
+181,"Kings County, NY",36047.0,25-34 years,25-34,2016.0,2016.0,Female,F,White,2106-3,22.0,130971.0,16.8
+182,"Kings County, NY",36047.0,25-34 years,25-34,2016.0,2016.0,Male,M,White,2106-3,64.0,131849.0,48.5
+183,"Kings County, NY",36047.0,35-44 years,35-44,2010.0,2010.0,Female,F,White,2106-3,17.0,81105.0,Unreliable
+184,"Kings County, NY",36047.0,35-44 years,35-44,2010.0,2010.0,Male,M,White,2106-3,38.0,86227.0,44.1
+185,"Kings County, NY",36047.0,35-44 years,35-44,2011.0,2011.0,Female,F,White,2106-3,11.0,83004.0,Unreliable
+186,"Kings County, NY",36047.0,35-44 years,35-44,2011.0,2011.0,Male,M,White,2106-3,37.0,88106.0,42.0
+187,"Kings County, NY",36047.0,35-44 years,35-44,2012.0,2012.0,Male,M,White,2106-3,46.0,90959.0,50.6
+188,"Kings County, NY",36047.0,35-44 years,35-44,2013.0,2013.0,Female,F,White,2106-3,14.0,88351.0,Unreliable
+189,"Kings County, NY",36047.0,35-44 years,35-44,2013.0,2013.0,Male,M,White,2106-3,46.0,94892.0,48.5
+190,"Kings County, NY",36047.0,35-44 years,35-44,2014.0,2014.0,Female,F,White,2106-3,11.0,90566.0,Unreliable
+191,"Kings County, NY",36047.0,35-44 years,35-44,2014.0,2014.0,Male,M,Black or African American,2054-5,11.0,52051.0,Unreliable
+192,"Kings County, NY",36047.0,35-44 years,35-44,2014.0,2014.0,Male,M,White,2106-3,45.0,96145.0,46.8
+193,"Kings County, NY",36047.0,35-44 years,35-44,2015.0,2015.0,Female,F,White,2106-3,23.0,92336.0,24.9
+194,"Kings County, NY",36047.0,35-44 years,35-44,2015.0,2015.0,Male,M,White,2106-3,49.0,97519.0,50.2
+195,"Kings County, NY",36047.0,35-44 years,35-44,2016.0,2016.0,Female,F,Black or African American,2054-5,13.0,67943.0,Unreliable
+196,"Kings County, NY",36047.0,35-44 years,35-44,2016.0,2016.0,Female,F,White,2106-3,14.0,92348.0,Unreliable
+197,"Kings County, NY",36047.0,35-44 years,35-44,2016.0,2016.0,Male,M,White,2106-3,62.0,97444.0,63.6
+198,"Kings County, NY",36047.0,45-54 years,45-54,2010.0,2010.0,Female,F,Black or African American,2054-5,15.0,78672.0,Unreliable
+199,"Kings County, NY",36047.0,45-54 years,45-54,2010.0,2010.0,Female,F,White,2106-3,21.0,73058.0,28.7
+200,"Kings County, NY",36047.0,45-54 years,45-54,2010.0,2010.0,Male,M,Black or African American,2054-5,35.0,55902.0,62.6
+201,"Kings County, NY",36047.0,45-54 years,45-54,2010.0,2010.0,Male,M,White,2106-3,56.0,70966.0,78.9
+202,"Kings County, NY",36047.0,45-54 years,45-54,2011.0,2011.0,Female,F,Black or African American,2054-5,18.0,78169.0,Unreliable
+203,"Kings County, NY",36047.0,45-54 years,45-54,2011.0,2011.0,Female,F,White,2106-3,20.0,72047.0,27.8
+204,"Kings County, NY",36047.0,45-54 years,45-54,2011.0,2011.0,Male,M,Black or African American,2054-5,38.0,55836.0,68.1
+205,"Kings County, NY",36047.0,45-54 years,45-54,2011.0,2011.0,Male,M,White,2106-3,64.0,70771.0,90.4
+206,"Kings County, NY",36047.0,45-54 years,45-54,2012.0,2012.0,Female,F,Black or African American,2054-5,10.0,77268.0,Unreliable
+207,"Kings County, NY",36047.0,45-54 years,45-54,2012.0,2012.0,Female,F,White,2106-3,25.0,71666.0,34.9
+208,"Kings County, NY",36047.0,45-54 years,45-54,2012.0,2012.0,Male,M,Black or African American,2054-5,28.0,55345.0,50.6
+209,"Kings County, NY",36047.0,45-54 years,45-54,2012.0,2012.0,Male,M,White,2106-3,69.0,71018.0,97.2
+210,"Kings County, NY",36047.0,45-54 years,45-54,2013.0,2013.0,Female,F,Black or African American,2054-5,16.0,76384.0,Unreliable
+211,"Kings County, NY",36047.0,45-54 years,45-54,2013.0,2013.0,Female,F,White,2106-3,25.0,71678.0,34.9
+212,"Kings County, NY",36047.0,45-54 years,45-54,2013.0,2013.0,Male,M,Black or African American,2054-5,23.0,54583.0,42.1
+213,"Kings County, NY",36047.0,45-54 years,45-54,2013.0,2013.0,Male,M,White,2106-3,70.0,71533.0,97.9
+214,"Kings County, NY",36047.0,45-54 years,45-54,2014.0,2014.0,Female,F,Black or African American,2054-5,16.0,75664.0,Unreliable
+215,"Kings County, NY",36047.0,45-54 years,45-54,2014.0,2014.0,Female,F,White,2106-3,21.0,71451.0,29.4
+216,"Kings County, NY",36047.0,45-54 years,45-54,2014.0,2014.0,Male,M,Black or African American,2054-5,28.0,53875.0,52.0
+217,"Kings County, NY",36047.0,45-54 years,45-54,2014.0,2014.0,Male,M,White,2106-3,62.0,71814.0,86.3
+218,"Kings County, NY",36047.0,45-54 years,45-54,2015.0,2015.0,Female,F,Black or African American,2054-5,20.0,74160.0,27.0
+219,"Kings County, NY",36047.0,45-54 years,45-54,2015.0,2015.0,Female,F,White,2106-3,17.0,71834.0,Unreliable
+220,"Kings County, NY",36047.0,45-54 years,45-54,2015.0,2015.0,Male,M,Black or African American,2054-5,19.0,52737.0,Unreliable
+221,"Kings County, NY",36047.0,45-54 years,45-54,2015.0,2015.0,Male,M,White,2106-3,75.0,72552.0,103.4
+222,"Kings County, NY",36047.0,45-54 years,45-54,2016.0,2016.0,Female,F,Black or African American,2054-5,14.0,72586.0,Unreliable
+223,"Kings County, NY",36047.0,45-54 years,45-54,2016.0,2016.0,Female,F,White,2106-3,26.0,71060.0,36.6
+224,"Kings County, NY",36047.0,45-54 years,45-54,2016.0,2016.0,Male,M,Black or African American,2054-5,31.0,51365.0,60.4
+225,"Kings County, NY",36047.0,45-54 years,45-54,2016.0,2016.0,Male,M,White,2106-3,77.0,72163.0,106.7
+226,"Kings County, NY",36047.0,55-64 years,55-64,2010.0,2010.0,Female,F,White,2106-3,13.0,71238.0,Unreliable
+227,"Kings County, NY",36047.0,55-64 years,55-64,2010.0,2010.0,Male,M,Black or African American,2054-5,26.0,41039.0,63.4
+228,"Kings County, NY",36047.0,55-64 years,55-64,2010.0,2010.0,Male,M,White,2106-3,34.0,62509.0,54.4
+229,"Kings County, NY",36047.0,55-64 years,55-64,2011.0,2011.0,Female,F,Black or African American,2054-5,14.0,62335.0,Unreliable
+230,"Kings County, NY",36047.0,55-64 years,55-64,2011.0,2011.0,Male,M,Black or African American,2054-5,28.0,42710.0,65.6
+231,"Kings County, NY",36047.0,55-64 years,55-64,2011.0,2011.0,Male,M,White,2106-3,43.0,64147.0,67.0
+232,"Kings County, NY",36047.0,55-64 years,55-64,2012.0,2012.0,Female,F,Black or African American,2054-5,11.0,64052.0,Unreliable
+233,"Kings County, NY",36047.0,55-64 years,55-64,2012.0,2012.0,Female,F,White,2106-3,12.0,72131.0,Unreliable
+234,"Kings County, NY",36047.0,55-64 years,55-64,2012.0,2012.0,Male,M,Black or African American,2054-5,22.0,43662.0,50.4
+235,"Kings County, NY",36047.0,55-64 years,55-64,2012.0,2012.0,Male,M,White,2106-3,51.0,63820.0,79.9
+236,"Kings County, NY",36047.0,55-64 years,55-64,2013.0,2013.0,Female,F,Black or African American,2054-5,14.0,65108.0,Unreliable
+237,"Kings County, NY",36047.0,55-64 years,55-64,2013.0,2013.0,Male,M,Black or African American,2054-5,29.0,44931.0,64.5
+238,"Kings County, NY",36047.0,55-64 years,55-64,2013.0,2013.0,Male,M,White,2106-3,56.0,63347.0,88.4
+239,"Kings County, NY",36047.0,55-64 years,55-64,2014.0,2014.0,Female,F,Black or African American,2054-5,18.0,66711.0,Unreliable
+240,"Kings County, NY",36047.0,55-64 years,55-64,2014.0,2014.0,Female,F,White,2106-3,11.0,70858.0,Unreliable
+241,"Kings County, NY",36047.0,55-64 years,55-64,2014.0,2014.0,Male,M,Black or African American,2054-5,34.0,46389.0,73.3
+242,"Kings County, NY",36047.0,55-64 years,55-64,2014.0,2014.0,Male,M,White,2106-3,40.0,63006.0,63.5
+243,"Kings County, NY",36047.0,55-64 years,55-64,2015.0,2015.0,Female,F,Black or African American,2054-5,13.0,67885.0,Unreliable
+244,"Kings County, NY",36047.0,55-64 years,55-64,2015.0,2015.0,Female,F,White,2106-3,13.0,70363.0,Unreliable
+245,"Kings County, NY",36047.0,55-64 years,55-64,2015.0,2015.0,Male,M,Black or African American,2054-5,31.0,47216.0,65.7
+246,"Kings County, NY",36047.0,55-64 years,55-64,2015.0,2015.0,Male,M,White,2106-3,62.0,63018.0,98.4
+247,"Kings County, NY",36047.0,55-64 years,55-64,2016.0,2016.0,Female,F,Black or African American,2054-5,20.0,68568.0,29.2
+248,"Kings County, NY",36047.0,55-64 years,55-64,2016.0,2016.0,Female,F,White,2106-3,16.0,69275.0,Unreliable
+249,"Kings County, NY",36047.0,55-64 years,55-64,2016.0,2016.0,Male,M,Black or African American,2054-5,50.0,47570.0,105.1
+250,"Kings County, NY",36047.0,55-64 years,55-64,2016.0,2016.0,Male,M,White,2106-3,64.0,62375.0,102.6
+251,"Kings County, NY",36047.0,65-74 years,65-74,2010.0,2010.0,Male,M,Black or African American,2054-5,11.0,23111.0,Unreliable
+252,"Kings County, NY",36047.0,65-74 years,65-74,2010.0,2010.0,Male,M,White,2106-3,15.0,34377.0,Unreliable
+253,"Kings County, NY",36047.0,65-74 years,65-74,2011.0,2011.0,Male,M,White,2106-3,18.0,34955.0,Unreliable
+254,"Kings County, NY",36047.0,65-74 years,65-74,2012.0,2012.0,Male,M,White,2106-3,10.0,37234.0,Unreliable
+255,"Kings County, NY",36047.0,65-74 years,65-74,2013.0,2013.0,Male,M,Black or African American,2054-5,16.0,25583.0,Unreliable
+256,"Kings County, NY",36047.0,65-74 years,65-74,2013.0,2013.0,Male,M,White,2106-3,15.0,39096.0,Unreliable
+257,"Kings County, NY",36047.0,65-74 years,65-74,2014.0,2014.0,Male,M,Black or African American,2054-5,12.0,26569.0,Unreliable
+258,"Kings County, NY",36047.0,65-74 years,65-74,2014.0,2014.0,Male,M,White,2106-3,18.0,40179.0,Unreliable
+259,"Kings County, NY",36047.0,65-74 years,65-74,2015.0,2015.0,Male,M,Black or African American,2054-5,10.0,27704.0,Unreliable
+260,"Kings County, NY",36047.0,65-74 years,65-74,2015.0,2015.0,Male,M,White,2106-3,22.0,41542.0,53.0
+261,"Kings County, NY",36047.0,65-74 years,65-74,2016.0,2016.0,Male,M,Black or African American,2054-5,15.0,28726.0,Unreliable
+262,"Kings County, NY",36047.0,65-74 years,65-74,2016.0,2016.0,Male,M,White,2106-3,25.0,42854.0,58.3
+263,"Monroe County, NY",36055.0,15-24 years,15-24,2013.0,2013.0,Male,M,White,2106-3,10.0,42123.0,Unreliable
+264,"Monroe County, NY",36055.0,15-24 years,15-24,2015.0,2015.0,Male,M,White,2106-3,10.0,39611.0,Unreliable
+265,"Monroe County, NY",36055.0,25-34 years,25-34,2011.0,2011.0,Male,M,White,2106-3,10.0,35938.0,Unreliable
+266,"Monroe County, NY",36055.0,25-34 years,25-34,2012.0,2012.0,Male,M,White,2106-3,10.0,37066.0,Unreliable
+267,"Monroe County, NY",36055.0,25-34 years,25-34,2013.0,2013.0,Male,M,White,2106-3,14.0,38765.0,Unreliable
+268,"Monroe County, NY",36055.0,25-34 years,25-34,2014.0,2014.0,Male,M,White,2106-3,19.0,39835.0,Unreliable
+269,"Monroe County, NY",36055.0,25-34 years,25-34,2015.0,2015.0,Male,M,White,2106-3,15.0,40224.0,Unreliable
+270,"Monroe County, NY",36055.0,25-34 years,25-34,2016.0,2016.0,Male,M,White,2106-3,31.0,39924.0,77.6
+271,"Monroe County, NY",36055.0,35-44 years,35-44,2012.0,2012.0,Male,M,White,2106-3,10.0,33647.0,Unreliable
+272,"Monroe County, NY",36055.0,35-44 years,35-44,2013.0,2013.0,Male,M,White,2106-3,12.0,33093.0,Unreliable
+273,"Monroe County, NY",36055.0,35-44 years,35-44,2014.0,2014.0,Male,M,White,2106-3,18.0,32169.0,Unreliable
+274,"Monroe County, NY",36055.0,35-44 years,35-44,2015.0,2015.0,Female,F,White,2106-3,10.0,32949.0,Unreliable
+275,"Monroe County, NY",36055.0,35-44 years,35-44,2015.0,2015.0,Male,M,White,2106-3,14.0,31819.0,Unreliable
+276,"Monroe County, NY",36055.0,35-44 years,35-44,2016.0,2016.0,Female,F,White,2106-3,13.0,32487.0,Unreliable
+277,"Monroe County, NY",36055.0,35-44 years,35-44,2016.0,2016.0,Male,M,White,2106-3,23.0,31561.0,72.9
+278,"Monroe County, NY",36055.0,45-54 years,45-54,2010.0,2010.0,Female,F,White,2106-3,10.0,47976.0,Unreliable
+279,"Monroe County, NY",36055.0,45-54 years,45-54,2010.0,2010.0,Male,M,White,2106-3,19.0,45899.0,Unreliable
+280,"Monroe County, NY",36055.0,45-54 years,45-54,2011.0,2011.0,Female,F,White,2106-3,16.0,47218.0,Unreliable
+281,"Monroe County, NY",36055.0,45-54 years,45-54,2011.0,2011.0,Male,M,White,2106-3,25.0,44960.0,55.6
+282,"Monroe County, NY",36055.0,45-54 years,45-54,2012.0,2012.0,Male,M,White,2106-3,19.0,44017.0,Unreliable
+283,"Monroe County, NY",36055.0,45-54 years,45-54,2013.0,2013.0,Female,F,White,2106-3,16.0,45211.0,Unreliable
+284,"Monroe County, NY",36055.0,45-54 years,45-54,2013.0,2013.0,Male,M,White,2106-3,23.0,42720.0,53.8
+285,"Monroe County, NY",36055.0,45-54 years,45-54,2014.0,2014.0,Female,F,White,2106-3,17.0,44060.0,Unreliable
+286,"Monroe County, NY",36055.0,45-54 years,45-54,2014.0,2014.0,Male,M,White,2106-3,22.0,41746.0,52.7
+287,"Monroe County, NY",36055.0,45-54 years,45-54,2015.0,2015.0,Female,F,White,2106-3,10.0,42966.0,Unreliable
+288,"Monroe County, NY",36055.0,45-54 years,45-54,2015.0,2015.0,Male,M,White,2106-3,24.0,40719.0,58.9
+289,"Monroe County, NY",36055.0,45-54 years,45-54,2016.0,2016.0,Male,M,White,2106-3,25.0,39514.0,63.3
+290,"Monroe County, NY",36055.0,55-64 years,55-64,2010.0,2010.0,Male,M,White,2106-3,17.0,38028.0,Unreliable
+291,"Monroe County, NY",36055.0,55-64 years,55-64,2011.0,2011.0,Male,M,White,2106-3,19.0,39444.0,Unreliable
+292,"Monroe County, NY",36055.0,55-64 years,55-64,2012.0,2012.0,Female,F,White,2106-3,12.0,42543.0,Unreliable
+293,"Monroe County, NY",36055.0,55-64 years,55-64,2013.0,2013.0,Male,M,White,2106-3,10.0,40457.0,Unreliable
+294,"Monroe County, NY",36055.0,55-64 years,55-64,2014.0,2014.0,Male,M,White,2106-3,18.0,41075.0,Unreliable
+295,"Monroe County, NY",36055.0,55-64 years,55-64,2015.0,2015.0,Female,F,White,2106-3,12.0,44296.0,Unreliable
+296,"Monroe County, NY",36055.0,55-64 years,55-64,2015.0,2015.0,Male,M,White,2106-3,22.0,41607.0,52.9
+297,"Monroe County, NY",36055.0,55-64 years,55-64,2016.0,2016.0,Male,M,White,2106-3,26.0,41894.0,62.1
+298,"Nassau County, NY",36059.0,15-24 years,15-24,2010.0,2010.0,Male,M,White,2106-3,14.0,67634.0,Unreliable
+299,"Nassau County, NY",36059.0,15-24 years,15-24,2011.0,2011.0,Male,M,White,2106-3,18.0,67966.0,Unreliable
+300,"Nassau County, NY",36059.0,15-24 years,15-24,2012.0,2012.0,Male,M,White,2106-3,22.0,68486.0,32.1
+301,"Nassau County, NY",36059.0,15-24 years,15-24,2013.0,2013.0,Male,M,White,2106-3,25.0,67977.0,36.8
+302,"Nassau County, NY",36059.0,15-24 years,15-24,2014.0,2014.0,Male,M,White,2106-3,16.0,68158.0,Unreliable
+303,"Nassau County, NY",36059.0,15-24 years,15-24,2015.0,2015.0,Male,M,White,2106-3,22.0,67968.0,32.4
+304,"Nassau County, NY",36059.0,15-24 years,15-24,2016.0,2016.0,Male,M,White,2106-3,23.0,67594.0,34.0
+305,"Nassau County, NY",36059.0,25-34 years,25-34,2011.0,2011.0,Male,M,White,2106-3,30.0,55755.0,53.8
+306,"Nassau County, NY",36059.0,25-34 years,25-34,2012.0,2012.0,Male,M,White,2106-3,26.0,56402.0,46.1
+307,"Nassau County, NY",36059.0,25-34 years,25-34,2013.0,2013.0,Male,M,White,2106-3,33.0,56986.0,57.9
+308,"Nassau County, NY",36059.0,25-34 years,25-34,2014.0,2014.0,Male,M,White,2106-3,44.0,57186.0,76.9
+309,"Nassau County, NY",36059.0,25-34 years,25-34,2015.0,2015.0,Female,F,White,2106-3,12.0,54080.0,Unreliable
+310,"Nassau County, NY",36059.0,25-34 years,25-34,2015.0,2015.0,Male,M,White,2106-3,40.0,57239.0,69.9
+311,"Nassau County, NY",36059.0,25-34 years,25-34,2016.0,2016.0,Female,F,White,2106-3,23.0,54031.0,42.6
+312,"Nassau County, NY",36059.0,25-34 years,25-34,2016.0,2016.0,Male,M,White,2106-3,45.0,57038.0,78.9
+313,"Nassau County, NY",36059.0,35-44 years,35-44,2010.0,2010.0,Male,M,White,2106-3,26.0,66638.0,39.0
+314,"Nassau County, NY",36059.0,35-44 years,35-44,2011.0,2011.0,Male,M,White,2106-3,27.0,64638.0,41.8
+315,"Nassau County, NY",36059.0,35-44 years,35-44,2012.0,2012.0,Female,F,White,2106-3,12.0,64209.0,Unreliable
+316,"Nassau County, NY",36059.0,35-44 years,35-44,2012.0,2012.0,Male,M,White,2106-3,31.0,63126.0,49.1
+317,"Nassau County, NY",36059.0,35-44 years,35-44,2013.0,2013.0,Male,M,White,2106-3,25.0,61701.0,40.5
+318,"Nassau County, NY",36059.0,35-44 years,35-44,2014.0,2014.0,Male,M,White,2106-3,25.0,60689.0,41.2
+319,"Nassau County, NY",36059.0,35-44 years,35-44,2015.0,2015.0,Female,F,White,2106-3,10.0,59408.0,Unreliable
+320,"Nassau County, NY",36059.0,35-44 years,35-44,2015.0,2015.0,Male,M,White,2106-3,38.0,59598.0,63.8
+321,"Nassau County, NY",36059.0,35-44 years,35-44,2016.0,2016.0,Female,F,White,2106-3,11.0,57941.0,Unreliable
+322,"Nassau County, NY",36059.0,35-44 years,35-44,2016.0,2016.0,Male,M,White,2106-3,37.0,58476.0,63.3
+323,"Nassau County, NY",36059.0,45-54 years,45-54,2010.0,2010.0,Female,F,White,2106-3,12.0,89234.0,Unreliable
+324,"Nassau County, NY",36059.0,45-54 years,45-54,2010.0,2010.0,Male,M,White,2106-3,22.0,84365.0,26.1
+325,"Nassau County, NY",36059.0,45-54 years,45-54,2011.0,2011.0,Female,F,White,2106-3,18.0,87978.0,Unreliable
+326,"Nassau County, NY",36059.0,45-54 years,45-54,2011.0,2011.0,Male,M,White,2106-3,42.0,83175.0,50.5
+327,"Nassau County, NY",36059.0,45-54 years,45-54,2012.0,2012.0,Female,F,White,2106-3,22.0,86473.0,25.4
+328,"Nassau County, NY",36059.0,45-54 years,45-54,2012.0,2012.0,Male,M,White,2106-3,45.0,82132.0,54.8
+329,"Nassau County, NY",36059.0,45-54 years,45-54,2013.0,2013.0,Female,F,White,2106-3,21.0,84114.0,25.0
+330,"Nassau County, NY",36059.0,45-54 years,45-54,2013.0,2013.0,Male,M,White,2106-3,24.0,80192.0,29.9
+331,"Nassau County, NY",36059.0,45-54 years,45-54,2014.0,2014.0,Female,F,White,2106-3,14.0,82073.0,Unreliable
+332,"Nassau County, NY",36059.0,45-54 years,45-54,2014.0,2014.0,Male,M,White,2106-3,45.0,78465.0,57.4
+333,"Nassau County, NY",36059.0,45-54 years,45-54,2015.0,2015.0,Female,F,White,2106-3,14.0,79802.0,Unreliable
+334,"Nassau County, NY",36059.0,45-54 years,45-54,2015.0,2015.0,Male,M,White,2106-3,28.0,76568.0,36.6
+335,"Nassau County, NY",36059.0,45-54 years,45-54,2016.0,2016.0,Female,F,White,2106-3,16.0,77381.0,Unreliable
+336,"Nassau County, NY",36059.0,45-54 years,45-54,2016.0,2016.0,Male,M,White,2106-3,40.0,74398.0,53.8
+337,"Nassau County, NY",36059.0,55-64 years,55-64,2010.0,2010.0,Female,F,White,2106-3,12.0,73345.0,Unreliable
+338,"Nassau County, NY",36059.0,55-64 years,55-64,2010.0,2010.0,Male,M,White,2106-3,23.0,69541.0,33.1
+339,"Nassau County, NY",36059.0,55-64 years,55-64,2011.0,2011.0,Female,F,White,2106-3,13.0,75953.0,Unreliable
+340,"Nassau County, NY",36059.0,55-64 years,55-64,2011.0,2011.0,Male,M,White,2106-3,10.0,71869.0,Unreliable
+341,"Nassau County, NY",36059.0,55-64 years,55-64,2012.0,2012.0,Female,F,White,2106-3,13.0,76459.0,Unreliable
+342,"Nassau County, NY",36059.0,55-64 years,55-64,2012.0,2012.0,Male,M,White,2106-3,24.0,72155.0,33.3
+343,"Nassau County, NY",36059.0,55-64 years,55-64,2013.0,2013.0,Female,F,White,2106-3,15.0,77266.0,Unreliable
+344,"Nassau County, NY",36059.0,55-64 years,55-64,2013.0,2013.0,Male,M,White,2106-3,26.0,72630.0,35.8
+345,"Nassau County, NY",36059.0,55-64 years,55-64,2014.0,2014.0,Female,F,White,2106-3,12.0,78033.0,Unreliable
+346,"Nassau County, NY",36059.0,55-64 years,55-64,2014.0,2014.0,Male,M,White,2106-3,33.0,73304.0,45.0
+347,"Nassau County, NY",36059.0,55-64 years,55-64,2015.0,2015.0,Female,F,White,2106-3,18.0,78846.0,Unreliable
+348,"Nassau County, NY",36059.0,55-64 years,55-64,2015.0,2015.0,Male,M,White,2106-3,36.0,74191.0,48.5
+349,"Nassau County, NY",36059.0,55-64 years,55-64,2016.0,2016.0,Female,F,White,2106-3,12.0,79143.0,Unreliable
+350,"Nassau County, NY",36059.0,55-64 years,55-64,2016.0,2016.0,Male,M,White,2106-3,31.0,74615.0,41.5
+351,"Nassau County, NY",36059.0,65-74 years,65-74,2016.0,2016.0,Male,M,White,2106-3,11.0,48217.0,Unreliable
+352,"New York County, NY",36061.0,15-24 years,15-24,2014.0,2014.0,Male,M,White,2106-3,14.0,52594.0,Unreliable
+353,"New York County, NY",36061.0,25-34 years,25-34,2010.0,2010.0,Male,M,White,2106-3,10.0,114689.0,Unreliable
+354,"New York County, NY",36061.0,25-34 years,25-34,2011.0,2011.0,Male,M,White,2106-3,17.0,119285.0,Unreliable
+355,"New York County, NY",36061.0,25-34 years,25-34,2012.0,2012.0,Male,M,White,2106-3,20.0,122143.0,16.4
+356,"New York County, NY",36061.0,25-34 years,25-34,2013.0,2013.0,Female,F,White,2106-3,14.0,135682.0,Unreliable
+357,"New York County, NY",36061.0,25-34 years,25-34,2013.0,2013.0,Male,M,White,2106-3,24.0,123824.0,19.4
+358,"New York County, NY",36061.0,25-34 years,25-34,2014.0,2014.0,Male,M,White,2106-3,29.0,123301.0,23.5
+359,"New York County, NY",36061.0,25-34 years,25-34,2015.0,2015.0,Male,M,White,2106-3,19.0,123431.0,Unreliable
+360,"New York County, NY",36061.0,25-34 years,25-34,2016.0,2016.0,Female,F,White,2106-3,12.0,133096.0,Unreliable
+361,"New York County, NY",36061.0,25-34 years,25-34,2016.0,2016.0,Male,M,White,2106-3,32.0,124037.0,25.8
+362,"New York County, NY",36061.0,35-44 years,35-44,2010.0,2010.0,Male,M,White,2106-3,25.0,82630.0,30.3
+363,"New York County, NY",36061.0,35-44 years,35-44,2011.0,2011.0,Female,F,White,2106-3,13.0,74915.0,Unreliable
+364,"New York County, NY",36061.0,35-44 years,35-44,2011.0,2011.0,Male,M,White,2106-3,21.0,82060.0,25.6
+365,"New York County, NY",36061.0,35-44 years,35-44,2012.0,2012.0,Male,M,White,2106-3,43.0,82469.0,52.1
+366,"New York County, NY",36061.0,35-44 years,35-44,2013.0,2013.0,Male,M,White,2106-3,21.0,82772.0,25.4
+367,"New York County, NY",36061.0,35-44 years,35-44,2014.0,2014.0,Male,M,White,2106-3,30.0,81796.0,36.7
+368,"New York County, NY",36061.0,35-44 years,35-44,2015.0,2015.0,Male,M,White,2106-3,31.0,81395.0,38.1
+369,"New York County, NY",36061.0,35-44 years,35-44,2016.0,2016.0,Male,M,White,2106-3,36.0,80550.0,44.7
+370,"New York County, NY",36061.0,45-54 years,45-54,2010.0,2010.0,Female,F,Black or African American,2054-5,11.0,24067.0,Unreliable
+371,"New York County, NY",36061.0,45-54 years,45-54,2010.0,2010.0,Female,F,White,2106-3,12.0,64721.0,Unreliable
+372,"New York County, NY",36061.0,45-54 years,45-54,2010.0,2010.0,Male,M,Black or African American,2054-5,17.0,21468.0,Unreliable
+373,"New York County, NY",36061.0,45-54 years,45-54,2010.0,2010.0,Male,M,White,2106-3,33.0,68013.0,48.5
+374,"New York County, NY",36061.0,45-54 years,45-54,2011.0,2011.0,Female,F,White,2106-3,14.0,64359.0,Unreliable
+375,"New York County, NY",36061.0,45-54 years,45-54,2011.0,2011.0,Male,M,Black or African American,2054-5,11.0,21572.0,Unreliable
+376,"New York County, NY",36061.0,45-54 years,45-54,2011.0,2011.0,Male,M,White,2106-3,35.0,68432.0,51.1
+377,"New York County, NY",36061.0,45-54 years,45-54,2012.0,2012.0,Female,F,White,2106-3,19.0,63760.0,Unreliable
+378,"New York County, NY",36061.0,45-54 years,45-54,2012.0,2012.0,Male,M,Black or African American,2054-5,13.0,21528.0,Unreliable
+379,"New York County, NY",36061.0,45-54 years,45-54,2012.0,2012.0,Male,M,White,2106-3,49.0,68752.0,71.3
+380,"New York County, NY",36061.0,45-54 years,45-54,2013.0,2013.0,Female,F,Black or African American,2054-5,12.0,23580.0,Unreliable
+381,"New York County, NY",36061.0,45-54 years,45-54,2013.0,2013.0,Female,F,White,2106-3,17.0,64313.0,Unreliable
+382,"New York County, NY",36061.0,45-54 years,45-54,2013.0,2013.0,Male,M,Black or African American,2054-5,13.0,21456.0,Unreliable
+383,"New York County, NY",36061.0,45-54 years,45-54,2013.0,2013.0,Male,M,White,2106-3,45.0,69854.0,64.4
+384,"New York County, NY",36061.0,45-54 years,45-54,2014.0,2014.0,Female,F,White,2106-3,12.0,64560.0,Unreliable
+385,"New York County, NY",36061.0,45-54 years,45-54,2014.0,2014.0,Male,M,Black or African American,2054-5,16.0,21391.0,Unreliable
+386,"New York County, NY",36061.0,45-54 years,45-54,2014.0,2014.0,Male,M,White,2106-3,32.0,70599.0,45.3
+387,"New York County, NY",36061.0,45-54 years,45-54,2015.0,2015.0,Female,F,White,2106-3,22.0,64798.0,34.0
+388,"New York County, NY",36061.0,45-54 years,45-54,2015.0,2015.0,Male,M,Black or African American,2054-5,17.0,21248.0,Unreliable
+389,"New York County, NY",36061.0,45-54 years,45-54,2015.0,2015.0,Male,M,White,2106-3,55.0,70754.0,77.7
+390,"New York County, NY",36061.0,45-54 years,45-54,2016.0,2016.0,Female,F,White,2106-3,23.0,64562.0,35.6
+391,"New York County, NY",36061.0,45-54 years,45-54,2016.0,2016.0,Male,M,Black or African American,2054-5,22.0,20676.0,106.4
+392,"New York County, NY",36061.0,45-54 years,45-54,2016.0,2016.0,Male,M,White,2106-3,83.0,70334.0,118.0
+393,"New York County, NY",36061.0,55-64 years,55-64,2010.0,2010.0,Female,F,White,2106-3,15.0,66651.0,Unreliable
+394,"New York County, NY",36061.0,55-64 years,55-64,2010.0,2010.0,Male,M,Black or African American,2054-5,17.0,15331.0,Unreliable
+395,"New York County, NY",36061.0,55-64 years,55-64,2010.0,2010.0,Male,M,White,2106-3,35.0,56592.0,61.8
+396,"New York County, NY",36061.0,55-64 years,55-64,2011.0,2011.0,Female,F,White,2106-3,11.0,67320.0,Unreliable
+397,"New York County, NY",36061.0,55-64 years,55-64,2011.0,2011.0,Male,M,Black or African American,2054-5,20.0,16067.0,124.5
+398,"New York County, NY",36061.0,55-64 years,55-64,2011.0,2011.0,Male,M,White,2106-3,52.0,57854.0,89.9
+399,"New York County, NY",36061.0,55-64 years,55-64,2012.0,2012.0,Female,F,White,2106-3,22.0,66267.0,33.2
+400,"New York County, NY",36061.0,55-64 years,55-64,2012.0,2012.0,Male,M,Black or African American,2054-5,23.0,16400.0,140.2
+401,"New York County, NY",36061.0,55-64 years,55-64,2012.0,2012.0,Male,M,White,2106-3,41.0,57891.0,70.8
+402,"New York County, NY",36061.0,55-64 years,55-64,2013.0,2013.0,Female,F,White,2106-3,23.0,65648.0,35.0
+403,"New York County, NY",36061.0,55-64 years,55-64,2013.0,2013.0,Male,M,Black or African American,2054-5,22.0,16847.0,130.6
+404,"New York County, NY",36061.0,55-64 years,55-64,2013.0,2013.0,Male,M,White,2106-3,42.0,58236.0,72.1
+405,"New York County, NY",36061.0,55-64 years,55-64,2014.0,2014.0,Female,F,White,2106-3,19.0,65158.0,Unreliable
+406,"New York County, NY",36061.0,55-64 years,55-64,2014.0,2014.0,Male,M,Black or African American,2054-5,15.0,17160.0,Unreliable
+407,"New York County, NY",36061.0,55-64 years,55-64,2014.0,2014.0,Male,M,White,2106-3,47.0,58799.0,79.9
+408,"New York County, NY",36061.0,55-64 years,55-64,2015.0,2015.0,Male,M,Black or African American,2054-5,21.0,17591.0,119.4
+409,"New York County, NY",36061.0,55-64 years,55-64,2015.0,2015.0,Male,M,White,2106-3,41.0,59765.0,68.6
+410,"New York County, NY",36061.0,55-64 years,55-64,2016.0,2016.0,Female,F,Black or African American,2054-5,13.0,21252.0,Unreliable
+411,"New York County, NY",36061.0,55-64 years,55-64,2016.0,2016.0,Female,F,White,2106-3,16.0,64489.0,Unreliable
+412,"New York County, NY",36061.0,55-64 years,55-64,2016.0,2016.0,Male,M,Black or African American,2054-5,25.0,17727.0,141.0
+413,"New York County, NY",36061.0,55-64 years,55-64,2016.0,2016.0,Male,M,White,2106-3,56.0,60310.0,92.9
+414,"New York County, NY",36061.0,65-74 years,65-74,2010.0,2010.0,Male,M,White,2106-3,14.0,35362.0,Unreliable
+415,"New York County, NY",36061.0,65-74 years,65-74,2011.0,2011.0,Male,M,White,2106-3,17.0,36189.0,Unreliable
+416,"New York County, NY",36061.0,65-74 years,65-74,2012.0,2012.0,Male,M,White,2106-3,14.0,38086.0,Unreliable
+417,"New York County, NY",36061.0,65-74 years,65-74,2013.0,2013.0,Female,F,White,2106-3,17.0,51485.0,Unreliable
+418,"New York County, NY",36061.0,65-74 years,65-74,2013.0,2013.0,Male,M,Black or African American,2054-5,11.0,9048.0,Unreliable
+419,"New York County, NY",36061.0,65-74 years,65-74,2013.0,2013.0,Male,M,White,2106-3,31.0,39076.0,79.3
+420,"New York County, NY",36061.0,65-74 years,65-74,2014.0,2014.0,Male,M,Black or African American,2054-5,13.0,9238.0,Unreliable
+421,"New York County, NY",36061.0,65-74 years,65-74,2014.0,2014.0,Male,M,White,2106-3,15.0,39635.0,Unreliable
+422,"New York County, NY",36061.0,65-74 years,65-74,2015.0,2015.0,Female,F,White,2106-3,12.0,53547.0,Unreliable
+423,"New York County, NY",36061.0,65-74 years,65-74,2015.0,2015.0,Male,M,Black or African American,2054-5,15.0,9406.0,Unreliable
+424,"New York County, NY",36061.0,65-74 years,65-74,2015.0,2015.0,Male,M,White,2106-3,22.0,40582.0,54.2
+425,"New York County, NY",36061.0,65-74 years,65-74,2016.0,2016.0,Male,M,Black or African American,2054-5,11.0,9478.0,Unreliable
+426,"New York County, NY",36061.0,65-74 years,65-74,2016.0,2016.0,Male,M,White,2106-3,25.0,41759.0,59.9
+427,"New York County, NY",36061.0,75-84 years,75-84,2013.0,2013.0,Male,M,White,2106-3,10.0,20377.0,Unreliable
+428,"Niagara County, NY",36063.0,25-34 years,25-34,2015.0,2015.0,Male,M,White,2106-3,15.0,11375.0,Unreliable
+429,"Niagara County, NY",36063.0,25-34 years,25-34,2016.0,2016.0,Male,M,White,2106-3,12.0,11522.0,Unreliable
+430,"Niagara County, NY",36063.0,45-54 years,45-54,2013.0,2013.0,Male,M,White,2106-3,11.0,14743.0,Unreliable
+431,"Niagara County, NY",36063.0,45-54 years,45-54,2016.0,2016.0,Male,M,White,2106-3,10.0,13385.0,Unreliable
+432,"Niagara County, NY",36063.0,55-64 years,55-64,2010.0,2010.0,Male,M,White,2106-3,10.0,13362.0,Unreliable
+433,"Niagara County, NY",36063.0,55-64 years,55-64,2013.0,2013.0,Male,M,White,2106-3,11.0,14429.0,Unreliable
+434,"Niagara County, NY",36063.0,55-64 years,55-64,2014.0,2014.0,Male,M,White,2106-3,12.0,14663.0,Unreliable
+435,"Niagara County, NY",36063.0,55-64 years,55-64,2016.0,2016.0,Male,M,White,2106-3,10.0,15048.0,Unreliable
+436,"Oneida County, NY",36065.0,25-34 years,25-34,2016.0,2016.0,Male,M,White,2106-3,17.0,12421.0,Unreliable
+437,"Oneida County, NY",36065.0,45-54 years,45-54,2015.0,2015.0,Male,M,White,2106-3,11.0,14784.0,Unreliable
+438,"Oneida County, NY",36065.0,45-54 years,45-54,2016.0,2016.0,Male,M,White,2106-3,17.0,14290.0,Unreliable
+439,"Oneida County, NY",36065.0,55-64 years,55-64,2014.0,2014.0,Male,M,White,2106-3,11.0,14615.0,Unreliable
+440,"Oneida County, NY",36065.0,55-64 years,55-64,2015.0,2015.0,Male,M,White,2106-3,10.0,14735.0,Unreliable
+441,"Onondaga County, NY",36067.0,25-34 years,25-34,2012.0,2012.0,Male,M,White,2106-3,13.0,23613.0,Unreliable
+442,"Onondaga County, NY",36067.0,25-34 years,25-34,2013.0,2013.0,Male,M,White,2106-3,11.0,24345.0,Unreliable
+443,"Onondaga County, NY",36067.0,25-34 years,25-34,2014.0,2014.0,Male,M,White,2106-3,10.0,24721.0,Unreliable
+444,"Onondaga County, NY",36067.0,25-34 years,25-34,2015.0,2015.0,Male,M,White,2106-3,15.0,24738.0,Unreliable
+445,"Onondaga County, NY",36067.0,25-34 years,25-34,2016.0,2016.0,Female,F,White,2106-3,12.0,24426.0,Unreliable
+446,"Onondaga County, NY",36067.0,25-34 years,25-34,2016.0,2016.0,Male,M,White,2106-3,29.0,24557.0,118.1
+447,"Onondaga County, NY",36067.0,35-44 years,35-44,2010.0,2010.0,Male,M,White,2106-3,10.0,23429.0,Unreliable
+448,"Onondaga County, NY",36067.0,35-44 years,35-44,2013.0,2013.0,Male,M,White,2106-3,14.0,21599.0,Unreliable
+449,"Onondaga County, NY",36067.0,35-44 years,35-44,2015.0,2015.0,Male,M,White,2106-3,11.0,20749.0,Unreliable
+450,"Onondaga County, NY",36067.0,35-44 years,35-44,2016.0,2016.0,Male,M,White,2106-3,17.0,20506.0,Unreliable
+451,"Onondaga County, NY",36067.0,45-54 years,45-54,2010.0,2010.0,Male,M,White,2106-3,12.0,30347.0,Unreliable
+452,"Onondaga County, NY",36067.0,45-54 years,45-54,2011.0,2011.0,Male,M,White,2106-3,19.0,29958.0,Unreliable
+453,"Onondaga County, NY",36067.0,45-54 years,45-54,2012.0,2012.0,Male,M,White,2106-3,13.0,29372.0,Unreliable
+454,"Onondaga County, NY",36067.0,45-54 years,45-54,2013.0,2013.0,Male,M,White,2106-3,19.0,28604.0,Unreliable
+455,"Onondaga County, NY",36067.0,45-54 years,45-54,2014.0,2014.0,Male,M,White,2106-3,23.0,27936.0,82.3
+456,"Onondaga County, NY",36067.0,45-54 years,45-54,2015.0,2015.0,Male,M,White,2106-3,18.0,27182.0,Unreliable
+457,"Onondaga County, NY",36067.0,45-54 years,45-54,2016.0,2016.0,Female,F,White,2106-3,15.0,28026.0,Unreliable
+458,"Onondaga County, NY",36067.0,45-54 years,45-54,2016.0,2016.0,Male,M,White,2106-3,29.0,26258.0,110.4
+459,"Onondaga County, NY",36067.0,55-64 years,55-64,2011.0,2011.0,Male,M,White,2106-3,14.0,25870.0,Unreliable
+460,"Onondaga County, NY",36067.0,55-64 years,55-64,2012.0,2012.0,Female,F,White,2106-3,12.0,27933.0,Unreliable
+461,"Onondaga County, NY",36067.0,55-64 years,55-64,2012.0,2012.0,Male,M,White,2106-3,22.0,26106.0,84.3
+462,"Onondaga County, NY",36067.0,55-64 years,55-64,2013.0,2013.0,Male,M,White,2106-3,18.0,26755.0,Unreliable
+463,"Onondaga County, NY",36067.0,55-64 years,55-64,2014.0,2014.0,Female,F,White,2106-3,10.0,28822.0,Unreliable
+464,"Onondaga County, NY",36067.0,55-64 years,55-64,2014.0,2014.0,Male,M,White,2106-3,18.0,27025.0,Unreliable
+465,"Onondaga County, NY",36067.0,55-64 years,55-64,2015.0,2015.0,Male,M,White,2106-3,16.0,27471.0,Unreliable
+466,"Onondaga County, NY",36067.0,55-64 years,55-64,2016.0,2016.0,Female,F,White,2106-3,13.0,29461.0,Unreliable
+467,"Onondaga County, NY",36067.0,55-64 years,55-64,2016.0,2016.0,Male,M,White,2106-3,25.0,27707.0,90.2
+468,"Orange County, NY",36071.0,25-34 years,25-34,2013.0,2013.0,Male,M,White,2106-3,12.0,17043.0,Unreliable
+469,"Orange County, NY",36071.0,25-34 years,25-34,2014.0,2014.0,Male,M,White,2106-3,15.0,16944.0,Unreliable
+470,"Orange County, NY",36071.0,25-34 years,25-34,2015.0,2015.0,Male,M,White,2106-3,18.0,17002.0,Unreliable
+471,"Orange County, NY",36071.0,25-34 years,25-34,2016.0,2016.0,Male,M,White,2106-3,18.0,17264.0,Unreliable
+472,"Orange County, NY",36071.0,35-44 years,35-44,2014.0,2014.0,Male,M,White,2106-3,10.0,18572.0,Unreliable
+473,"Orange County, NY",36071.0,35-44 years,35-44,2015.0,2015.0,Male,M,White,2106-3,12.0,18190.0,Unreliable
+474,"Orange County, NY",36071.0,35-44 years,35-44,2016.0,2016.0,Male,M,White,2106-3,15.0,17879.0,Unreliable
+475,"Orange County, NY",36071.0,45-54 years,45-54,2010.0,2010.0,Female,F,White,2106-3,11.0,24869.0,Unreliable
+476,"Orange County, NY",36071.0,45-54 years,45-54,2010.0,2010.0,Male,M,White,2106-3,10.0,24613.0,Unreliable
+477,"Orange County, NY",36071.0,45-54 years,45-54,2011.0,2011.0,Female,F,White,2106-3,12.0,24769.0,Unreliable
+478,"Orange County, NY",36071.0,45-54 years,45-54,2011.0,2011.0,Male,M,White,2106-3,10.0,24436.0,Unreliable
+479,"Orange County, NY",36071.0,45-54 years,45-54,2012.0,2012.0,Male,M,White,2106-3,13.0,24001.0,Unreliable
+480,"Orange County, NY",36071.0,45-54 years,45-54,2013.0,2013.0,Male,M,White,2106-3,13.0,23538.0,Unreliable
+481,"Orange County, NY",36071.0,45-54 years,45-54,2014.0,2014.0,Male,M,White,2106-3,17.0,23030.0,Unreliable
+482,"Orange County, NY",36071.0,45-54 years,45-54,2015.0,2015.0,Male,M,White,2106-3,10.0,22816.0,Unreliable
+483,"Orange County, NY",36071.0,55-64 years,55-64,2011.0,2011.0,Male,M,White,2106-3,12.0,18995.0,Unreliable
+484,"Orange County, NY",36071.0,55-64 years,55-64,2012.0,2012.0,Male,M,White,2106-3,14.0,19238.0,Unreliable
+485,"Orange County, NY",36071.0,55-64 years,55-64,2015.0,2015.0,Male,M,White,2106-3,11.0,19983.0,Unreliable
+486,"Orange County, NY",36071.0,55-64 years,55-64,2016.0,2016.0,Male,M,White,2106-3,20.0,20226.0,98.9
+487,"Putnam County, NY",36079.0,25-34 years,25-34,2012.0,2012.0,Male,M,White,2106-3,11.0,4732.0,Unreliable
+488,"Putnam County, NY",36079.0,25-34 years,25-34,2016.0,2016.0,Male,M,White,2106-3,12.0,4911.0,Unreliable
+489,"Queens County, NY",36081.0,15-24 years,15-24,2010.0,2010.0,Male,M,White,2106-3,10.0,74885.0,Unreliable
+490,"Queens County, NY",36081.0,15-24 years,15-24,2012.0,2012.0,Male,M,White,2106-3,11.0,71338.0,Unreliable
+491,"Queens County, NY",36081.0,15-24 years,15-24,2015.0,2015.0,Male,M,White,2106-3,10.0,65413.0,Unreliable
+492,"Queens County, NY",36081.0,15-24 years,15-24,2016.0,2016.0,Male,M,White,2106-3,11.0,63467.0,Unreliable
+493,"Queens County, NY",36081.0,25-34 years,25-34,2010.0,2010.0,Male,M,White,2106-3,16.0,100427.0,Unreliable
+494,"Queens County, NY",36081.0,25-34 years,25-34,2011.0,2011.0,Male,M,White,2106-3,18.0,101161.0,Unreliable
+495,"Queens County, NY",36081.0,25-34 years,25-34,2012.0,2012.0,Male,M,White,2106-3,24.0,100958.0,23.8
+496,"Queens County, NY",36081.0,25-34 years,25-34,2013.0,2013.0,Female,F,White,2106-3,10.0,92383.0,Unreliable
+497,"Queens County, NY",36081.0,25-34 years,25-34,2013.0,2013.0,Male,M,White,2106-3,32.0,100837.0,31.7
+498,"Queens County, NY",36081.0,25-34 years,25-34,2014.0,2014.0,Male,M,White,2106-3,31.0,99922.0,31.0
+499,"Queens County, NY",36081.0,25-34 years,25-34,2015.0,2015.0,Male,M,White,2106-3,22.0,99124.0,22.2
+500,"Queens County, NY",36081.0,25-34 years,25-34,2016.0,2016.0,Female,F,White,2106-3,12.0,91104.0,Unreliable
+501,"Queens County, NY",36081.0,25-34 years,25-34,2016.0,2016.0,Male,M,Black or African American,2054-5,10.0,36599.0,Unreliable
+502,"Queens County, NY",36081.0,25-34 years,25-34,2016.0,2016.0,Male,M,White,2106-3,49.0,97171.0,50.4
+503,"Queens County, NY",36081.0,35-44 years,35-44,2010.0,2010.0,Male,M,White,2106-3,43.0,86071.0,50.0
+504,"Queens County, NY",36081.0,35-44 years,35-44,2011.0,2011.0,Female,F,White,2106-3,10.0,76375.0,Unreliable
+505,"Queens County, NY",36081.0,35-44 years,35-44,2011.0,2011.0,Male,M,White,2106-3,33.0,86266.0,38.3
+506,"Queens County, NY",36081.0,35-44 years,35-44,2012.0,2012.0,Male,M,White,2106-3,27.0,86773.0,31.1
+507,"Queens County, NY",36081.0,35-44 years,35-44,2013.0,2013.0,Male,M,Asian or Pacific Islander,A-PI,11.0,45310.0,Unreliable
+508,"Queens County, NY",36081.0,35-44 years,35-44,2013.0,2013.0,Male,M,White,2106-3,42.0,87388.0,48.1
+509,"Queens County, NY",36081.0,35-44 years,35-44,2014.0,2014.0,Male,M,White,2106-3,34.0,87090.0,39.0
+510,"Queens County, NY",36081.0,35-44 years,35-44,2015.0,2015.0,Female,F,White,2106-3,10.0,77726.0,Unreliable
+511,"Queens County, NY",36081.0,35-44 years,35-44,2015.0,2015.0,Male,M,White,2106-3,39.0,86374.0,45.2
+512,"Queens County, NY",36081.0,35-44 years,35-44,2016.0,2016.0,Female,F,White,2106-3,17.0,75966.0,Unreliable
+513,"Queens County, NY",36081.0,35-44 years,35-44,2016.0,2016.0,Male,M,Asian or Pacific Islander,A-PI,13.0,45104.0,Unreliable
+514,"Queens County, NY",36081.0,35-44 years,35-44,2016.0,2016.0,Male,M,White,2106-3,43.0,84052.0,51.2
+515,"Queens County, NY",36081.0,45-54 years,45-54,2010.0,2010.0,Female,F,White,2106-3,18.0,77132.0,Unreliable
+516,"Queens County, NY",36081.0,45-54 years,45-54,2010.0,2010.0,Male,M,Black or African American,2054-5,13.0,32368.0,Unreliable
+517,"Queens County, NY",36081.0,45-54 years,45-54,2010.0,2010.0,Male,M,White,2106-3,54.0,77684.0,69.5
+518,"Queens County, NY",36081.0,45-54 years,45-54,2011.0,2011.0,Female,F,White,2106-3,10.0,76401.0,Unreliable
+519,"Queens County, NY",36081.0,45-54 years,45-54,2011.0,2011.0,Male,M,Black or African American,2054-5,20.0,32683.0,61.2
+520,"Queens County, NY",36081.0,45-54 years,45-54,2011.0,2011.0,Male,M,White,2106-3,49.0,78004.0,62.8
+521,"Queens County, NY",36081.0,45-54 years,45-54,2012.0,2012.0,Female,F,White,2106-3,23.0,75804.0,30.3
+522,"Queens County, NY",36081.0,45-54 years,45-54,2012.0,2012.0,Male,M,Black or African American,2054-5,13.0,32524.0,Unreliable
+523,"Queens County, NY",36081.0,45-54 years,45-54,2012.0,2012.0,Male,M,White,2106-3,52.0,78171.0,66.5
+524,"Queens County, NY",36081.0,45-54 years,45-54,2013.0,2013.0,Female,F,White,2106-3,19.0,75116.0,Unreliable
+525,"Queens County, NY",36081.0,45-54 years,45-54,2013.0,2013.0,Male,M,Black or African American,2054-5,14.0,32957.0,Unreliable
+526,"Queens County, NY",36081.0,45-54 years,45-54,2013.0,2013.0,Male,M,White,2106-3,51.0,78824.0,64.7
+527,"Queens County, NY",36081.0,45-54 years,45-54,2014.0,2014.0,Male,M,Asian or Pacific Islander,A-PI,13.0,45530.0,Unreliable
+528,"Queens County, NY",36081.0,45-54 years,45-54,2014.0,2014.0,Male,M,Black or African American,2054-5,18.0,32908.0,Unreliable
+529,"Queens County, NY",36081.0,45-54 years,45-54,2014.0,2014.0,Male,M,White,2106-3,38.0,79093.0,48.0
+530,"Queens County, NY",36081.0,45-54 years,45-54,2015.0,2015.0,Female,F,Black or African American,2054-5,11.0,40949.0,Unreliable
+531,"Queens County, NY",36081.0,45-54 years,45-54,2015.0,2015.0,Female,F,White,2106-3,14.0,74089.0,Unreliable
+532,"Queens County, NY",36081.0,45-54 years,45-54,2015.0,2015.0,Male,M,Black or African American,2054-5,13.0,32539.0,Unreliable
+533,"Queens County, NY",36081.0,45-54 years,45-54,2015.0,2015.0,Male,M,White,2106-3,61.0,79340.0,76.9
+534,"Queens County, NY",36081.0,45-54 years,45-54,2016.0,2016.0,Female,F,White,2106-3,14.0,72716.0,Unreliable
+535,"Queens County, NY",36081.0,45-54 years,45-54,2016.0,2016.0,Male,M,Black or African American,2054-5,14.0,32100.0,Unreliable
+536,"Queens County, NY",36081.0,45-54 years,45-54,2016.0,2016.0,Male,M,White,2106-3,49.0,78130.0,62.7
+537,"Queens County, NY",36081.0,55-64 years,55-64,2010.0,2010.0,Female,F,White,2106-3,13.0,70633.0,Unreliable
+538,"Queens County, NY",36081.0,55-64 years,55-64,2010.0,2010.0,Male,M,Black or African American,2054-5,11.0,22643.0,Unreliable
+539,"Queens County, NY",36081.0,55-64 years,55-64,2010.0,2010.0,Male,M,White,2106-3,28.0,62737.0,44.6
+540,"Queens County, NY",36081.0,55-64 years,55-64,2011.0,2011.0,Female,F,White,2106-3,11.0,72395.0,Unreliable
+541,"Queens County, NY",36081.0,55-64 years,55-64,2011.0,2011.0,Male,M,Black or African American,2054-5,19.0,23855.0,Unreliable
+542,"Queens County, NY",36081.0,55-64 years,55-64,2011.0,2011.0,Male,M,White,2106-3,46.0,64909.0,70.9
+543,"Queens County, NY",36081.0,55-64 years,55-64,2012.0,2012.0,Female,F,White,2106-3,12.0,72790.0,Unreliable
+544,"Queens County, NY",36081.0,55-64 years,55-64,2012.0,2012.0,Male,M,Asian or Pacific Islander,A-PI,10.0,35352.0,Unreliable
+545,"Queens County, NY",36081.0,55-64 years,55-64,2012.0,2012.0,Male,M,Black or African American,2054-5,10.0,24601.0,Unreliable
+546,"Queens County, NY",36081.0,55-64 years,55-64,2012.0,2012.0,Male,M,White,2106-3,48.0,65502.0,73.3
+547,"Queens County, NY",36081.0,55-64 years,55-64,2013.0,2013.0,Female,F,White,2106-3,16.0,73288.0,Unreliable
+548,"Queens County, NY",36081.0,55-64 years,55-64,2013.0,2013.0,Male,M,Black or African American,2054-5,13.0,25623.0,Unreliable
+549,"Queens County, NY",36081.0,55-64 years,55-64,2013.0,2013.0,Male,M,White,2106-3,49.0,66439.0,73.8
+550,"Queens County, NY",36081.0,55-64 years,55-64,2014.0,2014.0,Female,F,White,2106-3,15.0,73552.0,Unreliable
+551,"Queens County, NY",36081.0,55-64 years,55-64,2014.0,2014.0,Male,M,Black or African American,2054-5,12.0,26493.0,Unreliable
+552,"Queens County, NY",36081.0,55-64 years,55-64,2014.0,2014.0,Male,M,White,2106-3,36.0,67582.0,53.3
+553,"Queens County, NY",36081.0,55-64 years,55-64,2015.0,2015.0,Female,F,White,2106-3,19.0,73931.0,Unreliable
+554,"Queens County, NY",36081.0,55-64 years,55-64,2015.0,2015.0,Male,M,Black or African American,2054-5,17.0,27534.0,Unreliable
+555,"Queens County, NY",36081.0,55-64 years,55-64,2015.0,2015.0,Male,M,White,2106-3,51.0,69074.0,73.8
+556,"Queens County, NY",36081.0,55-64 years,55-64,2016.0,2016.0,Female,F,White,2106-3,18.0,73384.0,Unreliable
+557,"Queens County, NY",36081.0,55-64 years,55-64,2016.0,2016.0,Male,M,Black or African American,2054-5,25.0,28207.0,88.6
+558,"Queens County, NY",36081.0,55-64 years,55-64,2016.0,2016.0,Male,M,White,2106-3,34.0,69354.0,49.0
+559,"Queens County, NY",36081.0,65-74 years,65-74,2010.0,2010.0,Male,M,White,2106-3,11.0,37474.0,Unreliable
+560,"Queens County, NY",36081.0,65-74 years,65-74,2011.0,2011.0,Male,M,White,2106-3,18.0,37943.0,Unreliable
+561,"Queens County, NY",36081.0,65-74 years,65-74,2012.0,2012.0,Male,M,White,2106-3,12.0,39851.0,Unreliable
+562,"Queens County, NY",36081.0,65-74 years,65-74,2013.0,2013.0,Male,M,White,2106-3,13.0,40870.0,Unreliable
+563,"Queens County, NY",36081.0,65-74 years,65-74,2014.0,2014.0,Male,M,White,2106-3,20.0,41681.0,48.0
+564,"Queens County, NY",36081.0,65-74 years,65-74,2015.0,2015.0,Male,M,White,2106-3,18.0,42680.0,Unreliable
+565,"Queens County, NY",36081.0,65-74 years,65-74,2016.0,2016.0,Male,M,White,2106-3,21.0,43961.0,47.8
+566,"Queens County, NY",36081.0,75-84 years,75-84,2015.0,2015.0,Male,M,White,2106-3,12.0,22867.0,Unreliable
+567,"Richmond County, NY",36085.0,25-34 years,25-34,2010.0,2010.0,Male,M,White,2106-3,12.0,23357.0,Unreliable
+568,"Richmond County, NY",36085.0,25-34 years,25-34,2011.0,2011.0,Male,M,White,2106-3,13.0,23342.0,Unreliable
+569,"Richmond County, NY",36085.0,25-34 years,25-34,2012.0,2012.0,Male,M,White,2106-3,13.0,23271.0,Unreliable
+570,"Richmond County, NY",36085.0,25-34 years,25-34,2014.0,2014.0,Male,M,White,2106-3,11.0,23768.0,Unreliable
+571,"Richmond County, NY",36085.0,25-34 years,25-34,2015.0,2015.0,Male,M,White,2106-3,13.0,23962.0,Unreliable
+572,"Richmond County, NY",36085.0,25-34 years,25-34,2016.0,2016.0,Male,M,White,2106-3,30.0,24481.0,122.5
+573,"Richmond County, NY",36085.0,35-44 years,35-44,2010.0,2010.0,Male,M,White,2106-3,11.0,25450.0,Unreliable
+574,"Richmond County, NY",36085.0,35-44 years,35-44,2011.0,2011.0,Male,M,White,2106-3,15.0,24901.0,Unreliable
+575,"Richmond County, NY",36085.0,35-44 years,35-44,2012.0,2012.0,Male,M,White,2106-3,18.0,24414.0,Unreliable
+576,"Richmond County, NY",36085.0,35-44 years,35-44,2013.0,2013.0,Male,M,White,2106-3,13.0,24173.0,Unreliable
+577,"Richmond County, NY",36085.0,35-44 years,35-44,2014.0,2014.0,Male,M,White,2106-3,19.0,23694.0,Unreliable
+578,"Richmond County, NY",36085.0,35-44 years,35-44,2015.0,2015.0,Male,M,White,2106-3,18.0,23387.0,Unreliable
+579,"Richmond County, NY",36085.0,35-44 years,35-44,2016.0,2016.0,Male,M,White,2106-3,27.0,22779.0,118.5
+580,"Richmond County, NY",36085.0,45-54 years,45-54,2010.0,2010.0,Male,M,White,2106-3,23.0,27843.0,82.6
+581,"Richmond County, NY",36085.0,45-54 years,45-54,2011.0,2011.0,Female,F,White,2106-3,17.0,29105.0,Unreliable
+582,"Richmond County, NY",36085.0,45-54 years,45-54,2011.0,2011.0,Male,M,White,2106-3,20.0,27662.0,72.3
+583,"Richmond County, NY",36085.0,45-54 years,45-54,2012.0,2012.0,Female,F,White,2106-3,12.0,28694.0,Unreliable
+584,"Richmond County, NY",36085.0,45-54 years,45-54,2012.0,2012.0,Male,M,White,2106-3,19.0,27356.0,Unreliable
+585,"Richmond County, NY",36085.0,45-54 years,45-54,2013.0,2013.0,Male,M,White,2106-3,26.0,27014.0,96.2
+586,"Richmond County, NY",36085.0,45-54 years,45-54,2014.0,2014.0,Male,M,White,2106-3,28.0,26656.0,105.0
+587,"Richmond County, NY",36085.0,45-54 years,45-54,2015.0,2015.0,Male,M,White,2106-3,20.0,26356.0,75.9
+588,"Richmond County, NY",36085.0,45-54 years,45-54,2016.0,2016.0,Female,F,White,2106-3,13.0,27314.0,Unreliable
+589,"Richmond County, NY",36085.0,45-54 years,45-54,2016.0,2016.0,Male,M,White,2106-3,34.0,26142.0,130.1
+590,"Richmond County, NY",36085.0,55-64 years,55-64,2011.0,2011.0,Male,M,White,2106-3,16.0,23701.0,Unreliable
+591,"Richmond County, NY",36085.0,55-64 years,55-64,2012.0,2012.0,Male,M,White,2106-3,18.0,23644.0,Unreliable
+592,"Richmond County, NY",36085.0,55-64 years,55-64,2013.0,2013.0,Male,M,White,2106-3,18.0,23954.0,Unreliable
+593,"Richmond County, NY",36085.0,55-64 years,55-64,2014.0,2014.0,Male,M,White,2106-3,15.0,24145.0,Unreliable
+594,"Richmond County, NY",36085.0,55-64 years,55-64,2015.0,2015.0,Female,F,White,2106-3,10.0,26966.0,Unreliable
+595,"Richmond County, NY",36085.0,55-64 years,55-64,2015.0,2015.0,Male,M,White,2106-3,21.0,24452.0,85.9
+596,"Richmond County, NY",36085.0,55-64 years,55-64,2016.0,2016.0,Male,M,White,2106-3,17.0,24753.0,Unreliable
+597,"Rockland County, NY",36087.0,25-34 years,25-34,2015.0,2015.0,Male,M,White,2106-3,10.0,14482.0,Unreliable
+598,"Rockland County, NY",36087.0,25-34 years,25-34,2016.0,2016.0,Male,M,White,2106-3,11.0,14523.0,Unreliable
+599,"Rockland County, NY",36087.0,45-54 years,45-54,2015.0,2015.0,Male,M,White,2106-3,12.0,16322.0,Unreliable
+600,"Rockland County, NY",36087.0,55-64 years,55-64,2015.0,2015.0,Female,F,White,2106-3,11.0,15343.0,Unreliable
+601,"Suffolk County, NY",36103.0,15-24 years,15-24,2010.0,2010.0,Male,M,White,2106-3,27.0,85765.0,31.5
+602,"Suffolk County, NY",36103.0,15-24 years,15-24,2011.0,2011.0,Male,M,White,2106-3,34.0,86303.0,39.4
+603,"Suffolk County, NY",36103.0,15-24 years,15-24,2012.0,2012.0,Female,F,White,2106-3,12.0,79946.0,Unreliable
+604,"Suffolk County, NY",36103.0,15-24 years,15-24,2012.0,2012.0,Male,M,White,2106-3,24.0,86950.0,27.6
+605,"Suffolk County, NY",36103.0,15-24 years,15-24,2013.0,2013.0,Male,M,White,2106-3,36.0,87429.0,41.2
+606,"Suffolk County, NY",36103.0,15-24 years,15-24,2014.0,2014.0,Female,F,White,2106-3,10.0,81289.0,Unreliable
+607,"Suffolk County, NY",36103.0,15-24 years,15-24,2014.0,2014.0,Male,M,White,2106-3,28.0,87310.0,32.1
+608,"Suffolk County, NY",36103.0,15-24 years,15-24,2015.0,2015.0,Male,M,White,2106-3,30.0,86049.0,34.9
+609,"Suffolk County, NY",36103.0,15-24 years,15-24,2016.0,2016.0,Male,M,White,2106-3,42.0,84947.0,49.4
+610,"Suffolk County, NY",36103.0,25-34 years,25-34,2010.0,2010.0,Male,M,White,2106-3,26.0,71848.0,36.2
+611,"Suffolk County, NY",36103.0,25-34 years,25-34,2011.0,2011.0,Female,F,White,2106-3,10.0,68437.0,Unreliable
+612,"Suffolk County, NY",36103.0,25-34 years,25-34,2011.0,2011.0,Male,M,White,2106-3,48.0,72271.0,66.4
+613,"Suffolk County, NY",36103.0,25-34 years,25-34,2012.0,2012.0,Female,F,White,2106-3,18.0,67565.0,Unreliable
+614,"Suffolk County, NY",36103.0,25-34 years,25-34,2012.0,2012.0,Male,M,White,2106-3,53.0,72214.0,73.4
+615,"Suffolk County, NY",36103.0,25-34 years,25-34,2013.0,2013.0,Female,F,White,2106-3,12.0,67227.0,Unreliable
+616,"Suffolk County, NY",36103.0,25-34 years,25-34,2013.0,2013.0,Male,M,White,2106-3,51.0,72571.0,70.3
+617,"Suffolk County, NY",36103.0,25-34 years,25-34,2014.0,2014.0,Female,F,White,2106-3,20.0,67525.0,29.6
+618,"Suffolk County, NY",36103.0,25-34 years,25-34,2014.0,2014.0,Male,M,White,2106-3,48.0,73366.0,65.4
+619,"Suffolk County, NY",36103.0,25-34 years,25-34,2015.0,2015.0,Female,F,White,2106-3,12.0,67839.0,Unreliable
+620,"Suffolk County, NY",36103.0,25-34 years,25-34,2015.0,2015.0,Male,M,White,2106-3,68.0,73390.0,92.7
+621,"Suffolk County, NY",36103.0,25-34 years,25-34,2016.0,2016.0,Female,F,White,2106-3,33.0,67636.0,48.8
+622,"Suffolk County, NY",36103.0,25-34 years,25-34,2016.0,2016.0,Male,M,White,2106-3,90.0,73154.0,123.0
+623,"Suffolk County, NY",36103.0,35-44 years,35-44,2010.0,2010.0,Female,F,White,2106-3,16.0,93329.0,Unreliable
+624,"Suffolk County, NY",36103.0,35-44 years,35-44,2010.0,2010.0,Male,M,White,2106-3,35.0,91409.0,38.3
+625,"Suffolk County, NY",36103.0,35-44 years,35-44,2011.0,2011.0,Female,F,White,2106-3,16.0,89494.0,Unreliable
+626,"Suffolk County, NY",36103.0,35-44 years,35-44,2011.0,2011.0,Male,M,White,2106-3,46.0,88129.0,52.2
+627,"Suffolk County, NY",36103.0,35-44 years,35-44,2012.0,2012.0,Female,F,White,2106-3,21.0,86282.0,24.3
+628,"Suffolk County, NY",36103.0,35-44 years,35-44,2012.0,2012.0,Male,M,White,2106-3,46.0,85216.0,54.0
+629,"Suffolk County, NY",36103.0,35-44 years,35-44,2013.0,2013.0,Female,F,White,2106-3,16.0,82775.0,Unreliable
+630,"Suffolk County, NY",36103.0,35-44 years,35-44,2013.0,2013.0,Male,M,White,2106-3,35.0,82168.0,42.6
+631,"Suffolk County, NY",36103.0,35-44 years,35-44,2014.0,2014.0,Female,F,White,2106-3,25.0,79895.0,31.3
+632,"Suffolk County, NY",36103.0,35-44 years,35-44,2014.0,2014.0,Male,M,White,2106-3,47.0,79829.0,58.9
+633,"Suffolk County, NY",36103.0,35-44 years,35-44,2015.0,2015.0,Female,F,White,2106-3,14.0,77447.0,Unreliable
+634,"Suffolk County, NY",36103.0,35-44 years,35-44,2015.0,2015.0,Male,M,White,2106-3,49.0,77603.0,63.1
+635,"Suffolk County, NY",36103.0,35-44 years,35-44,2016.0,2016.0,Female,F,White,2106-3,32.0,74704.0,42.8
+636,"Suffolk County, NY",36103.0,35-44 years,35-44,2016.0,2016.0,Male,M,White,2106-3,68.0,75293.0,90.3
+637,"Suffolk County, NY",36103.0,45-54 years,45-54,2010.0,2010.0,Female,F,White,2106-3,21.0,109528.0,19.2
+638,"Suffolk County, NY",36103.0,45-54 years,45-54,2010.0,2010.0,Male,M,White,2106-3,51.0,108354.0,47.1
+639,"Suffolk County, NY",36103.0,45-54 years,45-54,2011.0,2011.0,Female,F,White,2106-3,38.0,109791.0,34.6
+640,"Suffolk County, NY",36103.0,45-54 years,45-54,2011.0,2011.0,Male,M,White,2106-3,64.0,108482.0,59.0
+641,"Suffolk County, NY",36103.0,45-54 years,45-54,2012.0,2012.0,Female,F,White,2106-3,26.0,109449.0,23.8
+642,"Suffolk County, NY",36103.0,45-54 years,45-54,2012.0,2012.0,Male,M,White,2106-3,75.0,108085.0,69.4
+643,"Suffolk County, NY",36103.0,45-54 years,45-54,2013.0,2013.0,Female,F,White,2106-3,45.0,108938.0,41.3
+644,"Suffolk County, NY",36103.0,45-54 years,45-54,2013.0,2013.0,Male,M,White,2106-3,57.0,107045.0,53.2
+645,"Suffolk County, NY",36103.0,45-54 years,45-54,2014.0,2014.0,Female,F,White,2106-3,30.0,107731.0,27.8
+646,"Suffolk County, NY",36103.0,45-54 years,45-54,2014.0,2014.0,Male,M,White,2106-3,54.0,105460.0,51.2
+647,"Suffolk County, NY",36103.0,45-54 years,45-54,2015.0,2015.0,Female,F,White,2106-3,29.0,105564.0,27.5
+648,"Suffolk County, NY",36103.0,45-54 years,45-54,2015.0,2015.0,Male,M,White,2106-3,65.0,103575.0,62.8
+649,"Suffolk County, NY",36103.0,45-54 years,45-54,2016.0,2016.0,Female,F,White,2106-3,30.0,102864.0,29.2
+650,"Suffolk County, NY",36103.0,45-54 years,45-54,2016.0,2016.0,Male,M,White,2106-3,67.0,100487.0,66.7
+651,"Suffolk County, NY",36103.0,55-64 years,55-64,2010.0,2010.0,Female,F,White,2106-3,15.0,83362.0,Unreliable
+652,"Suffolk County, NY",36103.0,55-64 years,55-64,2010.0,2010.0,Male,M,White,2106-3,34.0,77762.0,43.7
+653,"Suffolk County, NY",36103.0,55-64 years,55-64,2011.0,2011.0,Female,F,White,2106-3,19.0,86082.0,Unreliable
+654,"Suffolk County, NY",36103.0,55-64 years,55-64,2011.0,2011.0,Male,M,White,2106-3,42.0,80993.0,51.9
+655,"Suffolk County, NY",36103.0,55-64 years,55-64,2012.0,2012.0,Female,F,White,2106-3,28.0,86119.0,32.5
+656,"Suffolk County, NY",36103.0,55-64 years,55-64,2012.0,2012.0,Male,M,White,2106-3,40.0,81693.0,49.0
+657,"Suffolk County, NY",36103.0,55-64 years,55-64,2013.0,2013.0,Female,F,White,2106-3,24.0,87765.0,27.3
+658,"Suffolk County, NY",36103.0,55-64 years,55-64,2013.0,2013.0,Male,M,White,2106-3,58.0,84022.0,69.0
+659,"Suffolk County, NY",36103.0,55-64 years,55-64,2014.0,2014.0,Female,F,White,2106-3,15.0,89477.0,Unreliable
+660,"Suffolk County, NY",36103.0,55-64 years,55-64,2014.0,2014.0,Male,M,White,2106-3,41.0,86436.0,47.4
+661,"Suffolk County, NY",36103.0,55-64 years,55-64,2015.0,2015.0,Female,F,White,2106-3,12.0,91722.0,Unreliable
+662,"Suffolk County, NY",36103.0,55-64 years,55-64,2015.0,2015.0,Male,M,White,2106-3,42.0,88971.0,47.2
+663,"Suffolk County, NY",36103.0,55-64 years,55-64,2016.0,2016.0,Female,F,White,2106-3,30.0,93961.0,31.9
+664,"Suffolk County, NY",36103.0,55-64 years,55-64,2016.0,2016.0,Male,M,White,2106-3,66.0,90931.0,72.6
+665,"Suffolk County, NY",36103.0,65-74 years,65-74,2011.0,2011.0,Male,M,White,2106-3,11.0,46710.0,Unreliable
+666,"Suffolk County, NY",36103.0,65-74 years,65-74,2012.0,2012.0,Female,F,White,2106-3,13.0,58914.0,Unreliable
+667,"Suffolk County, NY",36103.0,65-74 years,65-74,2012.0,2012.0,Male,M,White,2106-3,11.0,50015.0,Unreliable
+668,"Suffolk County, NY",36103.0,65-74 years,65-74,2013.0,2013.0,Male,M,White,2106-3,11.0,52221.0,Unreliable
+669,"Suffolk County, NY",36103.0,65-74 years,65-74,2014.0,2014.0,Male,M,White,2106-3,16.0,53868.0,Unreliable
+670,"Suffolk County, NY",36103.0,65-74 years,65-74,2015.0,2015.0,Male,M,White,2106-3,16.0,55655.0,Unreliable
+671,"Suffolk County, NY",36103.0,65-74 years,65-74,2016.0,2016.0,Male,M,White,2106-3,22.0,57190.0,38.5
+672,"Ulster County, NY",36111.0,25-34 years,25-34,2016.0,2016.0,Male,M,White,2106-3,18.0,9651.0,Unreliable
+673,"Ulster County, NY",36111.0,35-44 years,35-44,2011.0,2011.0,Male,M,White,2106-3,10.0,10313.0,Unreliable
+674,"Ulster County, NY",36111.0,35-44 years,35-44,2016.0,2016.0,Male,M,White,2106-3,12.0,8908.0,Unreliable
+675,"Westchester County, NY",36119.0,15-24 years,15-24,2012.0,2012.0,Male,M,White,2106-3,10.0,45519.0,Unreliable
+676,"Westchester County, NY",36119.0,15-24 years,15-24,2015.0,2015.0,Male,M,White,2106-3,14.0,47719.0,Unreliable
+677,"Westchester County, NY",36119.0,15-24 years,15-24,2016.0,2016.0,Male,M,White,2106-3,11.0,47905.0,Unreliable
+678,"Westchester County, NY",36119.0,25-34 years,25-34,2012.0,2012.0,Male,M,White,2106-3,21.0,40283.0,52.1
+679,"Westchester County, NY",36119.0,25-34 years,25-34,2013.0,2013.0,Male,M,White,2106-3,26.0,40309.0,64.5
+680,"Westchester County, NY",36119.0,25-34 years,25-34,2014.0,2014.0,Male,M,White,2106-3,11.0,39880.0,Unreliable
+681,"Westchester County, NY",36119.0,25-34 years,25-34,2015.0,2015.0,Male,M,White,2106-3,16.0,39629.0,Unreliable
+682,"Westchester County, NY",36119.0,25-34 years,25-34,2016.0,2016.0,Female,F,White,2106-3,10.0,37065.0,Unreliable
+683,"Westchester County, NY",36119.0,25-34 years,25-34,2016.0,2016.0,Male,M,White,2106-3,32.0,38905.0,82.3
+684,"Westchester County, NY",36119.0,35-44 years,35-44,2010.0,2010.0,Male,M,White,2106-3,17.0,49130.0,Unreliable
+685,"Westchester County, NY",36119.0,35-44 years,35-44,2011.0,2011.0,Male,M,White,2106-3,17.0,48204.0,Unreliable
+686,"Westchester County, NY",36119.0,35-44 years,35-44,2013.0,2013.0,Male,M,White,2106-3,13.0,46947.0,Unreliable
+687,"Westchester County, NY",36119.0,35-44 years,35-44,2014.0,2014.0,Male,M,White,2106-3,12.0,46270.0,Unreliable
+688,"Westchester County, NY",36119.0,35-44 years,35-44,2015.0,2015.0,Male,M,White,2106-3,15.0,45696.0,Unreliable
+689,"Westchester County, NY",36119.0,35-44 years,35-44,2016.0,2016.0,Male,M,White,2106-3,20.0,44919.0,44.5
+690,"Westchester County, NY",36119.0,45-54 years,45-54,2010.0,2010.0,Male,M,White,2106-3,20.0,57031.0,35.1
+691,"Westchester County, NY",36119.0,45-54 years,45-54,2011.0,2011.0,Male,M,White,2106-3,19.0,56822.0,Unreliable
+692,"Westchester County, NY",36119.0,45-54 years,45-54,2012.0,2012.0,Male,M,White,2106-3,28.0,56326.0,49.7
+693,"Westchester County, NY",36119.0,45-54 years,45-54,2013.0,2013.0,Male,M,White,2106-3,26.0,56106.0,46.3
+694,"Westchester County, NY",36119.0,45-54 years,45-54,2014.0,2014.0,Female,F,White,2106-3,13.0,57278.0,Unreliable
+695,"Westchester County, NY",36119.0,45-54 years,45-54,2014.0,2014.0,Male,M,White,2106-3,24.0,55732.0,43.1
+696,"Westchester County, NY",36119.0,45-54 years,45-54,2015.0,2015.0,Male,M,White,2106-3,23.0,55368.0,41.5
+697,"Westchester County, NY",36119.0,45-54 years,45-54,2016.0,2016.0,Female,F,White,2106-3,13.0,55476.0,Unreliable
+698,"Westchester County, NY",36119.0,45-54 years,45-54,2016.0,2016.0,Male,M,White,2106-3,29.0,54110.0,53.6
+699,"Westchester County, NY",36119.0,55-64 years,55-64,2010.0,2010.0,Male,M,White,2106-3,14.0,44275.0,Unreliable
+700,"Westchester County, NY",36119.0,55-64 years,55-64,2011.0,2011.0,Female,F,White,2106-3,11.0,49573.0,Unreliable
+701,"Westchester County, NY",36119.0,55-64 years,55-64,2011.0,2011.0,Male,M,White,2106-3,17.0,45850.0,Unreliable
+702,"Westchester County, NY",36119.0,55-64 years,55-64,2012.0,2012.0,Female,F,White,2106-3,10.0,49924.0,Unreliable
+703,"Westchester County, NY",36119.0,55-64 years,55-64,2012.0,2012.0,Male,M,White,2106-3,15.0,46334.0,Unreliable
+704,"Westchester County, NY",36119.0,55-64 years,55-64,2013.0,2013.0,Female,F,White,2106-3,13.0,50778.0,Unreliable
+705,"Westchester County, NY",36119.0,55-64 years,55-64,2013.0,2013.0,Male,M,White,2106-3,24.0,47348.0,50.7
+706,"Westchester County, NY",36119.0,55-64 years,55-64,2014.0,2014.0,Male,M,White,2106-3,16.0,48225.0,Unreliable
+707,"Westchester County, NY",36119.0,55-64 years,55-64,2015.0,2015.0,Male,M,White,2106-3,16.0,49179.0,Unreliable
+708,"Westchester County, NY",36119.0,55-64 years,55-64,2016.0,2016.0,Male,M,White,2106-3,16.0,49802.0,Unreliable
+709,"Westchester County, NY",36119.0,65-74 years,65-74,2015.0,2015.0,Male,M,White,2106-3,12.0,29994.0,Unreliable

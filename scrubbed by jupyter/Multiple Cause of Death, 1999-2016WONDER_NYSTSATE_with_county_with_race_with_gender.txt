@@ -1,0 +1,778 @@
+"Notes"	"County"	"County Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Year"	"Year Code"	"Gender"	"Gender Code"	"Race"	"Race Code"	Deaths	Population	Crude Rate
+	"Albany County, NY"	"36001"	"25-34 years"	"25-34"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	11	15534	Unreliable
+	"Albany County, NY"	"36001"	"45-54 years"	"45-54"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	12	17900	Unreliable
+	"Albany County, NY"	"36001"	"45-54 years"	"45-54"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	12	17091	Unreliable
+	"Albany County, NY"	"36001"	"55-64 years"	"55-64"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	11	16853	Unreliable
+	"Bronx County, NY"	"36005"	"15-24 years"	"15-24"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	14	50085	Unreliable
+	"Bronx County, NY"	"36005"	"25-34 years"	"25-34"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	45341	Unreliable
+	"Bronx County, NY"	"36005"	"25-34 years"	"25-34"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	22	46848	47.0
+	"Bronx County, NY"	"36005"	"25-34 years"	"25-34"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	25	47267	52.9
+	"Bronx County, NY"	"36005"	"25-34 years"	"25-34"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	19	48813	Unreliable
+	"Bronx County, NY"	"36005"	"25-34 years"	"25-34"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	21	50145	41.9
+	"Bronx County, NY"	"36005"	"25-34 years"	"25-34"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	34	51280	66.3
+	"Bronx County, NY"	"36005"	"25-34 years"	"25-34"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	30	51890	57.8
+	"Bronx County, NY"	"36005"	"35-44 years"	"35-44"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	29	40212	72.1
+	"Bronx County, NY"	"36005"	"35-44 years"	"35-44"	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	12	36898	Unreliable
+	"Bronx County, NY"	"36005"	"35-44 years"	"35-44"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	31	39682	78.1
+	"Bronx County, NY"	"36005"	"35-44 years"	"35-44"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	12	43185	Unreliable
+	"Bronx County, NY"	"36005"	"35-44 years"	"35-44"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	25	39817	62.8
+	"Bronx County, NY"	"36005"	"35-44 years"	"35-44"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	11	42989	Unreliable
+	"Bronx County, NY"	"36005"	"35-44 years"	"35-44"	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	12	36637	Unreliable
+	"Bronx County, NY"	"36005"	"35-44 years"	"35-44"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	28	39673	70.6
+	"Bronx County, NY"	"36005"	"35-44 years"	"35-44"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	10	43545	Unreliable
+	"Bronx County, NY"	"36005"	"35-44 years"	"35-44"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	36	39588	90.9
+	"Bronx County, NY"	"36005"	"35-44 years"	"35-44"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	15	44308	Unreliable
+	"Bronx County, NY"	"36005"	"35-44 years"	"35-44"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	34	39912	85.2
+	"Bronx County, NY"	"36005"	"35-44 years"	"35-44"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	19	43358	Unreliable
+	"Bronx County, NY"	"36005"	"35-44 years"	"35-44"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	57	39508	144.3
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2010"	"2010"	"Female"	"F"	"Black or African American"	"2054-5"	10	49095	Unreliable
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	17	43643	Unreliable
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	15	39649	Unreliable
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	59	38040	155.1
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2011"	"2011"	"Female"	"F"	"Black or African American"	"2054-5"	16	49255	Unreliable
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	18	43685	Unreliable
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	20	39901	50.1
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	52	38394	135.4
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2012"	"2012"	"Female"	"F"	"Black or African American"	"2054-5"	19	49475	Unreliable
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	21	43955	47.8
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	28	40075	69.9
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	51	38813	131.4
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2013"	"2013"	"Female"	"F"	"Black or African American"	"2054-5"	18	49820	Unreliable
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	24	44366	54.1
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	22	40501	54.3
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	61	39239	155.5
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2014"	"2014"	"Female"	"F"	"Black or African American"	"2054-5"	13	50051	Unreliable
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	14	44504	Unreliable
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	24	40545	59.2
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	55	39575	139.0
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2015"	"2015"	"Female"	"F"	"Black or African American"	"2054-5"	17	50114	Unreliable
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	29	44410	65.3
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	25	40771	61.3
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	77	39827	193.3
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2016"	"2016"	"Female"	"F"	"Black or African American"	"2054-5"	14	49214	Unreliable
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	22	44004	50.0
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	32	40019	80.0
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	92	38587	238.4
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	13	35637	Unreliable
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	25	25389	98.5
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	32	28991	110.4
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	15	36213	Unreliable
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	18	26486	Unreliable
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	42	29733	141.3
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	16	36541	Unreliable
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	22	27496	80.0
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	52	30022	173.2
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2013"	"2013"	"Female"	"F"	"Black or African American"	"2054-5"	13	36826	Unreliable
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	13	36860	Unreliable
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	26	28762	90.4
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	41	30529	134.3
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2014"	"2014"	"Female"	"F"	"Black or African American"	"2054-5"	14	38408	Unreliable
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	16	37654	Unreliable
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	23	30168	76.2
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	59	30954	190.6
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2015"	"2015"	"Female"	"F"	"Black or African American"	"2054-5"	14	39809	Unreliable
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	20	38409	52.1
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	34	31429	108.2
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	55	31662	173.7
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2016"	"2016"	"Female"	"F"	"Black or African American"	"2054-5"	15	40560	Unreliable
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	15	38279	Unreliable
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	42	32331	129.9
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	69	31447	219.4
+	"Bronx County, NY"	"36005"	"65-74 years"	"65-74"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	17792	Unreliable
+	"Bronx County, NY"	"36005"	"65-74 years"	"65-74"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	13	18210	Unreliable
+	"Bronx County, NY"	"36005"	"65-74 years"	"65-74"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	19	18863	Unreliable
+	"Bronx County, NY"	"36005"	"65-74 years"	"65-74"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	18	19122	Unreliable
+	"Bronx County, NY"	"36005"	"65-74 years"	"65-74"	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	12	15470	Unreliable
+	"Bronx County, NY"	"36005"	"65-74 years"	"65-74"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	19	19442	Unreliable
+	"Bronx County, NY"	"36005"	"65-74 years"	"65-74"	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	11	16274	Unreliable
+	"Bronx County, NY"	"36005"	"65-74 years"	"65-74"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	29	19950	145.4
+	"Bronx County, NY"	"36005"	"65-74 years"	"65-74"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	10	27129	Unreliable
+	"Bronx County, NY"	"36005"	"65-74 years"	"65-74"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	24	20412	117.6
+	"Broome County, NY"	"36007"	"25-34 years"	"25-34"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	15	9574	Unreliable
+	"Broome County, NY"	"36007"	"45-54 years"	"45-54"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	11	11605	Unreliable
+	"Broome County, NY"	"36007"	"45-54 years"	"45-54"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	16	11053	Unreliable
+	"Broome County, NY"	"36007"	"55-64 years"	"55-64"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	11	12651	Unreliable
+	"Broome County, NY"	"36007"	"55-64 years"	"55-64"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	16	12835	Unreliable
+	"Chautauqua County, NY"	"36013"	"25-34 years"	"25-34"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	11	7178	Unreliable
+	"Dutchess County, NY"	"36027"	"25-34 years"	"25-34"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	11	13141	Unreliable
+	"Dutchess County, NY"	"36027"	"25-34 years"	"25-34"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	10	13425	Unreliable
+	"Dutchess County, NY"	"36027"	"25-34 years"	"25-34"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	10	13778	Unreliable
+	"Dutchess County, NY"	"36027"	"35-44 years"	"35-44"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	15971	Unreliable
+	"Dutchess County, NY"	"36027"	"45-54 years"	"45-54"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	13	21486	Unreliable
+	"Dutchess County, NY"	"36027"	"45-54 years"	"45-54"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	14	20977	Unreliable
+	"Dutchess County, NY"	"36027"	"45-54 years"	"45-54"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	15	21014	Unreliable
+	"Dutchess County, NY"	"36027"	"45-54 years"	"45-54"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	13	20747	Unreliable
+	"Dutchess County, NY"	"36027"	"45-54 years"	"45-54"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	12	20496	Unreliable
+	"Dutchess County, NY"	"36027"	"45-54 years"	"45-54"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	13	19188	Unreliable
+	"Dutchess County, NY"	"36027"	"45-54 years"	"45-54"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	11	18567	Unreliable
+	"Dutchess County, NY"	"36027"	"55-64 years"	"55-64"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	16223	Unreliable
+	"Dutchess County, NY"	"36027"	"55-64 years"	"55-64"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	12	17672	Unreliable
+	"Dutchess County, NY"	"36027"	"55-64 years"	"55-64"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	10	18591	Unreliable
+	"Erie County, NY"	"36029"	"15-24 years"	"15-24"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	52860	Unreliable
+	"Erie County, NY"	"36029"	"15-24 years"	"15-24"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	18	52278	Unreliable
+	"Erie County, NY"	"36029"	"15-24 years"	"15-24"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	16	48528	Unreliable
+	"Erie County, NY"	"36029"	"15-24 years"	"15-24"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	22	47111	46.7
+	"Erie County, NY"	"36029"	"15-24 years"	"15-24"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	28	46289	60.5
+	"Erie County, NY"	"36029"	"25-34 years"	"25-34"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	43430	Unreliable
+	"Erie County, NY"	"36029"	"25-34 years"	"25-34"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	12	43564	Unreliable
+	"Erie County, NY"	"36029"	"25-34 years"	"25-34"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	18	45089	Unreliable
+	"Erie County, NY"	"36029"	"25-34 years"	"25-34"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	13	46674	Unreliable
+	"Erie County, NY"	"36029"	"25-34 years"	"25-34"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	13	46901	Unreliable
+	"Erie County, NY"	"36029"	"25-34 years"	"25-34"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	23	48572	47.4
+	"Erie County, NY"	"36029"	"25-34 years"	"25-34"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	25	50293	49.7
+	"Erie County, NY"	"36029"	"25-34 years"	"25-34"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	23	48790	47.1
+	"Erie County, NY"	"36029"	"25-34 years"	"25-34"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	71	51316	138.4
+	"Erie County, NY"	"36029"	"25-34 years"	"25-34"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	11	49128	Unreliable
+	"Erie County, NY"	"36029"	"25-34 years"	"25-34"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	74	51857	142.7
+	"Erie County, NY"	"36029"	"35-44 years"	"35-44"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	14	46785	Unreliable
+	"Erie County, NY"	"36029"	"35-44 years"	"35-44"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	45752	Unreliable
+	"Erie County, NY"	"36029"	"35-44 years"	"35-44"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	18	43972	Unreliable
+	"Erie County, NY"	"36029"	"35-44 years"	"35-44"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	10	43510	Unreliable
+	"Erie County, NY"	"36029"	"35-44 years"	"35-44"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	20	42739	46.8
+	"Erie County, NY"	"36029"	"35-44 years"	"35-44"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	16	42399	Unreliable
+	"Erie County, NY"	"36029"	"35-44 years"	"35-44"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	24	41876	57.3
+	"Erie County, NY"	"36029"	"35-44 years"	"35-44"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	15	41519	Unreliable
+	"Erie County, NY"	"36029"	"35-44 years"	"35-44"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	13	41183	Unreliable
+	"Erie County, NY"	"36029"	"35-44 years"	"35-44"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	23	40768	56.4
+	"Erie County, NY"	"36029"	"35-44 years"	"35-44"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	41	40714	100.7
+	"Erie County, NY"	"36029"	"35-44 years"	"35-44"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	18	40234	Unreliable
+	"Erie County, NY"	"36029"	"35-44 years"	"35-44"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	55	40335	136.4
+	"Erie County, NY"	"36029"	"45-54 years"	"45-54"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	14	61412	Unreliable
+	"Erie County, NY"	"36029"	"45-54 years"	"45-54"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	21	58977	35.6
+	"Erie County, NY"	"36029"	"45-54 years"	"45-54"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	16	60296	Unreliable
+	"Erie County, NY"	"36029"	"45-54 years"	"45-54"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	26	57888	44.9
+	"Erie County, NY"	"36029"	"45-54 years"	"45-54"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	24	59107	40.6
+	"Erie County, NY"	"36029"	"45-54 years"	"45-54"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	31	56700	54.7
+	"Erie County, NY"	"36029"	"45-54 years"	"45-54"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	19	57504	Unreliable
+	"Erie County, NY"	"36029"	"45-54 years"	"45-54"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	35	55242	63.4
+	"Erie County, NY"	"36029"	"45-54 years"	"45-54"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	19	56069	Unreliable
+	"Erie County, NY"	"36029"	"45-54 years"	"45-54"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	36	54097	66.5
+	"Erie County, NY"	"36029"	"45-54 years"	"45-54"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	22	54699	40.2
+	"Erie County, NY"	"36029"	"45-54 years"	"45-54"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	50	52852	94.6
+	"Erie County, NY"	"36029"	"45-54 years"	"45-54"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	26	53230	48.8
+	"Erie County, NY"	"36029"	"45-54 years"	"45-54"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	42	51421	81.7
+	"Erie County, NY"	"36029"	"55-64 years"	"55-64"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	18	49392	Unreliable
+	"Erie County, NY"	"36029"	"55-64 years"	"55-64"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	10	54426	Unreliable
+	"Erie County, NY"	"36029"	"55-64 years"	"55-64"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	26	51384	50.6
+	"Erie County, NY"	"36029"	"55-64 years"	"55-64"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	11	54852	Unreliable
+	"Erie County, NY"	"36029"	"55-64 years"	"55-64"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	23	51903	44.3
+	"Erie County, NY"	"36029"	"55-64 years"	"55-64"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	11	56299	Unreliable
+	"Erie County, NY"	"36029"	"55-64 years"	"55-64"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	25	52889	47.3
+	"Erie County, NY"	"36029"	"55-64 years"	"55-64"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	16	57296	Unreliable
+	"Erie County, NY"	"36029"	"55-64 years"	"55-64"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	30	53736	55.8
+	"Erie County, NY"	"36029"	"55-64 years"	"55-64"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	23	58220	39.5
+	"Erie County, NY"	"36029"	"55-64 years"	"55-64"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	38	54501	69.7
+	"Erie County, NY"	"36029"	"55-64 years"	"55-64"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	13	58705	Unreliable
+	"Erie County, NY"	"36029"	"55-64 years"	"55-64"	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	11	6576	Unreliable
+	"Erie County, NY"	"36029"	"55-64 years"	"55-64"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	40	54914	72.8
+	"Erie County, NY"	"36029"	"65-74 years"	"65-74"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	13	34634	Unreliable
+	"Erie County, NY"	"36029"	"65-74 years"	"65-74"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	18	35827	Unreliable
+	"Kings County, NY"	"36047"	"15-24 years"	"15-24"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	87246	Unreliable
+	"Kings County, NY"	"36047"	"15-24 years"	"15-24"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	11	83881	Unreliable
+	"Kings County, NY"	"36047"	"15-24 years"	"15-24"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	10	78397	Unreliable
+	"Kings County, NY"	"36047"	"15-24 years"	"15-24"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	16	74170	Unreliable
+	"Kings County, NY"	"36047"	"25-34 years"	"25-34"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	25	117382	21.3
+	"Kings County, NY"	"36047"	"25-34 years"	"25-34"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	12	119587	Unreliable
+	"Kings County, NY"	"36047"	"25-34 years"	"25-34"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	29	121488	23.9
+	"Kings County, NY"	"36047"	"25-34 years"	"25-34"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	33	124998	26.4
+	"Kings County, NY"	"36047"	"25-34 years"	"25-34"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	25	128645	19.4
+	"Kings County, NY"	"36047"	"25-34 years"	"25-34"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	14	129230	Unreliable
+	"Kings County, NY"	"36047"	"25-34 years"	"25-34"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	32	130121	24.6
+	"Kings County, NY"	"36047"	"25-34 years"	"25-34"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	11	130725	Unreliable
+	"Kings County, NY"	"36047"	"25-34 years"	"25-34"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	38	132147	28.8
+	"Kings County, NY"	"36047"	"25-34 years"	"25-34"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	22	130971	16.8
+	"Kings County, NY"	"36047"	"25-34 years"	"25-34"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	64	131849	48.5
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	17	81105	Unreliable
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	38	86227	44.1
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	11	83004	Unreliable
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	37	88106	42.0
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	46	90959	50.6
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	14	88351	Unreliable
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	46	94892	48.5
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	11	90566	Unreliable
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	11	52051	Unreliable
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	45	96145	46.8
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	23	92336	24.9
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	49	97519	50.2
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"2016"	"2016"	"Female"	"F"	"Black or African American"	"2054-5"	13	67943	Unreliable
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	14	92348	Unreliable
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	62	97444	63.6
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2010"	"2010"	"Female"	"F"	"Black or African American"	"2054-5"	15	78672	Unreliable
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	21	73058	28.7
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	35	55902	62.6
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	56	70966	78.9
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2011"	"2011"	"Female"	"F"	"Black or African American"	"2054-5"	18	78169	Unreliable
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	20	72047	27.8
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	38	55836	68.1
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	64	70771	90.4
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2012"	"2012"	"Female"	"F"	"Black or African American"	"2054-5"	10	77268	Unreliable
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	25	71666	34.9
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	28	55345	50.6
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	69	71018	97.2
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2013"	"2013"	"Female"	"F"	"Black or African American"	"2054-5"	16	76384	Unreliable
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	25	71678	34.9
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	23	54583	42.1
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	70	71533	97.9
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2014"	"2014"	"Female"	"F"	"Black or African American"	"2054-5"	16	75664	Unreliable
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	21	71451	29.4
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	28	53875	52.0
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	62	71814	86.3
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2015"	"2015"	"Female"	"F"	"Black or African American"	"2054-5"	20	74160	27.0
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	17	71834	Unreliable
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	19	52737	Unreliable
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	75	72552	103.4
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2016"	"2016"	"Female"	"F"	"Black or African American"	"2054-5"	14	72586	Unreliable
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	26	71060	36.6
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	31	51365	60.4
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	77	72163	106.7
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	13	71238	Unreliable
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	26	41039	63.4
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	34	62509	54.4
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2011"	"2011"	"Female"	"F"	"Black or African American"	"2054-5"	14	62335	Unreliable
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	28	42710	65.6
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	43	64147	67.0
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2012"	"2012"	"Female"	"F"	"Black or African American"	"2054-5"	11	64052	Unreliable
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	12	72131	Unreliable
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	22	43662	50.4
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	51	63820	79.9
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2013"	"2013"	"Female"	"F"	"Black or African American"	"2054-5"	14	65108	Unreliable
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	29	44931	64.5
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	56	63347	88.4
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2014"	"2014"	"Female"	"F"	"Black or African American"	"2054-5"	18	66711	Unreliable
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	11	70858	Unreliable
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	34	46389	73.3
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	40	63006	63.5
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2015"	"2015"	"Female"	"F"	"Black or African American"	"2054-5"	13	67885	Unreliable
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	13	70363	Unreliable
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	31	47216	65.7
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	62	63018	98.4
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2016"	"2016"	"Female"	"F"	"Black or African American"	"2054-5"	20	68568	29.2
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	16	69275	Unreliable
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	50	47570	105.1
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	64	62375	102.6
+	"Kings County, NY"	"36047"	"65-74 years"	"65-74"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	11	23111	Unreliable
+	"Kings County, NY"	"36047"	"65-74 years"	"65-74"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	34377	Unreliable
+	"Kings County, NY"	"36047"	"65-74 years"	"65-74"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	18	34955	Unreliable
+	"Kings County, NY"	"36047"	"65-74 years"	"65-74"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	10	37234	Unreliable
+	"Kings County, NY"	"36047"	"65-74 years"	"65-74"	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	16	25583	Unreliable
+	"Kings County, NY"	"36047"	"65-74 years"	"65-74"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	15	39096	Unreliable
+	"Kings County, NY"	"36047"	"65-74 years"	"65-74"	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	12	26569	Unreliable
+	"Kings County, NY"	"36047"	"65-74 years"	"65-74"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	18	40179	Unreliable
+	"Kings County, NY"	"36047"	"65-74 years"	"65-74"	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	10	27704	Unreliable
+	"Kings County, NY"	"36047"	"65-74 years"	"65-74"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	22	41542	53.0
+	"Kings County, NY"	"36047"	"65-74 years"	"65-74"	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	15	28726	Unreliable
+	"Kings County, NY"	"36047"	"65-74 years"	"65-74"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	25	42854	58.3
+	"Monroe County, NY"	"36055"	"15-24 years"	"15-24"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	10	42123	Unreliable
+	"Monroe County, NY"	"36055"	"15-24 years"	"15-24"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	10	39611	Unreliable
+	"Monroe County, NY"	"36055"	"25-34 years"	"25-34"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	10	35938	Unreliable
+	"Monroe County, NY"	"36055"	"25-34 years"	"25-34"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	10	37066	Unreliable
+	"Monroe County, NY"	"36055"	"25-34 years"	"25-34"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	14	38765	Unreliable
+	"Monroe County, NY"	"36055"	"25-34 years"	"25-34"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	19	39835	Unreliable
+	"Monroe County, NY"	"36055"	"25-34 years"	"25-34"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	15	40224	Unreliable
+	"Monroe County, NY"	"36055"	"25-34 years"	"25-34"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	31	39924	77.6
+	"Monroe County, NY"	"36055"	"35-44 years"	"35-44"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	10	33647	Unreliable
+	"Monroe County, NY"	"36055"	"35-44 years"	"35-44"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	12	33093	Unreliable
+	"Monroe County, NY"	"36055"	"35-44 years"	"35-44"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	18	32169	Unreliable
+	"Monroe County, NY"	"36055"	"35-44 years"	"35-44"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	10	32949	Unreliable
+	"Monroe County, NY"	"36055"	"35-44 years"	"35-44"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	14	31819	Unreliable
+	"Monroe County, NY"	"36055"	"35-44 years"	"35-44"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	13	32487	Unreliable
+	"Monroe County, NY"	"36055"	"35-44 years"	"35-44"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	23	31561	72.9
+	"Monroe County, NY"	"36055"	"45-54 years"	"45-54"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	47976	Unreliable
+	"Monroe County, NY"	"36055"	"45-54 years"	"45-54"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	19	45899	Unreliable
+	"Monroe County, NY"	"36055"	"45-54 years"	"45-54"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	16	47218	Unreliable
+	"Monroe County, NY"	"36055"	"45-54 years"	"45-54"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	25	44960	55.6
+	"Monroe County, NY"	"36055"	"45-54 years"	"45-54"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	19	44017	Unreliable
+	"Monroe County, NY"	"36055"	"45-54 years"	"45-54"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	16	45211	Unreliable
+	"Monroe County, NY"	"36055"	"45-54 years"	"45-54"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	23	42720	53.8
+	"Monroe County, NY"	"36055"	"45-54 years"	"45-54"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	17	44060	Unreliable
+	"Monroe County, NY"	"36055"	"45-54 years"	"45-54"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	22	41746	52.7
+	"Monroe County, NY"	"36055"	"45-54 years"	"45-54"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	10	42966	Unreliable
+	"Monroe County, NY"	"36055"	"45-54 years"	"45-54"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	24	40719	58.9
+	"Monroe County, NY"	"36055"	"45-54 years"	"45-54"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	25	39514	63.3
+	"Monroe County, NY"	"36055"	"55-64 years"	"55-64"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	38028	Unreliable
+	"Monroe County, NY"	"36055"	"55-64 years"	"55-64"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	19	39444	Unreliable
+	"Monroe County, NY"	"36055"	"55-64 years"	"55-64"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	12	42543	Unreliable
+	"Monroe County, NY"	"36055"	"55-64 years"	"55-64"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	10	40457	Unreliable
+	"Monroe County, NY"	"36055"	"55-64 years"	"55-64"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	18	41075	Unreliable
+	"Monroe County, NY"	"36055"	"55-64 years"	"55-64"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	12	44296	Unreliable
+	"Monroe County, NY"	"36055"	"55-64 years"	"55-64"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	22	41607	52.9
+	"Monroe County, NY"	"36055"	"55-64 years"	"55-64"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	26	41894	62.1
+	"Nassau County, NY"	"36059"	"15-24 years"	"15-24"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	67634	Unreliable
+	"Nassau County, NY"	"36059"	"15-24 years"	"15-24"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	18	67966	Unreliable
+	"Nassau County, NY"	"36059"	"15-24 years"	"15-24"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	22	68486	32.1
+	"Nassau County, NY"	"36059"	"15-24 years"	"15-24"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	25	67977	36.8
+	"Nassau County, NY"	"36059"	"15-24 years"	"15-24"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	16	68158	Unreliable
+	"Nassau County, NY"	"36059"	"15-24 years"	"15-24"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	22	67968	32.4
+	"Nassau County, NY"	"36059"	"15-24 years"	"15-24"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	23	67594	34.0
+	"Nassau County, NY"	"36059"	"25-34 years"	"25-34"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	30	55755	53.8
+	"Nassau County, NY"	"36059"	"25-34 years"	"25-34"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	26	56402	46.1
+	"Nassau County, NY"	"36059"	"25-34 years"	"25-34"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	33	56986	57.9
+	"Nassau County, NY"	"36059"	"25-34 years"	"25-34"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	44	57186	76.9
+	"Nassau County, NY"	"36059"	"25-34 years"	"25-34"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	12	54080	Unreliable
+	"Nassau County, NY"	"36059"	"25-34 years"	"25-34"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	40	57239	69.9
+	"Nassau County, NY"	"36059"	"25-34 years"	"25-34"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	23	54031	42.6
+	"Nassau County, NY"	"36059"	"25-34 years"	"25-34"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	45	57038	78.9
+	"Nassau County, NY"	"36059"	"35-44 years"	"35-44"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	26	66638	39.0
+	"Nassau County, NY"	"36059"	"35-44 years"	"35-44"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	27	64638	41.8
+	"Nassau County, NY"	"36059"	"35-44 years"	"35-44"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	12	64209	Unreliable
+	"Nassau County, NY"	"36059"	"35-44 years"	"35-44"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	31	63126	49.1
+	"Nassau County, NY"	"36059"	"35-44 years"	"35-44"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	25	61701	40.5
+	"Nassau County, NY"	"36059"	"35-44 years"	"35-44"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	25	60689	41.2
+	"Nassau County, NY"	"36059"	"35-44 years"	"35-44"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	10	59408	Unreliable
+	"Nassau County, NY"	"36059"	"35-44 years"	"35-44"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	38	59598	63.8
+	"Nassau County, NY"	"36059"	"35-44 years"	"35-44"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	11	57941	Unreliable
+	"Nassau County, NY"	"36059"	"35-44 years"	"35-44"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	37	58476	63.3
+	"Nassau County, NY"	"36059"	"45-54 years"	"45-54"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	12	89234	Unreliable
+	"Nassau County, NY"	"36059"	"45-54 years"	"45-54"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	22	84365	26.1
+	"Nassau County, NY"	"36059"	"45-54 years"	"45-54"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	18	87978	Unreliable
+	"Nassau County, NY"	"36059"	"45-54 years"	"45-54"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	42	83175	50.5
+	"Nassau County, NY"	"36059"	"45-54 years"	"45-54"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	22	86473	25.4
+	"Nassau County, NY"	"36059"	"45-54 years"	"45-54"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	45	82132	54.8
+	"Nassau County, NY"	"36059"	"45-54 years"	"45-54"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	21	84114	25.0
+	"Nassau County, NY"	"36059"	"45-54 years"	"45-54"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	24	80192	29.9
+	"Nassau County, NY"	"36059"	"45-54 years"	"45-54"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	14	82073	Unreliable
+	"Nassau County, NY"	"36059"	"45-54 years"	"45-54"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	45	78465	57.4
+	"Nassau County, NY"	"36059"	"45-54 years"	"45-54"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	14	79802	Unreliable
+	"Nassau County, NY"	"36059"	"45-54 years"	"45-54"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	28	76568	36.6
+	"Nassau County, NY"	"36059"	"45-54 years"	"45-54"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	16	77381	Unreliable
+	"Nassau County, NY"	"36059"	"45-54 years"	"45-54"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	40	74398	53.8
+	"Nassau County, NY"	"36059"	"55-64 years"	"55-64"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	12	73345	Unreliable
+	"Nassau County, NY"	"36059"	"55-64 years"	"55-64"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	23	69541	33.1
+	"Nassau County, NY"	"36059"	"55-64 years"	"55-64"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	13	75953	Unreliable
+	"Nassau County, NY"	"36059"	"55-64 years"	"55-64"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	10	71869	Unreliable
+	"Nassau County, NY"	"36059"	"55-64 years"	"55-64"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	13	76459	Unreliable
+	"Nassau County, NY"	"36059"	"55-64 years"	"55-64"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	24	72155	33.3
+	"Nassau County, NY"	"36059"	"55-64 years"	"55-64"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	15	77266	Unreliable
+	"Nassau County, NY"	"36059"	"55-64 years"	"55-64"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	26	72630	35.8
+	"Nassau County, NY"	"36059"	"55-64 years"	"55-64"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	12	78033	Unreliable
+	"Nassau County, NY"	"36059"	"55-64 years"	"55-64"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	33	73304	45.0
+	"Nassau County, NY"	"36059"	"55-64 years"	"55-64"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	18	78846	Unreliable
+	"Nassau County, NY"	"36059"	"55-64 years"	"55-64"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	36	74191	48.5
+	"Nassau County, NY"	"36059"	"55-64 years"	"55-64"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	12	79143	Unreliable
+	"Nassau County, NY"	"36059"	"55-64 years"	"55-64"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	31	74615	41.5
+	"Nassau County, NY"	"36059"	"65-74 years"	"65-74"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	11	48217	Unreliable
+	"New York County, NY"	"36061"	"15-24 years"	"15-24"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	14	52594	Unreliable
+	"New York County, NY"	"36061"	"25-34 years"	"25-34"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	114689	Unreliable
+	"New York County, NY"	"36061"	"25-34 years"	"25-34"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	17	119285	Unreliable
+	"New York County, NY"	"36061"	"25-34 years"	"25-34"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	20	122143	16.4
+	"New York County, NY"	"36061"	"25-34 years"	"25-34"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	14	135682	Unreliable
+	"New York County, NY"	"36061"	"25-34 years"	"25-34"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	24	123824	19.4
+	"New York County, NY"	"36061"	"25-34 years"	"25-34"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	29	123301	23.5
+	"New York County, NY"	"36061"	"25-34 years"	"25-34"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	19	123431	Unreliable
+	"New York County, NY"	"36061"	"25-34 years"	"25-34"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	12	133096	Unreliable
+	"New York County, NY"	"36061"	"25-34 years"	"25-34"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	32	124037	25.8
+	"New York County, NY"	"36061"	"35-44 years"	"35-44"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	25	82630	30.3
+	"New York County, NY"	"36061"	"35-44 years"	"35-44"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	13	74915	Unreliable
+	"New York County, NY"	"36061"	"35-44 years"	"35-44"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	21	82060	25.6
+	"New York County, NY"	"36061"	"35-44 years"	"35-44"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	43	82469	52.1
+	"New York County, NY"	"36061"	"35-44 years"	"35-44"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	21	82772	25.4
+	"New York County, NY"	"36061"	"35-44 years"	"35-44"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	30	81796	36.7
+	"New York County, NY"	"36061"	"35-44 years"	"35-44"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	31	81395	38.1
+	"New York County, NY"	"36061"	"35-44 years"	"35-44"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	36	80550	44.7
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2010"	"2010"	"Female"	"F"	"Black or African American"	"2054-5"	11	24067	Unreliable
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	12	64721	Unreliable
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	17	21468	Unreliable
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	33	68013	48.5
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	14	64359	Unreliable
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	11	21572	Unreliable
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	35	68432	51.1
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	19	63760	Unreliable
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	13	21528	Unreliable
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	49	68752	71.3
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2013"	"2013"	"Female"	"F"	"Black or African American"	"2054-5"	12	23580	Unreliable
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	17	64313	Unreliable
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	13	21456	Unreliable
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	45	69854	64.4
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	12	64560	Unreliable
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	16	21391	Unreliable
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	32	70599	45.3
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	22	64798	34.0
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	17	21248	Unreliable
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	55	70754	77.7
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	23	64562	35.6
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	22	20676	106.4
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	83	70334	118.0
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	15	66651	Unreliable
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	17	15331	Unreliable
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	35	56592	61.8
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	11	67320	Unreliable
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	20	16067	124.5
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	52	57854	89.9
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	22	66267	33.2
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	23	16400	140.2
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	41	57891	70.8
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	23	65648	35.0
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	22	16847	130.6
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	42	58236	72.1
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	19	65158	Unreliable
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	15	17160	Unreliable
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	47	58799	79.9
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	21	17591	119.4
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	41	59765	68.6
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2016"	"2016"	"Female"	"F"	"Black or African American"	"2054-5"	13	21252	Unreliable
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	16	64489	Unreliable
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	25	17727	141.0
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	56	60310	92.9
+	"New York County, NY"	"36061"	"65-74 years"	"65-74"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	35362	Unreliable
+	"New York County, NY"	"36061"	"65-74 years"	"65-74"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	17	36189	Unreliable
+	"New York County, NY"	"36061"	"65-74 years"	"65-74"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	14	38086	Unreliable
+	"New York County, NY"	"36061"	"65-74 years"	"65-74"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	17	51485	Unreliable
+	"New York County, NY"	"36061"	"65-74 years"	"65-74"	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	11	9048	Unreliable
+	"New York County, NY"	"36061"	"65-74 years"	"65-74"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	31	39076	79.3
+	"New York County, NY"	"36061"	"65-74 years"	"65-74"	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	13	9238	Unreliable
+	"New York County, NY"	"36061"	"65-74 years"	"65-74"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	15	39635	Unreliable
+	"New York County, NY"	"36061"	"65-74 years"	"65-74"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	12	53547	Unreliable
+	"New York County, NY"	"36061"	"65-74 years"	"65-74"	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	15	9406	Unreliable
+	"New York County, NY"	"36061"	"65-74 years"	"65-74"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	22	40582	54.2
+	"New York County, NY"	"36061"	"65-74 years"	"65-74"	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	11	9478	Unreliable
+	"New York County, NY"	"36061"	"65-74 years"	"65-74"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	25	41759	59.9
+	"New York County, NY"	"36061"	"75-84 years"	"75-84"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	10	20377	Unreliable
+	"Niagara County, NY"	"36063"	"25-34 years"	"25-34"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	15	11375	Unreliable
+	"Niagara County, NY"	"36063"	"25-34 years"	"25-34"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	12	11522	Unreliable
+	"Niagara County, NY"	"36063"	"45-54 years"	"45-54"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	11	14743	Unreliable
+	"Niagara County, NY"	"36063"	"45-54 years"	"45-54"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	10	13385	Unreliable
+	"Niagara County, NY"	"36063"	"55-64 years"	"55-64"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	13362	Unreliable
+	"Niagara County, NY"	"36063"	"55-64 years"	"55-64"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	11	14429	Unreliable
+	"Niagara County, NY"	"36063"	"55-64 years"	"55-64"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	12	14663	Unreliable
+	"Niagara County, NY"	"36063"	"55-64 years"	"55-64"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	10	15048	Unreliable
+	"Oneida County, NY"	"36065"	"25-34 years"	"25-34"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	17	12421	Unreliable
+	"Oneida County, NY"	"36065"	"45-54 years"	"45-54"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	11	14784	Unreliable
+	"Oneida County, NY"	"36065"	"45-54 years"	"45-54"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	17	14290	Unreliable
+	"Oneida County, NY"	"36065"	"55-64 years"	"55-64"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	11	14615	Unreliable
+	"Oneida County, NY"	"36065"	"55-64 years"	"55-64"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	10	14735	Unreliable
+	"Onondaga County, NY"	"36067"	"25-34 years"	"25-34"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	13	23613	Unreliable
+	"Onondaga County, NY"	"36067"	"25-34 years"	"25-34"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	11	24345	Unreliable
+	"Onondaga County, NY"	"36067"	"25-34 years"	"25-34"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	10	24721	Unreliable
+	"Onondaga County, NY"	"36067"	"25-34 years"	"25-34"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	15	24738	Unreliable
+	"Onondaga County, NY"	"36067"	"25-34 years"	"25-34"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	12	24426	Unreliable
+	"Onondaga County, NY"	"36067"	"25-34 years"	"25-34"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	29	24557	118.1
+	"Onondaga County, NY"	"36067"	"35-44 years"	"35-44"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	23429	Unreliable
+	"Onondaga County, NY"	"36067"	"35-44 years"	"35-44"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	14	21599	Unreliable
+	"Onondaga County, NY"	"36067"	"35-44 years"	"35-44"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	11	20749	Unreliable
+	"Onondaga County, NY"	"36067"	"35-44 years"	"35-44"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	17	20506	Unreliable
+	"Onondaga County, NY"	"36067"	"45-54 years"	"45-54"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	30347	Unreliable
+	"Onondaga County, NY"	"36067"	"45-54 years"	"45-54"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	19	29958	Unreliable
+	"Onondaga County, NY"	"36067"	"45-54 years"	"45-54"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	13	29372	Unreliable
+	"Onondaga County, NY"	"36067"	"45-54 years"	"45-54"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	19	28604	Unreliable
+	"Onondaga County, NY"	"36067"	"45-54 years"	"45-54"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	23	27936	82.3
+	"Onondaga County, NY"	"36067"	"45-54 years"	"45-54"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	18	27182	Unreliable
+	"Onondaga County, NY"	"36067"	"45-54 years"	"45-54"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	15	28026	Unreliable
+	"Onondaga County, NY"	"36067"	"45-54 years"	"45-54"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	29	26258	110.4
+	"Onondaga County, NY"	"36067"	"55-64 years"	"55-64"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	14	25870	Unreliable
+	"Onondaga County, NY"	"36067"	"55-64 years"	"55-64"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	12	27933	Unreliable
+	"Onondaga County, NY"	"36067"	"55-64 years"	"55-64"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	22	26106	84.3
+	"Onondaga County, NY"	"36067"	"55-64 years"	"55-64"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	18	26755	Unreliable
+	"Onondaga County, NY"	"36067"	"55-64 years"	"55-64"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	10	28822	Unreliable
+	"Onondaga County, NY"	"36067"	"55-64 years"	"55-64"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	18	27025	Unreliable
+	"Onondaga County, NY"	"36067"	"55-64 years"	"55-64"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	16	27471	Unreliable
+	"Onondaga County, NY"	"36067"	"55-64 years"	"55-64"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	13	29461	Unreliable
+	"Onondaga County, NY"	"36067"	"55-64 years"	"55-64"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	25	27707	90.2
+	"Orange County, NY"	"36071"	"25-34 years"	"25-34"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	12	17043	Unreliable
+	"Orange County, NY"	"36071"	"25-34 years"	"25-34"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	15	16944	Unreliable
+	"Orange County, NY"	"36071"	"25-34 years"	"25-34"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	18	17002	Unreliable
+	"Orange County, NY"	"36071"	"25-34 years"	"25-34"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	18	17264	Unreliable
+	"Orange County, NY"	"36071"	"35-44 years"	"35-44"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	10	18572	Unreliable
+	"Orange County, NY"	"36071"	"35-44 years"	"35-44"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	12	18190	Unreliable
+	"Orange County, NY"	"36071"	"35-44 years"	"35-44"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	15	17879	Unreliable
+	"Orange County, NY"	"36071"	"45-54 years"	"45-54"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	11	24869	Unreliable
+	"Orange County, NY"	"36071"	"45-54 years"	"45-54"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	24613	Unreliable
+	"Orange County, NY"	"36071"	"45-54 years"	"45-54"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	12	24769	Unreliable
+	"Orange County, NY"	"36071"	"45-54 years"	"45-54"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	10	24436	Unreliable
+	"Orange County, NY"	"36071"	"45-54 years"	"45-54"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	13	24001	Unreliable
+	"Orange County, NY"	"36071"	"45-54 years"	"45-54"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	13	23538	Unreliable
+	"Orange County, NY"	"36071"	"45-54 years"	"45-54"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	17	23030	Unreliable
+	"Orange County, NY"	"36071"	"45-54 years"	"45-54"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	10	22816	Unreliable
+	"Orange County, NY"	"36071"	"55-64 years"	"55-64"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	12	18995	Unreliable
+	"Orange County, NY"	"36071"	"55-64 years"	"55-64"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	14	19238	Unreliable
+	"Orange County, NY"	"36071"	"55-64 years"	"55-64"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	11	19983	Unreliable
+	"Orange County, NY"	"36071"	"55-64 years"	"55-64"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	20	20226	98.9
+	"Putnam County, NY"	"36079"	"25-34 years"	"25-34"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	11	4732	Unreliable
+	"Putnam County, NY"	"36079"	"25-34 years"	"25-34"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	12	4911	Unreliable
+	"Queens County, NY"	"36081"	"15-24 years"	"15-24"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	74885	Unreliable
+	"Queens County, NY"	"36081"	"15-24 years"	"15-24"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	11	71338	Unreliable
+	"Queens County, NY"	"36081"	"15-24 years"	"15-24"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	10	65413	Unreliable
+	"Queens County, NY"	"36081"	"15-24 years"	"15-24"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	11	63467	Unreliable
+	"Queens County, NY"	"36081"	"25-34 years"	"25-34"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	16	100427	Unreliable
+	"Queens County, NY"	"36081"	"25-34 years"	"25-34"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	18	101161	Unreliable
+	"Queens County, NY"	"36081"	"25-34 years"	"25-34"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	24	100958	23.8
+	"Queens County, NY"	"36081"	"25-34 years"	"25-34"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	10	92383	Unreliable
+	"Queens County, NY"	"36081"	"25-34 years"	"25-34"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	32	100837	31.7
+	"Queens County, NY"	"36081"	"25-34 years"	"25-34"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	31	99922	31.0
+	"Queens County, NY"	"36081"	"25-34 years"	"25-34"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	22	99124	22.2
+	"Queens County, NY"	"36081"	"25-34 years"	"25-34"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	12	91104	Unreliable
+	"Queens County, NY"	"36081"	"25-34 years"	"25-34"	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	10	36599	Unreliable
+	"Queens County, NY"	"36081"	"25-34 years"	"25-34"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	49	97171	50.4
+	"Queens County, NY"	"36081"	"35-44 years"	"35-44"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	43	86071	50.0
+	"Queens County, NY"	"36081"	"35-44 years"	"35-44"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	10	76375	Unreliable
+	"Queens County, NY"	"36081"	"35-44 years"	"35-44"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	33	86266	38.3
+	"Queens County, NY"	"36081"	"35-44 years"	"35-44"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	27	86773	31.1
+	"Queens County, NY"	"36081"	"35-44 years"	"35-44"	"2013"	"2013"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	11	45310	Unreliable
+	"Queens County, NY"	"36081"	"35-44 years"	"35-44"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	42	87388	48.1
+	"Queens County, NY"	"36081"	"35-44 years"	"35-44"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	34	87090	39.0
+	"Queens County, NY"	"36081"	"35-44 years"	"35-44"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	10	77726	Unreliable
+	"Queens County, NY"	"36081"	"35-44 years"	"35-44"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	39	86374	45.2
+	"Queens County, NY"	"36081"	"35-44 years"	"35-44"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	17	75966	Unreliable
+	"Queens County, NY"	"36081"	"35-44 years"	"35-44"	"2016"	"2016"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	13	45104	Unreliable
+	"Queens County, NY"	"36081"	"35-44 years"	"35-44"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	43	84052	51.2
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	18	77132	Unreliable
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	13	32368	Unreliable
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	54	77684	69.5
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	10	76401	Unreliable
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	20	32683	61.2
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	49	78004	62.8
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	23	75804	30.3
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	13	32524	Unreliable
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	52	78171	66.5
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	19	75116	Unreliable
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	14	32957	Unreliable
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	51	78824	64.7
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2014"	"2014"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	13	45530	Unreliable
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	18	32908	Unreliable
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	38	79093	48.0
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2015"	"2015"	"Female"	"F"	"Black or African American"	"2054-5"	11	40949	Unreliable
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	14	74089	Unreliable
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	13	32539	Unreliable
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	61	79340	76.9
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	14	72716	Unreliable
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	14	32100	Unreliable
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	49	78130	62.7
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	13	70633	Unreliable
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	11	22643	Unreliable
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	28	62737	44.6
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	11	72395	Unreliable
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2011"	"2011"	"Male"	"M"	"Black or African American"	"2054-5"	19	23855	Unreliable
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	46	64909	70.9
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	12	72790	Unreliable
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2012"	"2012"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	10	35352	Unreliable
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2012"	"2012"	"Male"	"M"	"Black or African American"	"2054-5"	10	24601	Unreliable
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	48	65502	73.3
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	16	73288	Unreliable
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2013"	"2013"	"Male"	"M"	"Black or African American"	"2054-5"	13	25623	Unreliable
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	49	66439	73.8
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	15	73552	Unreliable
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2014"	"2014"	"Male"	"M"	"Black or African American"	"2054-5"	12	26493	Unreliable
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	36	67582	53.3
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	19	73931	Unreliable
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2015"	"2015"	"Male"	"M"	"Black or African American"	"2054-5"	17	27534	Unreliable
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	51	69074	73.8
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	18	73384	Unreliable
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2016"	"2016"	"Male"	"M"	"Black or African American"	"2054-5"	25	28207	88.6
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	34	69354	49.0
+	"Queens County, NY"	"36081"	"65-74 years"	"65-74"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	37474	Unreliable
+	"Queens County, NY"	"36081"	"65-74 years"	"65-74"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	18	37943	Unreliable
+	"Queens County, NY"	"36081"	"65-74 years"	"65-74"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	12	39851	Unreliable
+	"Queens County, NY"	"36081"	"65-74 years"	"65-74"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	13	40870	Unreliable
+	"Queens County, NY"	"36081"	"65-74 years"	"65-74"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	20	41681	48.0
+	"Queens County, NY"	"36081"	"65-74 years"	"65-74"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	18	42680	Unreliable
+	"Queens County, NY"	"36081"	"65-74 years"	"65-74"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	21	43961	47.8
+	"Queens County, NY"	"36081"	"75-84 years"	"75-84"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	12	22867	Unreliable
+	"Richmond County, NY"	"36085"	"25-34 years"	"25-34"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	23357	Unreliable
+	"Richmond County, NY"	"36085"	"25-34 years"	"25-34"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	13	23342	Unreliable
+	"Richmond County, NY"	"36085"	"25-34 years"	"25-34"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	13	23271	Unreliable
+	"Richmond County, NY"	"36085"	"25-34 years"	"25-34"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	11	23768	Unreliable
+	"Richmond County, NY"	"36085"	"25-34 years"	"25-34"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	13	23962	Unreliable
+	"Richmond County, NY"	"36085"	"25-34 years"	"25-34"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	30	24481	122.5
+	"Richmond County, NY"	"36085"	"35-44 years"	"35-44"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	25450	Unreliable
+	"Richmond County, NY"	"36085"	"35-44 years"	"35-44"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	15	24901	Unreliable
+	"Richmond County, NY"	"36085"	"35-44 years"	"35-44"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	18	24414	Unreliable
+	"Richmond County, NY"	"36085"	"35-44 years"	"35-44"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	13	24173	Unreliable
+	"Richmond County, NY"	"36085"	"35-44 years"	"35-44"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	19	23694	Unreliable
+	"Richmond County, NY"	"36085"	"35-44 years"	"35-44"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	18	23387	Unreliable
+	"Richmond County, NY"	"36085"	"35-44 years"	"35-44"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	27	22779	118.5
+	"Richmond County, NY"	"36085"	"45-54 years"	"45-54"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	23	27843	82.6
+	"Richmond County, NY"	"36085"	"45-54 years"	"45-54"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	17	29105	Unreliable
+	"Richmond County, NY"	"36085"	"45-54 years"	"45-54"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	20	27662	72.3
+	"Richmond County, NY"	"36085"	"45-54 years"	"45-54"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	12	28694	Unreliable
+	"Richmond County, NY"	"36085"	"45-54 years"	"45-54"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	19	27356	Unreliable
+	"Richmond County, NY"	"36085"	"45-54 years"	"45-54"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	26	27014	96.2
+	"Richmond County, NY"	"36085"	"45-54 years"	"45-54"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	28	26656	105.0
+	"Richmond County, NY"	"36085"	"45-54 years"	"45-54"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	20	26356	75.9
+	"Richmond County, NY"	"36085"	"45-54 years"	"45-54"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	13	27314	Unreliable
+	"Richmond County, NY"	"36085"	"45-54 years"	"45-54"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	34	26142	130.1
+	"Richmond County, NY"	"36085"	"55-64 years"	"55-64"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	16	23701	Unreliable
+	"Richmond County, NY"	"36085"	"55-64 years"	"55-64"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	18	23644	Unreliable
+	"Richmond County, NY"	"36085"	"55-64 years"	"55-64"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	18	23954	Unreliable
+	"Richmond County, NY"	"36085"	"55-64 years"	"55-64"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	15	24145	Unreliable
+	"Richmond County, NY"	"36085"	"55-64 years"	"55-64"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	10	26966	Unreliable
+	"Richmond County, NY"	"36085"	"55-64 years"	"55-64"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	21	24452	85.9
+	"Richmond County, NY"	"36085"	"55-64 years"	"55-64"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	17	24753	Unreliable
+	"Rockland County, NY"	"36087"	"25-34 years"	"25-34"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	10	14482	Unreliable
+	"Rockland County, NY"	"36087"	"25-34 years"	"25-34"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	11	14523	Unreliable
+	"Rockland County, NY"	"36087"	"45-54 years"	"45-54"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	12	16322	Unreliable
+	"Rockland County, NY"	"36087"	"55-64 years"	"55-64"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	11	15343	Unreliable
+	"Suffolk County, NY"	"36103"	"15-24 years"	"15-24"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	27	85765	31.5
+	"Suffolk County, NY"	"36103"	"15-24 years"	"15-24"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	34	86303	39.4
+	"Suffolk County, NY"	"36103"	"15-24 years"	"15-24"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	12	79946	Unreliable
+	"Suffolk County, NY"	"36103"	"15-24 years"	"15-24"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	24	86950	27.6
+	"Suffolk County, NY"	"36103"	"15-24 years"	"15-24"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	36	87429	41.2
+	"Suffolk County, NY"	"36103"	"15-24 years"	"15-24"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	10	81289	Unreliable
+	"Suffolk County, NY"	"36103"	"15-24 years"	"15-24"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	28	87310	32.1
+	"Suffolk County, NY"	"36103"	"15-24 years"	"15-24"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	30	86049	34.9
+	"Suffolk County, NY"	"36103"	"15-24 years"	"15-24"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	42	84947	49.4
+	"Suffolk County, NY"	"36103"	"25-34 years"	"25-34"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	26	71848	36.2
+	"Suffolk County, NY"	"36103"	"25-34 years"	"25-34"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	10	68437	Unreliable
+	"Suffolk County, NY"	"36103"	"25-34 years"	"25-34"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	48	72271	66.4
+	"Suffolk County, NY"	"36103"	"25-34 years"	"25-34"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	18	67565	Unreliable
+	"Suffolk County, NY"	"36103"	"25-34 years"	"25-34"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	53	72214	73.4
+	"Suffolk County, NY"	"36103"	"25-34 years"	"25-34"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	12	67227	Unreliable
+	"Suffolk County, NY"	"36103"	"25-34 years"	"25-34"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	51	72571	70.3
+	"Suffolk County, NY"	"36103"	"25-34 years"	"25-34"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	20	67525	29.6
+	"Suffolk County, NY"	"36103"	"25-34 years"	"25-34"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	48	73366	65.4
+	"Suffolk County, NY"	"36103"	"25-34 years"	"25-34"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	12	67839	Unreliable
+	"Suffolk County, NY"	"36103"	"25-34 years"	"25-34"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	68	73390	92.7
+	"Suffolk County, NY"	"36103"	"25-34 years"	"25-34"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	33	67636	48.8
+	"Suffolk County, NY"	"36103"	"25-34 years"	"25-34"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	90	73154	123.0
+	"Suffolk County, NY"	"36103"	"35-44 years"	"35-44"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	16	93329	Unreliable
+	"Suffolk County, NY"	"36103"	"35-44 years"	"35-44"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	35	91409	38.3
+	"Suffolk County, NY"	"36103"	"35-44 years"	"35-44"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	16	89494	Unreliable
+	"Suffolk County, NY"	"36103"	"35-44 years"	"35-44"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	46	88129	52.2
+	"Suffolk County, NY"	"36103"	"35-44 years"	"35-44"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	21	86282	24.3
+	"Suffolk County, NY"	"36103"	"35-44 years"	"35-44"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	46	85216	54.0
+	"Suffolk County, NY"	"36103"	"35-44 years"	"35-44"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	16	82775	Unreliable
+	"Suffolk County, NY"	"36103"	"35-44 years"	"35-44"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	35	82168	42.6
+	"Suffolk County, NY"	"36103"	"35-44 years"	"35-44"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	25	79895	31.3
+	"Suffolk County, NY"	"36103"	"35-44 years"	"35-44"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	47	79829	58.9
+	"Suffolk County, NY"	"36103"	"35-44 years"	"35-44"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	14	77447	Unreliable
+	"Suffolk County, NY"	"36103"	"35-44 years"	"35-44"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	49	77603	63.1
+	"Suffolk County, NY"	"36103"	"35-44 years"	"35-44"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	32	74704	42.8
+	"Suffolk County, NY"	"36103"	"35-44 years"	"35-44"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	68	75293	90.3
+	"Suffolk County, NY"	"36103"	"45-54 years"	"45-54"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	21	109528	19.2
+	"Suffolk County, NY"	"36103"	"45-54 years"	"45-54"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	51	108354	47.1
+	"Suffolk County, NY"	"36103"	"45-54 years"	"45-54"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	38	109791	34.6
+	"Suffolk County, NY"	"36103"	"45-54 years"	"45-54"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	64	108482	59.0
+	"Suffolk County, NY"	"36103"	"45-54 years"	"45-54"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	26	109449	23.8
+	"Suffolk County, NY"	"36103"	"45-54 years"	"45-54"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	75	108085	69.4
+	"Suffolk County, NY"	"36103"	"45-54 years"	"45-54"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	45	108938	41.3
+	"Suffolk County, NY"	"36103"	"45-54 years"	"45-54"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	57	107045	53.2
+	"Suffolk County, NY"	"36103"	"45-54 years"	"45-54"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	30	107731	27.8
+	"Suffolk County, NY"	"36103"	"45-54 years"	"45-54"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	54	105460	51.2
+	"Suffolk County, NY"	"36103"	"45-54 years"	"45-54"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	29	105564	27.5
+	"Suffolk County, NY"	"36103"	"45-54 years"	"45-54"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	65	103575	62.8
+	"Suffolk County, NY"	"36103"	"45-54 years"	"45-54"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	30	102864	29.2
+	"Suffolk County, NY"	"36103"	"45-54 years"	"45-54"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	67	100487	66.7
+	"Suffolk County, NY"	"36103"	"55-64 years"	"55-64"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	15	83362	Unreliable
+	"Suffolk County, NY"	"36103"	"55-64 years"	"55-64"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	34	77762	43.7
+	"Suffolk County, NY"	"36103"	"55-64 years"	"55-64"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	19	86082	Unreliable
+	"Suffolk County, NY"	"36103"	"55-64 years"	"55-64"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	42	80993	51.9
+	"Suffolk County, NY"	"36103"	"55-64 years"	"55-64"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	28	86119	32.5
+	"Suffolk County, NY"	"36103"	"55-64 years"	"55-64"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	40	81693	49.0
+	"Suffolk County, NY"	"36103"	"55-64 years"	"55-64"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	24	87765	27.3
+	"Suffolk County, NY"	"36103"	"55-64 years"	"55-64"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	58	84022	69.0
+	"Suffolk County, NY"	"36103"	"55-64 years"	"55-64"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	15	89477	Unreliable
+	"Suffolk County, NY"	"36103"	"55-64 years"	"55-64"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	41	86436	47.4
+	"Suffolk County, NY"	"36103"	"55-64 years"	"55-64"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	12	91722	Unreliable
+	"Suffolk County, NY"	"36103"	"55-64 years"	"55-64"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	42	88971	47.2
+	"Suffolk County, NY"	"36103"	"55-64 years"	"55-64"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	30	93961	31.9
+	"Suffolk County, NY"	"36103"	"55-64 years"	"55-64"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	66	90931	72.6
+	"Suffolk County, NY"	"36103"	"65-74 years"	"65-74"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	11	46710	Unreliable
+	"Suffolk County, NY"	"36103"	"65-74 years"	"65-74"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	13	58914	Unreliable
+	"Suffolk County, NY"	"36103"	"65-74 years"	"65-74"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	11	50015	Unreliable
+	"Suffolk County, NY"	"36103"	"65-74 years"	"65-74"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	11	52221	Unreliable
+	"Suffolk County, NY"	"36103"	"65-74 years"	"65-74"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	16	53868	Unreliable
+	"Suffolk County, NY"	"36103"	"65-74 years"	"65-74"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	16	55655	Unreliable
+	"Suffolk County, NY"	"36103"	"65-74 years"	"65-74"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	22	57190	38.5
+	"Ulster County, NY"	"36111"	"25-34 years"	"25-34"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	18	9651	Unreliable
+	"Ulster County, NY"	"36111"	"35-44 years"	"35-44"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	10	10313	Unreliable
+	"Ulster County, NY"	"36111"	"35-44 years"	"35-44"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	12	8908	Unreliable
+	"Westchester County, NY"	"36119"	"15-24 years"	"15-24"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	10	45519	Unreliable
+	"Westchester County, NY"	"36119"	"15-24 years"	"15-24"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	14	47719	Unreliable
+	"Westchester County, NY"	"36119"	"15-24 years"	"15-24"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	11	47905	Unreliable
+	"Westchester County, NY"	"36119"	"25-34 years"	"25-34"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	21	40283	52.1
+	"Westchester County, NY"	"36119"	"25-34 years"	"25-34"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	26	40309	64.5
+	"Westchester County, NY"	"36119"	"25-34 years"	"25-34"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	11	39880	Unreliable
+	"Westchester County, NY"	"36119"	"25-34 years"	"25-34"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	16	39629	Unreliable
+	"Westchester County, NY"	"36119"	"25-34 years"	"25-34"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	10	37065	Unreliable
+	"Westchester County, NY"	"36119"	"25-34 years"	"25-34"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	32	38905	82.3
+	"Westchester County, NY"	"36119"	"35-44 years"	"35-44"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	49130	Unreliable
+	"Westchester County, NY"	"36119"	"35-44 years"	"35-44"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	17	48204	Unreliable
+	"Westchester County, NY"	"36119"	"35-44 years"	"35-44"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	13	46947	Unreliable
+	"Westchester County, NY"	"36119"	"35-44 years"	"35-44"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	12	46270	Unreliable
+	"Westchester County, NY"	"36119"	"35-44 years"	"35-44"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	15	45696	Unreliable
+	"Westchester County, NY"	"36119"	"35-44 years"	"35-44"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	20	44919	44.5
+	"Westchester County, NY"	"36119"	"45-54 years"	"45-54"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	20	57031	35.1
+	"Westchester County, NY"	"36119"	"45-54 years"	"45-54"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	19	56822	Unreliable
+	"Westchester County, NY"	"36119"	"45-54 years"	"45-54"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	28	56326	49.7
+	"Westchester County, NY"	"36119"	"45-54 years"	"45-54"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	26	56106	46.3
+	"Westchester County, NY"	"36119"	"45-54 years"	"45-54"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	13	57278	Unreliable
+	"Westchester County, NY"	"36119"	"45-54 years"	"45-54"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	24	55732	43.1
+	"Westchester County, NY"	"36119"	"45-54 years"	"45-54"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	23	55368	41.5
+	"Westchester County, NY"	"36119"	"45-54 years"	"45-54"	"2016"	"2016"	"Female"	"F"	"White"	"2106-3"	13	55476	Unreliable
+	"Westchester County, NY"	"36119"	"45-54 years"	"45-54"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	29	54110	53.6
+	"Westchester County, NY"	"36119"	"55-64 years"	"55-64"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	44275	Unreliable
+	"Westchester County, NY"	"36119"	"55-64 years"	"55-64"	"2011"	"2011"	"Female"	"F"	"White"	"2106-3"	11	49573	Unreliable
+	"Westchester County, NY"	"36119"	"55-64 years"	"55-64"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	17	45850	Unreliable
+	"Westchester County, NY"	"36119"	"55-64 years"	"55-64"	"2012"	"2012"	"Female"	"F"	"White"	"2106-3"	10	49924	Unreliable
+	"Westchester County, NY"	"36119"	"55-64 years"	"55-64"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	15	46334	Unreliable
+	"Westchester County, NY"	"36119"	"55-64 years"	"55-64"	"2013"	"2013"	"Female"	"F"	"White"	"2106-3"	13	50778	Unreliable
+	"Westchester County, NY"	"36119"	"55-64 years"	"55-64"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	24	47348	50.7
+	"Westchester County, NY"	"36119"	"55-64 years"	"55-64"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	16	48225	Unreliable
+	"Westchester County, NY"	"36119"	"55-64 years"	"55-64"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	16	49179	Unreliable
+	"Westchester County, NY"	"36119"	"55-64 years"	"55-64"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	16	49802	Unreliable
+	"Westchester County, NY"	"36119"	"65-74 years"	"65-74"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	12	29994	Unreliable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2016"
+"Query Parameters:"
+"Title:"
+"2013 Urbanization: All"
+"Autopsy: All"
+"Gender: All"
+"Hispanic Origin: All"
+"MCD - Drug/Alcohol Induced Causes: Drug-induced causes, Alcohol-induced causes"
+"Place of Death: All"
+"Race: All"
+"States: New York (36)"
+"Ten-Year Age Groups: 5-14 years, 15-24 years, 25-34 years, 35-44 years, 45-54 years, 55-64 years, 65-74 years, 75-84 years, 85+"
+"years"
+"UCD - Drug/Alcohol Induced Causes: Drug-induced causes, Alcohol-induced causes"
+"Weekday: All"
+"Year/Month: 2010, 2011, 2012, 2013, 2014, 2015, 2016"
+"Group By: County, Ten-Year Age Groups, Year, Gender, Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Apr 8, 2018 1:42:46 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2016 on CDC WONDER Online Database, released December, 2017. Data are from the Multiple Cause of Death Files, 1999-2016, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Apr 8, 2018 1:42:46 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"5. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Racial Differences."
+"6. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016"
+"postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for"
+"year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS"
+"on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013."
+"Population figures for 2011 are bridged-race estimates of the July 1 resident population, from the county-level postcensal"
+"Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population"
+"figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident population, from the revised intercensal"
+"county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts."
+"Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for Infant Age"
+"Groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from"
+"previously published reports, due to use of the population estimates which were available at the time of release."

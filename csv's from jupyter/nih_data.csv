@@ -1,0 +1,341 @@
+,Year,Drug Category,Number of Overdose Deaths,Gender
+5,1999,Heroin,306,Female
+8,1999,Synthetic Opioids other than Methadone,330,Female
+8,1999,Synthetic Opioids other than Methadone,400,Male
+2,1999,Benzodiazepines,420,Female
+9,1999,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),632,Female
+2,1999,Benzodiazepines,715,Male
+4,1999,Cocaine,850,Female
+3,1999,Illicit Drugs,1190,Female
+1,1999,Opioid Pain Relievers,1287,Female
+7,1999,Opioid Pain Relievers other than synthetic opioids,1578,Female
+5,1999,Heroin,1654,Male
+9,1999,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),2043,Male
+6,1999,Opioids,2057,Female
+1,1999,Opioid Pain Relievers,2743,Male
+4,1999,Cocaine,2972,Male
+0,1999,Prescription Drugs,3011,Female
+3,1999,Illicit Drugs,4440,Male
+0,1999,Prescription Drugs,4512,Male
+7,1999,Opioid Pain Relievers other than synthetic opioids,4580,Male
+6,1999,Opioids,5991,Male
+15,2000,Heroin,279,Female
+18,2000,Synthetic Opioids other than Methadone,374,Female
+18,2000,Synthetic Opioids other than Methadone,408,Male
+12,2000,Benzodiazepines,480,Female
+19,2000,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),646,Female
+12,2000,Benzodiazepines,818,Male
+14,2000,Cocaine,843,Female
+13,2000,Illicit Drugs,1164,Female
+11,2000,Opioid Pain Relievers,1534,Female
+15,2000,Heroin,1563,Male
+17,2000,Opioid Pain Relievers other than synthetic opioids,1773,Female
+19,2000,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),1960,Male
+16,2000,Opioids,2264,Female
+14,2000,Cocaine,2701,Male
+11,2000,Opioid Pain Relievers,2866,Male
+10,2000,Prescription Drugs,3196,Female
+13,2000,Illicit Drugs,4145,Male
+10,2000,Prescription Drugs,4689,Male
+17,2000,Opioid Pain Relievers other than synthetic opioids,4689,Male
+16,2000,Opioids,6143,Male
+25,2001,Heroin,313,Female
+28,2001,Synthetic Opioids other than Methadone,447,Female
+28,2001,Synthetic Opioids other than Methadone,510,Male
+22,2001,Benzodiazepines,614,Female
+29,2001,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),756,Female
+24,2001,Cocaine,957,Female
+22,2001,Benzodiazepines,980,Male
+23,2001,Illicit Drugs,1284,Female
+25,2001,Heroin,1466,Male
+29,2001,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),1965,Male
+21,2001,Opioid Pain Relievers,1969,Female
+27,2001,Opioid Pain Relievers other than synthetic opioids,2176,Female
+26,2001,Opioids,2766,Female
+24,2001,Cocaine,2876,Male
+21,2001,Opioid Pain Relievers,3559,Male
+20,2001,Prescription Drugs,3790,Female
+23,2001,Illicit Drugs,4272,Male
+27,2001,Opioid Pain Relievers other than synthetic opioids,5213,Male
+20,2001,Prescription Drugs,5407,Male
+26,2001,Opioids,6726,Male
+35,2002,Heroin,359,Female
+38,2002,Synthetic Opioids other than Methadone,614,Female
+38,2002,Synthetic Opioids other than Methadone,681,Male
+32,2002,Benzodiazepines,763,Female
+39,2002,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),968,Female
+34,2002,Cocaine,1143,Female
+32,2002,Benzodiazepines,1259,Male
+33,2002,Illicit Drugs,1627,Female
+35,2002,Heroin,1730,Male
+39,2002,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),2401,Male
+31,2002,Opioid Pain Relievers,2761,Female
+37,2002,Opioid Pain Relievers other than synthetic opioids,3030,Female
+34,2002,Cocaine,3456,Male
+36,2002,Opioids,3759,Female
+31,2002,Opioid Pain Relievers,4695,Male
+30,2002,Prescription Drugs,4765,Female
+33,2002,Illicit Drugs,5211,Male
+37,2002,Opioid Pain Relievers other than synthetic opioids,6319,Male
+30,2002,Prescription Drugs,6764,Male
+36,2002,Opioids,8158,Male
+45,2003,Heroin,358,Female
+48,2003,Synthetic Opioids other than Methadone,643,Female
+48,2003,Synthetic Opioids other than Methadone,757,Male
+42,2003,Benzodiazepines,885,Female
+49,2003,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),998,Female
+44,2003,Cocaine,1322,Female
+42,2003,Benzodiazepines,1363,Male
+45,2003,Heroin,1722,Male
+43,2003,Illicit Drugs,1854,Female
+49,2003,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),2466,Male
+41,2003,Opioid Pain Relievers,3173,Female
+47,2003,Opioid Pain Relievers other than synthetic opioids,3360,Female
+44,2003,Cocaine,3877,Male
+46,2003,Opioids,4137,Female
+40,2003,Prescription Drugs,5191,Female
+41,2003,Opioid Pain Relievers,5344,Male
+43,2003,Illicit Drugs,5799,Male
+47,2003,Opioid Pain Relievers other than synthetic opioids,6906,Male
+40,2003,Prescription Drugs,7449,Male
+46,2003,Opioids,8802,Male
+55,2004,Heroin,341,Female
+58,2004,Synthetic Opioids other than Methadone,798,Female
+58,2004,Synthetic Opioids other than Methadone,866,Male
+52,2004,Benzodiazepines,1079,Female
+59,2004,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),1133,Female
+54,2004,Cocaine,1405,Female
+55,2004,Heroin,1537,Male
+52,2004,Benzodiazepines,1548,Male
+53,2004,Illicit Drugs,2001,Female
+59,2004,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),2396,Male
+51,2004,Opioid Pain Relievers,3758,Female
+57,2004,Opioid Pain Relievers other than synthetic opioids,3767,Female
+54,2004,Cocaine,4038,Male
+56,2004,Opioids,4642,Female
+53,2004,Illicit Drugs,5910,Male
+50,2004,Prescription Drugs,5980,Female
+51,2004,Opioid Pain Relievers,6099,Male
+57,2004,Opioid Pain Relievers other than synthetic opioids,7233,Male
+50,2004,Prescription Drugs,8173,Male
+56,2004,Opioids,9113,Male
+65,2005,Heroin,389,Female
+68,2005,Synthetic Opioids other than Methadone,823,Female
+68,2005,Synthetic Opioids other than Methadone,919,Male
+69,2005,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),1203,Female
+62,2005,Benzodiazepines,1209,Female
+64,2005,Cocaine,1620,Female
+65,2005,Heroin,1620,Male
+62,2005,Benzodiazepines,1875,Male
+63,2005,Illicit Drugs,2251,Female
+69,2005,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),2514,Male
+61,2005,Opioid Pain Relievers,4188,Female
+67,2005,Opioid Pain Relievers other than synthetic opioids,4265,Female
+64,2005,Cocaine,4588,Male
+66,2005,Opioids,5161,Female
+60,2005,Prescription Drugs,6351,Female
+63,2005,Illicit Drugs,6672,Male
+61,2005,Opioid Pain Relievers,6740,Male
+67,2005,Opioid Pain Relievers other than synthetic opioids,7803,Male
+60,2005,Prescription Drugs,9001,Male
+66,2005,Opioids,9756,Male
+75,2006,Heroin,344,Female
+78,2006,Synthetic Opioids other than Methadone,1030,Female
+79,2006,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),1349,Female
+72,2006,Benzodiazepines,1472,Female
+78,2006,Synthetic Opioids other than Methadone,1677,Male
+75,2006,Heroin,1744,Male
+74,2006,Cocaine,1860,Female
+72,2006,Benzodiazepines,2363,Male
+73,2006,Illicit Drugs,2456,Female
+79,2006,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),3333,Male
+77,2006,Opioid Pain Relievers other than synthetic opioids,4924,Female
+71,2006,Opioid Pain Relievers,5058,Female
+74,2006,Cocaine,5588,Male
+76,2006,Opioids,5945,Female
+70,2006,Prescription Drugs,7553,Female
+73,2006,Illicit Drugs,7583,Male
+71,2006,Opioid Pain Relievers,8665,Male
+77,2006,Opioid Pain Relievers other than synthetic opioids,9065,Male
+70,2006,Prescription Drugs,11006,Male
+76,2006,Opioids,11600,Male
+85,2007,Heroin,399,Female
+88,2007,Synthetic Opioids other than Methadone,1053,Female
+88,2007,Synthetic Opioids other than Methadone,1160,Male
+89,2007,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),1449,Female
+84,2007,Cocaine,1665,Female
+82,2007,Benzodiazepines,1894,Female
+85,2007,Heroin,2000,Male
+83,2007,Illicit Drugs,2301,Female
+82,2007,Benzodiazepines,2606,Male
+89,2007,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),3150,Male
+84,2007,Cocaine,4847,Male
+87,2007,Opioid Pain Relievers other than synthetic opioids,5528,Female
+81,2007,Opioid Pain Relievers,5630,Female
+86,2007,Opioids,6581,Female
+83,2007,Illicit Drugs,7117,Male
+80,2007,Prescription Drugs,8251,Female
+81,2007,Opioid Pain Relievers,8778,Male
+87,2007,Opioid Pain Relievers other than synthetic opioids,9518,Male
+80,2007,Prescription Drugs,11350,Male
+86,2007,Opioids,11934,Male
+95,2008,Heroin,551,Female
+98,2008,Synthetic Opioids other than Methadone,1083,Female
+98,2008,Synthetic Opioids other than Methadone,1223,Male
+94,2008,Cocaine,1322,Female
+99,2008,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),1621,Female
+92,2008,Benzodiazepines,2046,Female
+93,2008,Illicit Drugs,2055,Female
+95,2008,Heroin,2490,Male
+92,2008,Benzodiazepines,2964,Male
+99,2008,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),3698,Male
+94,2008,Cocaine,3807,Male
+97,2008,Opioid Pain Relievers other than synthetic opioids,5628,Female
+91,2008,Opioid Pain Relievers,5733,Female
+93,2008,Illicit Drugs,6557,Male
+96,2008,Opioids,6819,Female
+90,2008,Prescription Drugs,8275,Female
+91,2008,Opioid Pain Relievers,9067,Male
+97,2008,Opioid Pain Relievers other than synthetic opioids,9932,Male
+90,2008,Prescription Drugs,11769,Male
+96,2008,Opioids,12763,Male
+105,2009,Heroin,577,Female
+104,2009,Cocaine,1141,Female
+108,2009,Synthetic Opioids other than Methadone,1445,Female
+108,2009,Synthetic Opioids other than Methadone,1501,Male
+109,2009,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),2012,Female
+103,2009,Illicit Drugs,2043,Female
+102,2009,Benzodiazepines,2281,Female
+105,2009,Heroin,2701,Male
+104,2009,Cocaine,3209,Male
+102,2009,Benzodiazepines,3286,Male
+109,2009,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),4183,Male
+107,2009,Opioid Pain Relievers other than synthetic opioids,5865,Female
+101,2009,Opioid Pain Relievers,6213,Female
+103,2009,Illicit Drugs,6403,Male
+106,2009,Opioids,7287,Female
+100,2009,Prescription Drugs,8740,Female
+101,2009,Opioid Pain Relievers,9384,Male
+107,2009,Opioid Pain Relievers other than synthetic opioids,9935,Male
+100,2009,Prescription Drugs,12108,Male
+106,2009,Opioids,13135,Male
+115,2010,Heroin,584,Female
+114,2010,Cocaine,1132,Female
+118,2010,Synthetic Opioids other than Methadone,1440,Female
+118,2010,Synthetic Opioids other than Methadone,1567,Male
+119,2010,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),2016,Female
+113,2010,Illicit Drugs,2159,Female
+115,2010,Heroin,2452,Male
+112,2010,Benzodiazepines,2579,Female
+114,2010,Cocaine,3051,Male
+112,2010,Benzodiazepines,3918,Male
+119,2010,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),3982,Male
+113,2010,Illicit Drugs,6249,Male
+117,2010,Opioid Pain Relievers other than synthetic opioids,6308,Female
+111,2010,Opioid Pain Relievers,6631,Female
+116,2010,Opioids,7733,Female
+110,2010,Prescription Drugs,9292,Female
+111,2010,Opioid Pain Relievers,10020,Male
+117,2010,Opioid Pain Relievers other than synthetic opioids,10347,Male
+110,2010,Prescription Drugs,12842,Male
+116,2010,Opioids,13355,Male
+125,2011,Heroin,878,Female
+128,2011,Synthetic Opioids other than Methadone,1247,Female
+124,2011,Cocaine,1314,Female
+128,2011,Synthetic Opioids other than Methadone,1419,Male
+129,2011,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),2114,Female
+123,2011,Illicit Drugs,2636,Female
+122,2011,Benzodiazepines,2902,Female
+124,2011,Cocaine,3367,Male
+125,2011,Heroin,3519,Male
+122,2011,Benzodiazepines,3970,Male
+129,2011,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),4905,Male
+127,2011,Opioid Pain Relievers other than synthetic opioids,6834,Female
+121,2011,Opioid Pain Relievers,6903,Female
+123,2011,Illicit Drugs,7648,Male
+126,2011,Opioids,8325,Female
+120,2011,Prescription Drugs,9771,Female
+121,2011,Opioid Pain Relievers,10014,Male
+127,2011,Opioid Pain Relievers other than synthetic opioids,10718,Male
+120,2011,Prescription Drugs,13039,Male
+126,2011,Opioids,14459,Male
+138,2012,Synthetic Opioids other than Methadone,1195,Female
+135,2012,Heroin,1213,Female
+134,2012,Cocaine,1262,Female
+138,2012,Synthetic Opioids other than Methadone,1433,Male
+139,2012,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),2389,Female
+132,2012,Benzodiazepines,2789,Female
+133,2012,Illicit Drugs,2957,Female
+134,2012,Cocaine,3142,Male
+132,2012,Benzodiazepines,3735,Male
+135,2012,Heroin,4712,Male
+139,2012,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),6095,Male
+137,2012,Opioid Pain Relievers other than synthetic opioids,6743,Female
+131,2012,Opioid Pain Relievers,6745,Female
+136,2012,Opioids,8431,Female
+133,2012,Illicit Drugs,8684,Male
+131,2012,Opioid Pain Relievers,9262,Male
+130,2012,Prescription Drugs,9632,Female
+137,2012,Opioid Pain Relievers other than synthetic opioids,9909,Male
+130,2012,Prescription Drugs,12482,Male
+136,2012,Opioids,14733,Male
+144,2013,Cocaine,1376,Female
+148,2013,Synthetic Opioids other than Methadone,1431,Female
+148,2013,Synthetic Opioids other than Methadone,1674,Male
+145,2013,Heroin,1732,Female
+142,2013,Benzodiazepines,3026,Female
+149,2013,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),3105,Female
+144,2013,Cocaine,3568,Male
+143,2013,Illicit Drugs,3707,Female
+142,2013,Benzodiazepines,3947,Male
+145,2013,Heroin,6525,Male
+147,2013,Opioid Pain Relievers other than synthetic opioids,6796,Female
+141,2013,Opioid Pain Relievers,6992,Female
+149,2013,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),8048,Male
+146,2013,Opioids,9054,Female
+141,2013,Opioid Pain Relievers,9243,Male
+147,2013,Opioid Pain Relievers other than synthetic opioids,9647,Male
+140,2013,Prescription Drugs,10019,Female
+143,2013,Illicit Drugs,11068,Male
+140,2013,Prescription Drugs,12748,Male
+146,2013,Opioids,15996,Male
+154,2014,Cocaine,1535,Female
+158,2014,Synthetic Opioids other than Methadone,2079,Female
+155,2014,Heroin,2414,Female
+158,2014,Synthetic Opioids other than Methadone,3465,Male
+152,2014,Benzodiazepines,3487,Female
+154,2014,Cocaine,3880,Male
+159,2014,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),4218,Female
+152,2014,Benzodiazepines,4458,Male
+153,2014,Illicit Drugs,4472,Female
+157,2014,Opioid Pain Relievers other than synthetic opioids,7143,Female
+151,2014,Opioid Pain Relievers,7924,Female
+155,2014,Heroin,8160,Male
+157,2014,Opioid Pain Relievers other than synthetic opioids,9798,Male
+156,2014,Opioids,10227,Female
+159,2014,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),10873,Male
+151,2014,Opioid Pain Relievers,10969,Male
+150,2014,Prescription Drugs,11181,Female
+153,2014,Illicit Drugs,12993,Male
+150,2014,Prescription Drugs,14579,Male
+156,2014,Opioids,18420,Male
+164,2015,Cocaine,1899,Female
+168,2015,Synthetic Opioids other than Methadone,3020,Female
+165,2015,Heroin,3108,Female
+162,2015,Benzodiazepines,3779,Female
+164,2015,Cocaine,4885,Male
+162,2015,Benzodiazepines,5012,Male
+169,2015,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),5458,Female
+163,2015,Illicit Drugs,5770,Female
+168,2015,Synthetic Opioids other than Methadone,6560,Male
+167,2015,Opioid Pain Relievers other than synthetic opioids,7429,Female
+161,2015,Opioid Pain Relievers,8786,Female
+165,2015,Heroin,9881,Male
+167,2015,Opioid Pain Relievers other than synthetic opioids,10107,Male
+166,2015,Opioids,11420,Female
+160,2015,Prescription Drugs,12218,Female
+161,2015,Opioid Pain Relievers,13812,Male
+169,2015,Illicit Opioids (Heroin and Synthetic Opioids other than Methadone),14426,Male
+163,2015,Illicit Drugs,16053,Male
+160,2015,Prescription Drugs,17510,Male
+166,2015,Opioids,21671,Male
